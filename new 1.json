@@ -1,1 +1,8909 @@
-[{"pron":["","Bahana ana"],"bn":"বহন অন","en":"carry-on","bn_syns":[],"en_syns":[],"sents":["And it can be attached to purses, laptops, \u003cb\u003ecarry-ons\u003c/b\u003e , and suitcases.","Though the no-bags option is an appealing one, I think I'll stick to \u003cb\u003ecarry-on\u003c/b\u003e luggage."]},{"pron":["ˈkarē","Bahana"],"bn":"বহন","en":"carry","bn_syns":["বয়ে নিয়ে যাওয়া","বহন করা","টানা","বহিয়া লইয়া যাত্তয়া","সংবাহন করা","ধারণ করা","ভারবহন করা","ঘটান","নেত্তয়া","লত্তয়া","বলপূর্বক অধিকার করা","জের টানা","আচরণ করা","দেহভঙ্গি করা","গর্ভবতী হত্তয়া","পৌঁছাইয়া দেত্তয়া","পৌঁছান","লাভ করা","প্রকাশ করা","প্রসারিত হত্তয়া","বহা","ব্যাপ্ত হত্তয়া","বহন"],"en_syns":["convey","transfer","move","take","bring","bear","lug","tote","fetch","cart"],"sents":["Now, large supermarkets \u003cb\u003ecarry\u003c/b\u003e as many as 20,000 different food items on their shelves.","A few newspapers did \u003cb\u003ecarry\u003c/b\u003e the story but wildly distorted the facts, greatly upsetting the brothers."]}]
+[{
+		"pron": [
+			"",
+			"Bahana ana"
+		],
+		"bn": "বহন অন",
+		"en": "carry-on",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"And it can be attached to purses, laptops, <b>carry-ons</b> , and suitcases.",
+			"Though the no-bags option is an appealing one, I think I'll stick to <b>carry-on</b> luggage."
+		]
+	},
+	{
+		"pron": [
+			"ˈkarē",
+			"Bahana"
+		],
+		"bn": "বহন",
+		"en": "carry",
+		"bn_syns": [
+			"বয়ে নিয়ে যাওয়া",
+			"বহন করা",
+			"টানা",
+			"বহিয়া লইয়া যাত্তয়া",
+			"সংবাহন করা",
+			"ধারণ করা",
+			"ভারবহন করা",
+			"ঘটান",
+			"নেত্তয়া",
+			"লত্তয়া",
+			"বলপূর্বক অধিকার করা",
+			"জের টানা",
+			"আচরণ করা",
+			"দেহভঙ্গি করা",
+			"গর্ভবতী হত্তয়া",
+			"পৌঁছাইয়া দেত্তয়া",
+			"পৌঁছান",
+			"লাভ করা",
+			"প্রকাশ করা",
+			"প্রসারিত হত্তয়া",
+			"বহা",
+			"ব্যাপ্ত হত্তয়া",
+			"বহন"
+		],
+		"en_syns": [
+			"convey",
+			"transfer",
+			"move",
+			"take",
+			"bring",
+			"bear",
+			"lug",
+			"tote",
+			"fetch",
+			"cart"
+		],
+		"sents": [
+			"Now, large supermarkets <b>carry</b> as many as 20,000 different food items on their shelves.",
+			"A few newspapers did <b>carry</b> the story but wildly distorted the facts, greatly upsetting the brothers."
+		]
+	},
+	{
+		"pron": [
+			"ˈkarət",
+			"Gājara"
+		],
+		"bn": "গাজর",
+		"en": "carrot",
+		"bn_syns": [
+			"গাজর"
+		],
+		"en_syns": [],
+		"sents": [
+			"The club has grown a wide variety of vegetables and herbs including <b>carrots</b> , Brussels sprouts and beetroot, as well as tomatoes and cucumbers in the greenhouse.",
+			"Once grown, the plants are difficult to transplant because of their long taproots - parsley is in the <b>carrot</b> family."
+		]
+	},
+	{
+		"pron": [
+			"ˈkarēər",
+			"Bāhaka"
+		],
+		"bn": "বাহক",
+		"en": "carrier",
+		"bn_syns": [
+			"বহনকারী",
+			"জঙ্গী বিমান",
+			"বাহক",
+			"সংবাহক",
+			"গাড়ী",
+			"মুটে",
+			"বেয়ারা",
+			"ধারয়িতা",
+			"বরদার"
+		],
+		"en_syns": [
+			"bearer",
+			"conveyor",
+			"transporter",
+			"shipper",
+			"courier",
+			"hauler",
+			"porter"
+		],
+		"sents": [
+			"Case Slick uses an alcohol <b>carrier</b> that evaporates and leaves just a little lube on the case.",
+			"In contrast, the sea waybill is only a contract of carriage whereby the <b>carrier</b> undertakes to deliver the cargo to the person identified by the shipper as entitled to take delivery of the cargo."
+		]
+	},
+	{
+		"pron": [
+			"ˈkarij",
+			"Bahana"
+		],
+		"bn": "বহন",
+		"en": "carriage",
+		"bn_syns": [
+			"পরিবহন",
+			"ঘোড়ার গাড়ি",
+			"বহন",
+			"রেলগাড়ির কামরা",
+			"বহনমূল্য",
+			"চক্রযুক্ত যান",
+			"সত্তয়ারি"
+		],
+		"en_syns": [
+			"coach",
+			"car",
+			"passenger car",
+			"flatcar",
+			"boxcar"
+		],
+		"sents": [
+			"Yesterday she took the child in a baby <b>carriage</b> to the Sisters of St. Barnabas.",
+			"Even as I watched, the metal gate about thirty yards away from me swung open and a <b>carriage</b> pulled by four brown horses entered."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Gāṛī - pula"
+		],
+		"bn": "গাড়ী - পুল",
+		"en": "car-pool",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkärˌpo͞ol",
+			"Gāṛī pula"
+		],
+		"bn": "গাড়ী পুল",
+		"en": "car pool",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"Apparently she was in my <b>carpool</b> to and from high school for a year.",
+			"Older kids walk with younger ones, groups of kids bike together, <b>carpools</b> help create social networks of parents who know and trust each other."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärpitiNG",
+			"Kārpēṭē ābaraṇa"
+		],
+		"bn": "কার্পেটে আবরণ",
+		"en": "carpeting",
+		"bn_syns": [
+			"কার্পেটে আবরণ"
+		],
+		"en_syns": [
+			"cover",
+			"coat",
+			"overlay",
+			"overspread",
+			"blanket",
+			"carpet",
+			"rug"
+		],
+		"sents": [
+			"Now the seating and <b>carpeting</b> has been done, it makes you feel that you should take off your shoes when entering the theatre.",
+			"I pulled my mother's flannel robe around me and concentrated on the orange industrial <b>carpeting</b> ."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Carpeted"
+		],
+		"bn": "carpeted",
+		"en": "carpeted",
+		"bn_syns": [],
+		"en_syns": [
+			"cover",
+			"coat",
+			"overlay",
+			"overspread",
+			"blanket"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkärpit",
+			"Gālicā"
+		],
+		"bn": "গালিচা",
+		"en": "carpet",
+		"bn_syns": [
+			"কারপেট",
+			"গালিচা",
+			"কার্পেট",
+			"আস্তরণ",
+			"শতরঁচি",
+			"আস্তর"
+		],
+		"en_syns": [
+			"cover",
+			"coat",
+			"overlay",
+			"overspread",
+			"blanket",
+			"rug",
+			"mat",
+			"floor covering"
+		],
+		"sents": [
+			"The living room was <b>carpeted</b> in pink and 2 beige sofas with blue pillows lined the corner.",
+			"We had to rip up wooden floors, as well as floors that had <b>carpet</b> or other covering."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärpəntrē",
+			"Takṣaṇa"
+		],
+		"bn": "তক্ষণ",
+		"en": "carpentry",
+		"bn_syns": [
+			"ছুতোরের কাজ",
+			"তক্ষণ",
+			"ছুতারের কাজ",
+			"ছুতারগিরি"
+		],
+		"en_syns": [
+			"woodworking",
+			"woodwork"
+		],
+		"sents": [
+			"When working with pressure-treated lumber, use the same types of precautions as you would with any other <b>carpentry</b> and woodworking processes.",
+			"Reed did a bit of quick <b>carpentry</b> to repair the breaks, lashing them back together with something the Vikings could have used, duct tape."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärpəntər",
+			"Sūtradhara"
+		],
+		"bn": "সূত্রধর",
+		"en": "carpenter",
+		"bn_syns": [
+			"ছুতার",
+			"সূত্রধর",
+			"ছুতারমিস্ত্রী",
+			"তক্ষক",
+			"সূত্রধার",
+			"ছুতোর"
+		],
+		"en_syns": [
+			"woodworker",
+			"cabinetmaker"
+		],
+		"sents": [
+			"This was built over a period of 40 days by a 300 strong force of labourers, <b>carpenters</b> , joiners and artists.",
+			"You don't need to be a master <b>carpenter</b> , but some basic carpentry skills are required."
+		]
+	},
+	{
+		"pron": [
+			"kärp",
+			"Dōṣārōpa karā"
+		],
+		"bn": "দোষারোপ করা",
+		"en": "carp",
+		"bn_syns": [
+			"পোনামাছ",
+			"ছিদ্রান্বেষণ করা",
+			"খচখচ্ করা",
+			"দোষারোপ করা",
+			"পোনা মাছ",
+			"অভিযোগের সুরে কথা বলা"
+		],
+		"en_syns": [
+			"complain",
+			"cavil",
+			"grumble",
+			"grouse",
+			"whine",
+			"bleat",
+			"nag",
+			"gripe",
+			"grouch",
+			"beef",
+			"bellyache",
+			"moan",
+			"bitch",
+			"whinge",
+			"kvetch"
+		],
+		"sents": [
+			"Again there are good fish in this section with some very big <b>carp</b> and chub.",
+			"The European <b>carp</b> and trout have driven many native species of fish from our streams."
+		]
+	},
+	{
+		"pron": [
+			"ˈkarəˌsel,ˌkarəˈsel",
+			"Carousel"
+		],
+		"bn": "carousel",
+		"en": "carousel",
+		"bn_syns": [],
+		"en_syns": [
+			"carrousel"
+		],
+		"sents": [
+			"The <b>carousel</b> was just a few feet from the wide front door of the store, which people traveling through the mall passed by all day long.",
+			"Nick soon becomes a multi-millionaire, purchasing everything from his own golf course to a <b>carousel</b> ."
+		]
+	},
+	{
+		"pron": [
+			"kəˈrouz",
+			"Madyapānōtsaba"
+		],
+		"bn": "মদ্যপানোত্সব",
+		"en": "carouse",
+		"bn_syns": [
+			"প্রচুর পরিমাণে মদ খাওয়া",
+			"হৈচৈ করিয়া অবাধে মদ্যপান করা",
+			"হল্লা",
+			"মদ্যপান উত্সব",
+			"মদ্যপানোত্সব",
+			"হুল্লোড়",
+			"মদ্যপানোত্সব করা",
+			"মদ্যপান-প্রতিযোগিতা"
+		],
+		"en_syns": [
+			"drink and make merry",
+			"go on a drinking bout",
+			"go on a spree",
+			"revel",
+			"celebrate",
+			"roister",
+			"party",
+			"booze",
+			"go boozing",
+			"binge",
+			"go on a binge",
+			"go on a bender",
+			"paint the town red",
+			"rave",
+			"whoop it up",
+			"wassail",
+			"toot",
+			"bender",
+			"carousal",
+			"booze-up"
+		],
+		"sents": [
+			"There was the opportunity to continue drinking and <b>carousing</b> , but I'd had enough.",
+			"He wasn't the <b>carouser</b> and the party animal that people thought."
+		]
+	},
+	{
+		"pron": [
+			"ˈkarəl",
+			"Saṅkīrtana"
+		],
+		"bn": "সংকীর্তন",
+		"en": "carol",
+		"bn_syns": [
+			"আনন্দময় গান",
+			"স্তুতি গান করা",
+			"আনন্দে গান করা",
+			"সংকীর্তন",
+			"ভজন",
+			"আনন্দে গান"
+		],
+		"en_syns": [
+			"Christmas song",
+			"hymn",
+			"canticle"
+		],
+		"sents": [
+			"We would watch those popular Christmas movies and sing Christmas <b>carols</b> .",
+			"This week we will look at a classic story - the much-loved Wind in the Willows - which has a delightful Christmas excerpt featuring tiny mouse <b>carolers</b> ."
+		]
+	},
+	{
+		"pron": [
+			"kärˈnivərəs",
+			"Mānsāśī"
+		],
+		"bn": "মাংসাশী",
+		"en": "carnivorous",
+		"bn_syns": [
+			"আমিষভুক",
+			"মাংসাশী",
+			"কীটভূক্",
+			"কীটভোজী"
+		],
+		"en_syns": [
+			"meat-eating",
+			"flesh-eating",
+			"predatory",
+			"raptorial",
+			"zoophagous",
+			"creophagous"
+		],
+		"sents": [
+			"As it turned out, it was a pretty cool garden centre, full of <b>carnivorous</b> plants and little neon blue fish.",
+			"Filmed in Japan, this tells the story of mad scientist Dr. Bragan who develops a giant <b>carnivorous</b> plant that walks like a man."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärnəˌvôr",
+			"Mānsāśī"
+		],
+		"bn": "মাংসাশী",
+		"en": "carnivore",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"But wildlife experts believe that the pine marten - the second-rarest <b>carnivore</b> in Britain after the wild cat - has returned to the North York Moors.",
+			"In their turn the herbivores are eaten by <b>carnivores</b> or by scavengers and, eventually, all organisms are broken down by bacteria into nutrients that return to the environment."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärnəvəl",
+			"Kārnibhālēra"
+		],
+		"bn": "কার্নিভালের",
+		"en": "carnival",
+		"bn_syns": [
+			"রোমান ক্যাথলিকদের উৎসব",
+			"ভ্রাম্যমাণ আনন্দমেলা",
+			"অবাধ আন্দোত্সব"
+		],
+		"en_syns": [
+			"festival",
+			"fiesta",
+			"fête",
+			"gala",
+			"jamboree",
+			"celebration",
+			"fest"
+		],
+		"sents": [
+			"The village will be busy with range of events, culminating with the <b>carnival</b> fête and procession on June 26.",
+			"he worked at a <b>carnival</b>, climbing Ferris wheels and working 18-hour days"
+		]
+	},
+	{
+		"pron": [
+			"kärˈnāSHən",
+			"Gōlāpī pātalabarṇa"
+		],
+		"bn": "গোলাপী পাতলবর্ণ",
+		"en": "carnation",
+		"bn_syns": [
+			"গোলাপী পাতলবর্ণ",
+			"বেগুনি ছোঁয়া গোলাপী রং"
+		],
+		"en_syns": [
+			"gillyflower",
+			"clove pink"
+		],
+		"sents": [
+			"This unique hybrid features large balls of blooms that resemble <b>carnations</b> in a charming white cream color.",
+			"Choose flowers with full heads like dahlias, <b>carnations</b> , chrysanthemums and daffodils."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärnl",
+			"Jāgatika"
+		],
+		"bn": "জাগতিক",
+		"en": "carnal",
+		"bn_syns": [
+			"দেহজ",
+			"যৌন",
+			"জাগতিক",
+			"ইঁদ্রি়-সংবঁধীয়",
+			"যৌনসঙ্গকামী"
+		],
+		"en_syns": [
+			"sexual",
+			"sensual",
+			"erotic",
+			"lustful",
+			"lascivious",
+			"libidinous",
+			"lecherous",
+			"licentious",
+			"physical",
+			"bodily",
+			"corporeal",
+			"fleshly"
+		],
+		"sents": [
+			"The Wooden Frock is from the Cinderella shelf of the library, the slipper here replaced by the more <b>carnal</b> symbol of a wedding ring.",
+			"The King portrayed a female vagrant, complete with a garbage bag dress, who goes after a man in hope of satisfying her <b>carnal</b> desires."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärnij",
+			"Hatyākāṇḍa"
+		],
+		"bn": "হত্যাকাণ্ড",
+		"en": "carnage",
+		"bn_syns": [
+			"ব্যাপক হত্যালীলা",
+			"হত্যাকাণ্ড"
+		],
+		"en_syns": [
+			"slaughter",
+			"massacre",
+			"mass murder",
+			"butchery",
+			"bloodbath",
+			"bloodletting",
+			"gore",
+			"holocaust",
+			"pogrom",
+			"ethnic cleansing"
+		],
+		"sents": [
+			"The only problems I can see with the film are it's length and the will to show scenes of <b>carnage</b> on the streets of New York.",
+			"Hundreds of thousands of British servicemen died in the terrible <b>carnage</b> of the Second World War."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärˌjakiNG",
+			"Carjacking"
+		],
+		"bn": "carjacking",
+		"en": "carjacking",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"The only people that should have the luxury to enjoy simulating murders, <b>carjackings</b> , and the killings of police officers are kids.",
+			"The threat of <b>carjackings</b> and kidnappings keeps people locked inside their houses."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Carjacker"
+		],
+		"bn": "carjacker",
+		"en": "carjacker",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈke(ə)riNG",
+			"Yatnaśīla"
+		],
+		"bn": "যত্নশীল",
+		"en": "caring",
+		"bn_syns": [
+			"উদ্বিগ্ন হত্তয়া",
+			"জিম্মায় লত্তয়া",
+			"অভিভাবকতত্ব করা",
+			"পরোয়া করা",
+			"যত্নবান্ করা",
+			"ইচ্ছুক হত্তয়া",
+			"গ্রাহ্য করা",
+			"ত্তয়াস্তা"
+		],
+		"en_syns": [
+			"lovingness",
+			"kind",
+			"kind-hearted",
+			"warmhearted",
+			"tender",
+			"concerned",
+			"attentive",
+			"thoughtful",
+			"solicitous",
+			"altruistic",
+			"considerate",
+			"affectionate",
+			"loving",
+			"doting",
+			"fond",
+			"sympathetic",
+			"understanding",
+			"compassionate",
+			"feeling",
+			"be concerned",
+			"worry (oneself)",
+			"trouble oneself",
+			"concern oneself",
+			"bother",
+			"mind",
+			"be interested",
+			"give a damn",
+			"give a hoot"
+		],
+		"sents": [
+			"I found him to be a very <b>caring</b> , kind, considerate person and his support has been a great comfort to us all.",
+			"Research shows that in general a carer's own health is likely to suffer because of their <b>caring</b> role."
+		]
+	},
+	{
+		"pron": [
+			"-ˌCHo͝or,ˈkarikəCHər",
+			"Byaṅgacitra"
+		],
+		"bn": "ব্যঙ্গচিত্র",
+		"en": "caricature",
+		"bn_syns": [
+			"অতিরঞ্জিত",
+			"মজাদার অনুকরণ",
+			"ব্যঙ্গচিত্র",
+			"ব্যঙ্গাত্মক বর্ণনা"
+		],
+		"en_syns": [
+			"parody",
+			"satirize",
+			"lampoon",
+			"make fun of",
+			"burlesque",
+			"mimic",
+			"send up",
+			"take off",
+			"cartoon",
+			"satire",
+			"sendup",
+			"takeoff"
+		],
+		"sents": [
+			"On stage, I am a <b>caricature</b> of my normal personality which probably doesn't bode well.",
+			"I think he's a brilliant cartoonist, a spot-on <b>caricaturist</b> , an excellent letterer and a very fine writer-of-comics."
+		]
+	},
+	{
+		"pron": [
+			"ˈkarəˌbo͞o",
+			"Caribou"
+		],
+		"bn": "Caribou",
+		"en": "caribou",
+		"bn_syns": [],
+		"en_syns": [
+			"reindeer"
+		],
+		"sents": [
+			"There are also <b>caribou</b> , wolves, walruses, polar bears and beluga whales.",
+			"The area over which the <b>caribou</b> were sampled would become important to avoid a geographic variation effect."
+		]
+	},
+	{
+		"pron": [
+			"kəˈribēən,ˌkarəˈbēən",
+			"Kyāribiẏāna"
+		],
+		"bn": "ক্যারিবিয়ান",
+		"en": "Caribbean",
+		"bn_syns": [
+			"ক্যারিবীয়"
+		],
+		"en_syns": [],
+		"sents": [
+			"The relaxing <b>Caribbean</b> holidays are replaced by exhausting weekends at a Center Parc.",
+			"I was on the phone to a <b>Caribbean</b> travel company, hassled, trying to get myself organised."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärgō",
+			"Jāhājī māla"
+		],
+		"bn": "জাহাজী মাল",
+		"en": "cargo",
+		"bn_syns": [
+			"জাহাজী মাল",
+			"জাহাজে বাহিত মাল",
+			"পণ্যসম্ভার"
+		],
+		"en_syns": [
+			"freight",
+			"load",
+			"haul",
+			"consignment",
+			"delivery",
+			"shipment",
+			"goods",
+			"merchandise",
+			"payload",
+			"lading"
+		],
+		"sents": [
+			"The <b>cargo</b> was consigned to yet another firm, registered in the British Virgin Islands.",
+			"Yet <b>cargo</b> boats regularly cut through the Sound of Mull, purely to save time and fuel."
+		]
+	},
+	{
+		"pron": [
+			"ˈke(ə)rˌtākər",
+			"Tattbābadhāẏaka"
+		],
+		"bn": "তত্ত্বাবধায়ক",
+		"en": "caretaker",
+		"bn_syns": [
+			"তত্ত্বাবধায়ক",
+			"অবধায়ক"
+		],
+		"en_syns": [
+			"temporary",
+			"short-term",
+			"provisional",
+			"substitute",
+			"acting",
+			"interim",
+			"pro tem",
+			"stand-in",
+			"fill-in",
+			"stopgap",
+			"janitor",
+			"custodian",
+			"superintendent",
+			"maintenance man/woman",
+			"curator",
+			"concierge",
+			"attendant",
+			"porter",
+			"super"
+		],
+		"sents": [
+			"‘The first phase was to ring the transport manager, the rest centre manager and the <b>caretaker</b> of the building,’ says Pam.",
+			"In such cases, the parent-teacher associations should arrange a watchman or a <b>caretaker</b> to look after the children till their parents come to fetch them in the evening."
+		]
+	},
+	{
+		"pron": [
+			"kəˈres",
+			"Ādara"
+		],
+		"bn": "আদর",
+		"en": "caress",
+		"bn_syns": [
+			"আদর করা",
+			"চুম্বন করা",
+			"পেয়ার করা",
+			"সোহাগ করা",
+			"সোহাগ",
+			"আদর",
+			"পেয়ার",
+			"চুম্বন"
+		],
+		"en_syns": [
+			"stroke",
+			"touch",
+			"fondle",
+			"brush",
+			"pet",
+			"hug",
+			"embrace",
+			"nuzzle"
+		],
+		"sents": [
+			"I stroked my violin tenderly; <b>caressing</b> the wood like a mother would an infant.",
+			"She slid her left hand behind his neck and gently <b>caressed</b> his cheek with her right hand."
+		]
+	},
+	{
+		"pron": [
+			"ˈke(ə)rlisnis",
+			"Asatarkatā"
+		],
+		"bn": "অসতর্কতা",
+		"en": "carelessness",
+		"bn_syns": [
+			"অমনোযোগ",
+			"প্রমাদ",
+			"অসতর্কতা",
+			"অসাবধানতা",
+			"অনবধানতা",
+			"অনাদর",
+			"অমনোযোগিতা"
+		],
+		"en_syns": [
+			"sloppiness"
+		],
+		"sents": [
+			"most road accidents are caused by <b>carelessness</b> on the part of motorists",
+			"most road accidents are caused by <b>carelessness</b> on the part of motorists"
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Agōchālabhābē"
+		],
+		"bn": "অগোছালভাবে",
+		"en": "carelessly",
+		"bn_syns": [
+			"অগোছালভাবে"
+		],
+		"en_syns": [
+			"rakishly"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈke(ə)rlis",
+			"Asābadhāna"
+		],
+		"bn": "অসাবধান",
+		"en": "careless",
+		"bn_syns": [
+			"অমনোযোগী",
+			"অসাবধান",
+			"উদ্বেগহীন",
+			"অনবহিত",
+			"যত্নহীন",
+			"উদাসীন",
+			"অনবধান",
+			"অযত্নশীল",
+			"ঢিলেঢালা",
+			"নজগজে",
+			"উদোমাদা",
+			"আপন-ভোলা",
+			"অগোছাল",
+			"অগোছালো"
+		],
+		"en_syns": [
+			"inattentive",
+			"incautious",
+			"negligent",
+			"absentminded",
+			"remiss",
+			"heedless",
+			"irresponsible",
+			"impetuous",
+			"reckless",
+			"foolhardy",
+			"cavalier",
+			"supercilious",
+			"devil-may-care"
+		],
+		"sents": [
+			"Or else our future generations are certainly going to pay the price for our <b>careless</b> , negligent and easygoing approach to the whole issue.",
+			"Finally he gave a <b>careless</b> shrug, dropping the man's head with a thud that predicted a headache the next day."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Sābadhānatāra"
+		],
+		"bn": "সাবধানতার",
+		"en": "carefulness",
+		"bn_syns": [],
+		"en_syns": [
+			"caution",
+			"cautiousness"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			null,
+			"Sābadhānē"
+		],
+		"bn": "সাবধানে",
+		"en": "carefully",
+		"bn_syns": [
+			"সাবধানে",
+			"যত্নসহকারে",
+			"সযত্নে",
+			"সাবধানভাবে",
+			"সাবধানীভাবে",
+			"আস্তে",
+			"ভাল করিয়া",
+			"আলগোছে"
+		],
+		"en_syns": [
+			"cautiously"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈke(ə)rfəl",
+			"Sābadhāna"
+		],
+		"bn": "সাবধান",
+		"en": "careful",
+		"bn_syns": [
+			"মনোযোগী",
+			"সাবধান",
+			"যত্নশীল",
+			"সযত্ন",
+			"অবহিত",
+			"ক্রিয়াপর",
+			"ক্রিয়াশীল",
+			"সাবধানী",
+			"যত্নসাধ্য",
+			"সুচেতা",
+			"তত্পর",
+			"অতন্দ্র",
+			"অতন্দ্রি",
+			"অপ্রমাদী",
+			"জাগরুক"
+		],
+		"en_syns": [
+			"cautious",
+			"heedful",
+			"alert",
+			"attentive",
+			"watchful",
+			"vigilant",
+			"wary",
+			"on guard",
+			"circumspect"
+		],
+		"sents": [
+			"A defendant would have to use <b>careful</b> language to avoid imputing guilt by a statement of suspicion.",
+			"An unadmitted lack of confidence makes him <b>careful</b> to avoid open conflict and he feels he must make the best of things as they are."
+		]
+	},
+	{
+		"pron": [
+			"ˈke(ə)rˌfrē",
+			"Bhābanāhīna"
+		],
+		"bn": "ভাবনাহীন",
+		"en": "carefree",
+		"bn_syns": [
+			"ভাবনাহীন",
+			"ভাবনাশূন্য",
+			"নির্ঝঁঝাট"
+		],
+		"en_syns": [
+			"unworried",
+			"untroubled",
+			"blithe",
+			"airy",
+			"nonchalant",
+			"insouciant",
+			"happy-go-lucky",
+			"free and easy",
+			"easygoing",
+			"relaxed",
+			"mellow",
+			"laid-back",
+			"loosey-goosey"
+		],
+		"sents": [
+			"It is also a rediscover, of a long-lost state of grace, a <b>carefreeness</b> , perhaps.",
+			"I hope she, and the rest of us, have many many more warm, sunny, <b>carefree</b> days like this one."
+		]
+	},
+	{
+		"pron": [
+			"kəˈri(ə)r",
+			"Pēśā"
+		],
+		"bn": "পেশা",
+		"en": "career",
+		"bn_syns": [
+			"অগ্রগতি",
+			"যাত্রা",
+			"পেশা",
+			"চরিত",
+			"বৃত্তি",
+			"বেগ",
+			"গতি"
+		],
+		"en_syns": [
+			"professional",
+			"permanent",
+			"full-time",
+			"profession",
+			"occupation",
+			"job",
+			"vocation",
+			"calling",
+			"employment",
+			"line",
+			"line of work",
+			"walk of life",
+			"métier"
+		],
+		"sents": [
+			"A <b>career</b> diplomat, he accepted a series of postings on the Continent, and took his young daughter with him.",
+			"It is not much of a break when you are 32 and considered to have reached the twilight of a distinguished <b>career</b> ."
+		]
+	},
+	{
+		"pron": [
+			"kəˈrēn",
+			"Kyārīna"
+		],
+		"bn": "ক্যারীন",
+		"en": "careen",
+		"bn_syns": [
+			"একপেশে হত্তয়া",
+			"কাত করা",
+			"ক্যারীন"
+		],
+		"en_syns": [
+			"rush",
+			"hurtle",
+			"career",
+			"streak",
+			"shoot",
+			"race",
+			"bolt",
+			"dash",
+			"speed",
+			"run",
+			"whiz",
+			"zoom",
+			"flash",
+			"blast",
+			"charge",
+			"fly",
+			"go like the wind",
+			"belt",
+			"scoot",
+			"tear",
+			"zip",
+			"whip",
+			"zap",
+			"go like a bat out of hell",
+			"bomb",
+			"hightail",
+			"clip",
+			"tilt",
+			"sway",
+			"rock"
+		],
+		"sents": [
+			"The Confederate frigate shuddered, <b>careening</b> into an uncontrolled yaw.",
+			"That sort of upkeep had always been done between tides, on gently sloped sandy beaches, where the boats were <b>careened</b> and cleaned."
+		]
+	},
+	{
+		"pron": [
+			"ke(ə)r",
+			"Yatna"
+		],
+		"bn": "যত্ন",
+		"en": "care",
+		"bn_syns": [
+			"উদ্বিগ্ন হত্তয়া",
+			"জিম্মায় লত্তয়া",
+			"অভিভাবকতত্ব করা",
+			"পরোয়া করা",
+			"যত্নবান্ করা",
+			"ইচ্ছুক হত্তয়া",
+			"গ্রাহ্য করা",
+			"ত্তয়াস্তা",
+			"গুরুত্ব",
+			"মনোযোগ",
+			"সাবধানতা",
+			"যত্ন",
+			"তত্ত্বাবধান",
+			"জিম্মা",
+			"আত্ততা",
+			"অভিভাবকতত্ব",
+			"ঠাহর",
+			"পরোয়া",
+			"উদ্বেগ",
+			"সতর্কতা",
+			"খবরদারি",
+			"তদারক",
+			"উপস্কার"
+		],
+		"en_syns": [
+			"be concerned",
+			"worry (oneself)",
+			"trouble oneself",
+			"concern oneself",
+			"bother",
+			"mind",
+			"be interested",
+			"give a damn",
+			"give a hoot",
+			"safekeeping",
+			"supervision",
+			"custody",
+			"charge",
+			"protection",
+			"control",
+			"responsibility",
+			"guardianship",
+			"wardship"
+		],
+		"sents": [
+			"But officers can use their discretion to deal with drivers who they consider are not driving with full <b>care</b> and attention.",
+			"I'm responsible for the <b>care</b> of a dependant"
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kārḍa"
+		],
+		"bn": "কার্ড",
+		"en": "cards",
+		"bn_syns": [
+			"পিঁজা",
+			"কার্ড",
+			"তাস",
+			"শক্ত কাগজ",
+			"চিরূণী"
+		],
+		"en_syns": [
+			"tease",
+			"cardboard",
+			"pasteboard",
+			"board",
+			"Bristol board",
+			"card game"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˌkärdēˈäləjē",
+			"Hr̥dbijñāna"
+		],
+		"bn": "হৃদ্বিজ্ঞান",
+		"en": "cardiology",
+		"bn_syns": [
+			"হৃদ্বিজ্ঞান"
+		],
+		"en_syns": [],
+		"sents": [
+			"Measuring plasma concentrations of brain natriuretic peptide has been advocated as a screening test that might reduce demands on <b>cardiological</b> services.",
+			"Projects spanned a range of specialties - dermatology, psychiatry, respiratory medicine, <b>cardiology</b> , and oncology."
+		]
+	},
+	{
+		"pron": [
+			"",
+			"Aṅkabācaka saṅkhyā"
+		],
+		"bn": "অঙ্কবাচক সংখ্যা",
+		"en": "cardinal number",
+		"bn_syns": [
+			"অঙ্কবাচক সংখ্যা",
+			"খড়ি"
+		],
+		"en_syns": [
+			"cardinal"
+		],
+		"sents": [
+			"Defenders of the latter thus resorted to ad boc banishments of such propositions into the realm of meaninglessness; to assert that green is not a <b>cardinal number</b> , they said, is to be guilty of a ‘category mistake.’",
+			"Furthermore, ordinal numbers are less frequently encountered than are <b>cardinal numbers</b> ."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärd-nl,ˈkärdn-əl",
+			"Aṅkabācaka"
+		],
+		"bn": "অঙ্কবাচক",
+		"en": "cardinal",
+		"bn_syns": [
+			"মৌলিক",
+			"অপরিহার্য",
+			"কার্ডিনাল",
+			"অঙ্কবাচক সংখ্যা",
+			"টক্টকে লাল",
+			"অঙ্কবাচক",
+			"প্রধান",
+			"টকটকে লাল",
+			"অত্যাবশ্যক"
+		],
+		"en_syns": [
+			"cardinal number",
+			"fundamental",
+			"basic",
+			"main",
+			"chief",
+			"primary",
+			"crucial",
+			"pivotal",
+			"prime",
+			"principal",
+			"paramount",
+			"preeminent",
+			"highest",
+			"key",
+			"essential"
+		],
+		"sents": [
+			"From all of our experiences, three <b>cardinal</b> rules for young people seeking to work in the developing world seem to have emerged.",
+			"Birds that overwinter in the northeastern U.S., like the red <b>cardinal</b> , are also the first to herald the onset of spring."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärdigən",
+			"Paśamī gēm̐jī"
+		],
+		"bn": "পশমী গেঁজী",
+		"en": "cardigan",
+		"bn_syns": [
+			"হাতাওয়ালা",
+			"পশমী গেঁজী"
+		],
+		"en_syns": [],
+		"sents": [
+			"Avoid wearing blazers and <b>cardigans</b> with more than three buttons because they will draw unwanted attention to your shorter upper body.",
+			"So, when we head to Whitby for our holiday, I will take the usual array of beach wear - baggy tops, ankle-length skirts and outsize <b>cardigans</b> ."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kārḍiẏāka ayārēsṭa"
+		],
+		"bn": "কার্ডিয়াক অ্যারেস্ট",
+		"en": "cardiac arrest",
+		"bn_syns": [],
+		"en_syns": [
+			"asystole"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkärdēˌak",
+			"Kārḍiẏāka"
+		],
+		"bn": "কার্ডিয়াক",
+		"en": "cardiac",
+		"bn_syns": [
+			"হৃৎপিণ্ডঘটিত",
+			"হৃত্পিণ্ডসংবন্ধীয়"
+		],
+		"en_syns": [],
+		"sents": [
+			"These mice are characterized by polycythemia but have normal blood pressure, heart rate, and <b>cardiac</b> output.",
+			"The decrease in <b>cardiac</b> output that accompanies heart failure also leads to significant reductions in renal blood flow."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kārḍa kyāṭālaga"
+		],
+		"bn": "কার্ড ক্যাটালগ",
+		"en": "card catalog",
+		"bn_syns": [],
+		"en_syns": [
+			"card catalogue"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkärdˌbôrd",
+			"Picabōrḍa"
+		],
+		"bn": "পিচবোর্ড",
+		"en": "cardboard",
+		"bn_syns": [
+			"পিজবোর্ড",
+			"পিচবোর্ড",
+			"পুরূ ত্ত শক্ত কাগজবিশেষ"
+		],
+		"en_syns": [],
+		"sents": [
+			"They produce all that plastic and <b>cardboard</b> ; they ought to be actively responsible for getting rid of it.",
+			"a <b>cardboard</b> box"
+		]
+	},
+	{
+		"pron": [
+			"kärd",
+			"Kārḍa"
+		],
+		"bn": "কার্ড",
+		"en": "card",
+		"bn_syns": [
+			"পিঁজা",
+			"তারের ব্রাশ",
+			"পাগলাটে",
+			"কার্ড",
+			"তাস",
+			"শক্ত কাগজ",
+			"চিরূণী"
+		],
+		"en_syns": [
+			"tease",
+			"cardboard",
+			"pasteboard",
+			"board",
+			"Bristol board"
+		],
+		"sents": [
+			"However, if they do obtain a <b>card</b> , the credit limit will be low.",
+			"Both the Hall of Fame and the National Association of Professional Baseball Leagues sent along Vic's player record <b>card</b> ."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärkəs",
+			"Dēhamātra"
+		],
+		"bn": "দেহমাত্র",
+		"en": "carcass",
+		"bn_syns": [
+			"পশুপাখির মৃতদেহ",
+			"দেহমাত্র",
+			"পশুর মৃতদেহ",
+			"ঘৃণার্থে মনুষ্যদেহ"
+		],
+		"en_syns": [
+			"corpse",
+			"dead body",
+			"body",
+			"remains",
+			"cadaver",
+			"stiff",
+			"roadkill",
+			"corse"
+		],
+		"sents": [
+			"The area would have been too boggy to make flint tools and uninhabitable for humans so experts believe this means the <b>carcass</b> was butchered for meat.",
+			"I'm sure you still have a few years left inside that big old <b>carcass</b> of yours, don't you?"
+		]
+	},
+	{
+		"pron": [
+			"ˈkärb(y)əˌrātər",
+			"Aṅgāraka dbārā gyāsa sr̥ṣṭi karāra yam̐tra"
+		],
+		"bn": "অঙ্গারক দ্বারা গ্যাস সৃষ্টি করার যঁত্র",
+		"en": "carburetor",
+		"bn_syns": [],
+		"en_syns": [
+			"carburettor"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			null,
+			"Kāraban kāgaja"
+		],
+		"bn": "কারবন্ কাগজ",
+		"en": "carbon paper",
+		"bn_syns": [
+			"কার্বন কাগজ",
+			"কারবন্ কাগজ"
+		],
+		"en_syns": [
+			"carbon"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"",
+			"Jbalanta aṅgāra ha'itē nirgata biṣākta gyāsabiśēṣa"
+		],
+		"bn": "জ্বলন্ত অঙ্গার হইতে নির্গত বিষাক্ত গ্যাসবিশেষ",
+		"en": "carbon monoxide",
+		"bn_syns": [
+			"কার্বন মনোক্সাইড",
+			"একটি কার্বন ও একটি অক্সিজেন পরমাণু গঠিত অণুবিশিষ্ট মারাত্মক বিষাক্ত গ্যাস"
+		],
+		"en_syns": [
+			"co"
+		],
+		"sents": [
+			"Tar, nicotine and <b>carbon monoxide</b> are the major components of cigarettes.",
+			"Here, breathe some <b>carbon monoxide</b> , it will make you feel all funny inside and you will throw up!"
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kārbana ḍā'i aksā'iḍa"
+		],
+		"bn": "কার্বন ডাই অক্সাইড",
+		"en": "carbon dioxide",
+		"bn_syns": [],
+		"en_syns": [
+			"carbonic acid gas"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			null,
+			"Kāraban kāgaja dbārā gr̥hīta pratilipi"
+		],
+		"bn": "কারবন্ কাগজ দ্বারা গৃহীত প্রতিলিপি",
+		"en": "carbon copy",
+		"bn_syns": [
+			"কার্বন প্রতিলিপি",
+			"কারবন্ কাগজ দ্বারা গৃহীত প্রতিলিপি"
+		],
+		"en_syns": [
+			"carbon"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkärbənātid",
+			"Kārbanēṭēḍa"
+		],
+		"bn": "কার্বনেটেড",
+		"en": "carbonated",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"The FDA does not allow more than 2.45 mg/ounce of quinine to be contained in a <b>carbonated</b> beverage.",
+			"Elementary schools can no longer sell <b>carbonated</b> soft drinks."
+		]
+	},
+	{
+		"pron": [
+			"ˈkärbən",
+			"Kārabana"
+		],
+		"bn": "কারবন",
+		"en": "carbon",
+		"bn_syns": [
+			"অঙ্গার",
+			"অঙ্গারক",
+			"প্রতিলিপি-গ্রহণার্থ কাগজবিশেষ",
+			"কারবন",
+			"কার্বন"
+		],
+		"en_syns": [
+			"carbon copy"
+		],
+		"sents": [
+			"The biosphere consists of six main elements: <b>carbon</b> , nitrogen, phosphorus, sulphur, oxygen, and hydrogen.",
+			"Every source of soot, every fuel and means of burning it, has its own ratio of soot to organic <b>carbon</b> ; few have yet been analyzed."
+		]
+	},
+	{
+		"pron": [
+			"ˌkärbəˈhīˌdrāt",
+			"Kārbōhā'iḍrēṭa"
+		],
+		"bn": "কার্বোহাইড্রেট",
+		"en": "carbohydrate",
+		"bn_syns": [
+			"শালিজাতীয় পদার্থ",
+			"কার্বোহাইড্রেট"
+		],
+		"en_syns": [
+			"saccharide",
+			"sugar"
+		],
+		"sents": [
+			"These properties are not present in the cauliflower's constituents, such as <b>carbohydrates</b> or water.",
+			"dehydrated foods high in <b>carbohydrate</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˈkarəˌvan",
+			"Bhramaṇakārī marūyātridala"
+		],
+		"bn": "ভ্রমণকারী মরূযাত্রিদল",
+		"en": "caravan",
+		"bn_syns": [
+			"ভ্রমণকারী মরূযাত্রিদল",
+			"ঢাকনাত্তয়ালা বৃহৎ শকটবিশেষ",
+			"মরুযাত্রীদল"
+		],
+		"en_syns": [
+			"convoy",
+			"procession",
+			"column",
+			"train",
+			"cavalcade"
+		],
+		"sents": [
+			"The entire entourage was traveling across a long dirt road, like a <b>caravan</b> , with animals and performers and equipment and everything in tow.",
+			"a Gypsy <b>caravan</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˈkarət",
+			"Kyārēṭa"
+		],
+		"bn": "ক্যারেট",
+		"en": "carat",
+		"bn_syns": [
+			"মণিরত্নের মাপবিশেষ",
+			"ক্যারেট"
+		],
+		"en_syns": [
+			"karat"
+		],
+		"sents": [
+			"It was composed of a precious pink sapphire of 20.35 <b>carats</b> , several sapphires, colourful diamonds and natural pearls.",
+			"However, one does not need to be an expert on the Hope Diamond to know that its correct weight is 45.52 <b>carats</b> , a weight that has been accurately reported in reputable scholarly publications for most of the latter half of the last century."
+		]
+	},
+	{
+		"pron": [
+			"-ˌmel,ˈkarəməl,ˈkärməl",
+			"Āṭhāla miṭhā'i"
+		],
+		"bn": "আঠাল মিঠাই",
+		"en": "caramel",
+		"bn_syns": [
+			"আঠাল মিঠাই",
+			"দগ্ধ শর্করা",
+			"আঠাল মিছরি"
+		],
+		"en_syns": [
+			"raw sienna",
+			"buff"
+		],
+		"sents": [
+			"Corduroys come in shades of rust, sand, bottle-green, <b>caramel</b> and plum.",
+			"Dessert, miniature pear tarte tatins with little pools of <b>caramel</b> and crème anglaise, arrived just as the first toasts began."
+		]
+	},
+	{
+		"pron": [
+			"kär",
+			"Gāṛī"
+		],
+		"bn": "গাড়ী",
+		"en": "car",
+		"bn_syns": [
+			"গাড়ি",
+			"যান",
+			"গাড়ী",
+			"রথ",
+			"শকট",
+			"বগি",
+			"কামরা",
+			"অক্ষ"
+		],
+		"en_syns": [
+			"automobile",
+			"motor vehicle",
+			"vehicle",
+			"motorcar",
+			"auto",
+			"wheels",
+			"gas guzzler",
+			"jalopy",
+			"lemon",
+			"junker",
+			"clunker",
+			"hooptie",
+			"Tin Lizzie",
+			"rustbucket"
+		],
+		"sents": [
+			"Our train consists of six coach class <b>cars</b> , a cafe car, and one business class car.",
+			"Nine <b>cars</b> of a coal train derailed early Tuesday about 13 miles east of Gillette, Wyoming."
+		]
+	},
+	{
+		"pron": [
+			"ˈkapCHər",
+			"Grēptāra"
+		],
+		"bn": "গ্রেপ্তার",
+		"en": "capture",
+		"bn_syns": [
+			"বন্দি করা",
+			"নিয়ন্ত্রণে আনা",
+			"বলে ধরা",
+			"বন্দী করা",
+			"কৌশলে ধরা",
+			"গ্রহণ",
+			"লুণ্ঠন",
+			"গ্রেপ্তার",
+			"আটক ব্যক্তি",
+			"আটক জন্তু"
+		],
+		"en_syns": [
+			"catch",
+			"apprehend",
+			"seize",
+			"arrest",
+			"take prisoner",
+			"take captive",
+			"imprison",
+			"detain",
+			"put/throw in jail",
+			"put behind bars",
+			"put under lock and key",
+			"incarcerate",
+			"nab",
+			"collar",
+			"bag",
+			"pick up",
+			"apprehension",
+			"seizure",
+			"being taken prisoner",
+			"being taken captive",
+			"imprisonment"
+		],
+		"sents": [
+			"the player was a £2,200 <b>capture</b> from another team",
+			"For a power so concerned with the stylish symbolism of that city's <b>capture</b> , this was no mere practical measure."
+		]
+	},
+	{
+		"pron": [
+			"-ˌtôr,ˈkaptər",
+			"Bandikārī"
+		],
+		"bn": "বন্দিকারী",
+		"en": "captor",
+		"bn_syns": [
+			"লুণ্ঠনকারী",
+			"বন্দিকারী"
+		],
+		"en_syns": [
+			"capturer"
+		],
+		"sents": [
+			"After some hours, his <b>captors</b> relaxed and said that he would be released in the morning.",
+			"Again, during the journey, my mind turned to the movies, and how to escape your <b>captor</b> , should the need arise."
+		]
+	},
+	{
+		"pron": [
+			"kapˈtivitē",
+			"Bandidaśā"
+		],
+		"bn": "বন্দিদশা",
+		"en": "captivity",
+		"bn_syns": [
+			"দাসত্ব",
+			"বন্দিদশা",
+			"বন্ধনদশা"
+		],
+		"en_syns": [
+			"imprisonment",
+			"confinement",
+			"internment",
+			"incarceration",
+			"detention",
+			"custody"
+		],
+		"sents": [
+			"The next three days of <b>captivity</b> are described over three chapters.",
+			"Female cowbirds were held in <b>captivity</b> and released at the end of the breeding season."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaptiv",
+			"Bandī"
+		],
+		"bn": "বন্দী",
+		"en": "captive",
+		"bn_syns": [
+			"বন্দি",
+			"কয়েদি",
+			"ধৃত",
+			"বন্দী",
+			"বিমুগ্ধ ব্যক্তি"
+		],
+		"en_syns": [
+			"confined",
+			"caged",
+			"incarcerated",
+			"locked up",
+			"jailed",
+			"imprisoned",
+			"in prison",
+			"interned",
+			"detained",
+			"in captivity",
+			"under lock and key",
+			"behind bars",
+			"prisoner",
+			"convict",
+			"detainee",
+			"inmate",
+			"abductee",
+			"prisoner of war",
+			"POW",
+			"internee",
+			"jailbird",
+			"con",
+			"yardbird",
+			"lifer"
+		],
+		"sents": [
+			"He rightly recognized that the Berlin Wall was an abomination and a poignant symbol of the chains imprisoning the <b>captive</b> nations of Eastern Europe.",
+			"A <b>captive</b> wild animal can only show us the loneliness, fear and boredom they experience for the entirety of their miserable lives."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaptəˌvātiNG",
+			"Cittākarṣaka"
+		],
+		"bn": "চিত্তাকর্ষক",
+		"en": "captivating",
+		"bn_syns": [
+			"চিত্তাকর্ষক",
+			"চটুল",
+			"মুগ্ধকারী",
+			"চিত্তহারী",
+			"মনোমুগ্ধকর",
+			"মনোমোহকর",
+			"মনোজ্ঞ"
+		],
+		"en_syns": [
+			"enthrall",
+			"charm",
+			"enchant",
+			"bewitch",
+			"fascinate",
+			"beguile",
+			"entrance",
+			"enrapture",
+			"delight",
+			"attract",
+			"allure",
+			"engross",
+			"mesmerize",
+			"spellbind",
+			"hypnotize",
+			"fascinating",
+			"enthralling",
+			"enchanting",
+			"entrancing",
+			"bewitching"
+		],
+		"sents": [
+			"Still more <b>captivating</b> are Greaves' architectural structures, a dozen in all, installed at the four corners of the site.",
+			"There is a <b>captivating</b> element of juxtaposition in each painting."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaptəˌvāt",
+			"Māta karā"
+		],
+		"bn": "মাত করা",
+		"en": "captivate",
+		"bn_syns": [
+			"মাত করা",
+			"বিমোহিত করা",
+			"আকৃষ্ট করা",
+			"মোহিত করা"
+		],
+		"en_syns": [
+			"enthrall",
+			"charm",
+			"enchant",
+			"bewitch",
+			"fascinate",
+			"beguile",
+			"entrance",
+			"enrapture",
+			"delight",
+			"attract",
+			"allure",
+			"engross",
+			"mesmerize",
+			"spellbind",
+			"hypnotize"
+		],
+		"sents": [
+			"One day Franz sees Coppelia appear on Coppelius' balcony, and is <b>captivated</b> by her beauty.",
+			"‘Hayden, let me tell you a story,’ he said, his voice <b>captivatingly</b> soft, and again all I could do was listen."
+		]
+	},
+	{
+		"pron": [
+			"ˈkapSHən",
+			"Kyāpaśana"
+		],
+		"bn": "ক্যাপশন",
+		"en": "caption",
+		"bn_syns": [
+			"শিরোনামা",
+			"শিরোলিপি",
+			"প্রবন্ধ বা পরিচ্ছেদের শিরোনাম"
+		],
+		"en_syns": [
+			"title",
+			"heading",
+			"wording",
+			"head",
+			"legend",
+			"subtitle",
+			"rubric",
+			"slogan",
+			"supertitle",
+			"surtitle"
+		],
+		"sents": [
+			"Each image will be accompanied by a <b>caption</b> and a small digital image of the building as it looks today.",
+			"Informative text provides a running commentary, and each photo is <b>captioned</b> with historical details."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaptən",
+			"Adhināẏaka"
+		],
+		"bn": "অধিনায়ক",
+		"en": "captain",
+		"bn_syns": [
+			"পোত চালান",
+			"নেতা",
+			"দলপতি",
+			"প্রধান",
+			"নায়ক",
+			"নিয়ন্তা",
+			"অধিনায়ক",
+			"কাপ্তেন",
+			"জাহাজের কাপ্তান",
+			"পোতনায়ক",
+			"পোতচালক",
+			"পোতাধ্যক্ষ",
+			"সেনাধ্যক্ষ"
+		],
+		"en_syns": [
+			"command",
+			"run",
+			"be in charge of",
+			"control",
+			"manage",
+			"govern",
+			"skipper",
+			"commander",
+			"master"
+		],
+		"sents": [
+			"It was hoped that a high tide might help the <b>captain</b> refloat the vessel.",
+			"She was approached by a New York fire <b>captain</b> to help him write eulogies to fellow firefighters who died in the Twin Towers."
+		]
+	},
+	{
+		"pron": [
+			"ˈkapsəl,ˈkapˌso͞ol",
+			"Kyāpasula"
+		],
+		"bn": "ক্যাপসুল",
+		"en": "capsule",
+		"bn_syns": [
+			"শুষ্ক বীজকোষ",
+			"ক্যাপসুল",
+			"ঠুলি",
+			"বীজকোষ"
+		],
+		"en_syns": [
+			"capsulize",
+			"pill",
+			"tablet",
+			"lozenge",
+			"pastille",
+			"drop",
+			"tab"
+		],
+		"sents": [
+			"The remainder of the introduction provides <b>capsule</b> summaries of the essays, somewhat under-cutting the need to read the book.",
+			"He grabbed a small needle gun and a cylindrical <b>capsule</b> , a stim, and loaded it into the device."
+		]
+	},
+	{
+		"pron": [
+			"kapˈsīz,ˈkapˌsīz",
+			"Ulaṭāna"
+		],
+		"bn": "উলটান",
+		"en": "capsize",
+		"bn_syns": [
+			"উল্টে ফেলা",
+			"উল্টে যাওয়া",
+			"উলটান",
+			"উলটাইয়া যাত্তয়া"
+		],
+		"en_syns": [
+			"overturn",
+			"turn over",
+			"turn upside down",
+			"upend",
+			"flip/tip/keel over",
+			"turn turtle",
+			"pitchpole",
+			"overset"
+		],
+		"sents": [
+			"Both realized a <b>capsized</b> vessel is difficult to find, but wore their vests and stayed with their boat.",
+			"After the fifth <b>capsize</b> , I climbed out on deck, fully intended to set off my distress beacon to ask for help."
+		]
+	},
+	{
+		"pron": [
+			"ˈkapriˌkôrn",
+			"Makara"
+		],
+		"bn": "মকর",
+		"en": "Capricorn",
+		"bn_syns": [
+			"মকর রাশি",
+			"মকর",
+			"মকররাশি"
+		],
+		"en_syns": [
+			"goat"
+		],
+		"sents": [
+			"By the way, I'm a Leo and my husband is a <b>Capricorn</b> , and those Sun sign charts say we'd never make it.",
+			"As a <b>Capricorn</b> , you probably think you already have all the answers to this week's cosmic conundrums."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Khēẏālakhuśimata"
+		],
+		"bn": "খেয়ালখুশিমত",
+		"en": "capriciously",
+		"bn_syns": [
+			"খেয়ালখুশিমত"
+		],
+		"en_syns": [
+			"freakishly"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"-ˈprē-,kəˈpriSHəs",
+			"Khāmakhēẏālī"
+		],
+		"bn": "খামখেয়ালী",
+		"en": "capricious",
+		"bn_syns": [
+			"চঞ্চল",
+			"অনির্ভরযোগ্য",
+			"অনিয়মিত",
+			"খামখেয়ালী",
+			"ছিটগ্রস্ত",
+			"অব্যবস্থিতচিত্ত",
+			"আবদারে"
+		],
+		"en_syns": [
+			"fickle",
+			"inconstant",
+			"changeable",
+			"variable",
+			"mercurial",
+			"volatile",
+			"unpredictable",
+			"temperamental",
+			"whimsical",
+			"fanciful",
+			"flighty",
+			"quirky",
+			"faddish"
+		],
+		"sents": [
+			"It is <b>capricious</b> and fickle, changing moods easily.",
+			"In any event, I reserve the right to be arbitrary and <b>capricious</b> in choosing which comments to delete because they cross the line."
+		]
+	},
+	{
+		"pron": [
+			"kəˈprēs",
+			"Ābadāra"
+		],
+		"bn": "আবদার",
+		"en": "caprice",
+		"bn_syns": [
+			"মর্জি",
+			"খেয়াল",
+			"উচ্ছল খেয়ালি সুরের বাজনা",
+			"আবদার",
+			"অহেতুক কল্পনা",
+			"উত্কল্পনা",
+			"খামখেয়াল",
+			"খেয়ালখুশি",
+			"ঝোঁক",
+			"কোশখেয়াল"
+		],
+		"en_syns": [
+			"whim",
+			"whimsy",
+			"vagary",
+			"fancy",
+			"fad",
+			"quirk",
+			"eccentricity",
+			"foible"
+		],
+		"sents": [
+			"Every state and government in the world is now vulnerable to the <b>caprices</b> and blackmails of financial markets.",
+			"Unless you live in Spain, it is difficult to count the layers of irony stacked up alongside that idea, after 103 years in which the <b>caprice</b> of human judgement would appear to have rather favoured the famous team in white."
+		]
+	},
+	{
+		"pron": [
+			"ˌkap-,ˌkäpəˈCHēnō",
+			"Kāpācinō"
+		],
+		"bn": "কাপাচিনো",
+		"en": "cappuccino",
+		"bn_syns": [
+			"কাপাচিনো"
+		],
+		"en_syns": [],
+		"sents": [
+			"During my day-shifts, in between making countless <b>cappuccinos</b> and lattes, I would talk to the customers and ask them what they do.",
+			"We ordered coffees, two large <b>cappuccinos</b> at £1.65 each."
+		]
+	},
+	{
+		"pron": [
+			"kəˌpiCHəˈlāSHən",
+			"Ātmasamarpaṇa"
+		],
+		"bn": "আত্মসমর্পণ",
+		"en": "capitulation",
+		"bn_syns": [
+			"আত্মসমর্পণ",
+			"সর্তাধীনে আত্মসমর্পণ",
+			"আত্মসমর্পণের চুক্তিপত্র"
+		],
+		"en_syns": [
+			"fall",
+			"surrender"
+		],
+		"sents": [
+			"There is no compromise with such an enemy, no <b>capitulation</b> to him, no way to avoid casualties, no easy way out.",
+			"All around the world, Britain's defeat or <b>capitulation</b> was expected within weeks."
+		]
+	},
+	{
+		"pron": [
+			"kəˈpiCHəˌlāt",
+			"Ātmasamarpaṇa karā"
+		],
+		"bn": "আত্মসমর্পণ করা",
+		"en": "capitulate",
+		"bn_syns": [
+			"আত্মসমপর্ণ করা",
+			"সর্তাধীনে আত্মসমর্পণ করা",
+			"আত্মসমর্পণ করা"
+		],
+		"en_syns": [
+			"surrender",
+			"give in/up",
+			"yield",
+			"concede defeat",
+			"give up the struggle",
+			"submit",
+			"knuckle under",
+			"lay down one's arms",
+			"raise/show the white flag",
+			"throw in the towel"
+		],
+		"sents": [
+			"On 29 May there was a bombshell - the Belgian army had <b>capitulated</b> , reducing further the perimeter around Dunkirk.",
+			"An effort without ground action leaves the decision of when to <b>capitulate</b> with the enemy."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Byabasthāpariṣadbhabana"
+		],
+		"bn": "ব্যবস্থাপরিষদ্ভবন",
+		"en": "capitol",
+		"bn_syns": [
+			"ব্যবস্থাপরিষদ্ভবন",
+			"দেবরাজ জুপিটারের মন্দির",
+			"আইনসভা ভবন",
+			"প্রাচীন রোমে জুপিটারের মন্দির"
+		],
+		"en_syns": [
+			"capitol building"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkapitl",
+			"Byabasthāpariṣadbhabana"
+		],
+		"bn": "ব্যবস্থাপরিষদ্ভবন",
+		"en": "Capitol",
+		"bn_syns": [
+			"ব্যবস্থাপরিষদ্ভবন",
+			"দেবরাজ জুপিটারের মন্দির",
+			"আইনসভা ভবন",
+			"প্রাচীন রোমে জুপিটারের মন্দির"
+		],
+		"en_syns": [
+			"capitol building"
+		],
+		"sents": [
+			"These are local employees such as teachers who naturally cluster in the population centers, state employees at <b>capitols</b> and major cities and federal employees in major cities.",
+			"Legislators appear at state <b>capitols</b> or in Washington, DC, every year as representatives of their constituents."
+		]
+	},
+	{
+		"pron": [
+			"",
+			"Mr̥tuyadaṇḍa"
+		],
+		"bn": "মৃতু্যদণ্ড",
+		"en": "capital punishment",
+		"bn_syns": [
+			"মৃত্যুদণ্ড",
+			"মৃতু্যদণ্ড",
+			"বধদণ্ড"
+		],
+		"en_syns": [
+			"executing",
+			"execution",
+			"death penalty"
+		],
+		"sents": [
+			"They end up robbing a bank, for which the penalty in China is <b>capital punishment</b> .",
+			"I was hoping he'd be sent to jail for life, and not just because I oppose <b>capital punishment</b> ."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Baṛa hātēra akṣara"
+		],
+		"bn": "বড় হাতের অক্ষর",
+		"en": "capital letter",
+		"bn_syns": [
+			"বড় হাতের অক্ষর"
+		],
+		"en_syns": [
+			"capital",
+			"uppercase",
+			"majuscule",
+			"upper-case letter"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkapətlˌīz",
+			"Nija subidhārthē praẏōga karā"
+		],
+		"bn": "নিজ সুবিধার্থে প্রয়োগ করা",
+		"en": "capitalize",
+		"bn_syns": [
+			"নিজ সুবিধার্থে কাজে লাগান",
+			"মূলধনরুপে প্রয়োগ করা",
+			"নিজ সুবিধার্থে প্রয়োগ করা",
+			"পুঁজিতে পরিণত করা"
+		],
+		"en_syns": [
+			"finance",
+			"fund",
+			"underwrite",
+			"provide capital for",
+			"back",
+			"bankroll",
+			"stake",
+			"grubstake"
+		],
+		"sents": [
+			"an attempt by the opposition to <b>capitalize</b> on the government's embarrassment",
+			"One adjustment is to <b>capitalize</b> R&D expenditures and amortize them over five years instead of expensing these investments in the year they are made."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Nija subidhārthē praẏōga"
+		],
+		"bn": "নিজ সুবিধার্থে প্রয়োগ",
+		"en": "capitalization",
+		"bn_syns": [
+			"মূলধনে পরিণতি",
+			"নিজ সুবিধার্থে প্রয়োগ"
+		],
+		"en_syns": [],
+		"sents": [
+			"Industry sources said the startup will hire as many as 100 people and have an initial <b>capitalization</b> of $3540 million.",
+			"It is a zero-debt company which regularly posts growth of 30 per cent per annum, and is listed on the Nasdaq with a market <b>capitalization</b> in the billions."
+		]
+	},
+	{
+		"pron": [
+			"ˈkapətl-ist",
+			"Pum̐jibādī"
+		],
+		"bn": "পুঁজিবাদী",
+		"en": "capitalist",
+		"bn_syns": [
+			"ধনতান্ত্রিক",
+			"পুঁজিপতি",
+			"ধনিক",
+			"ধনতন্ত্রবাদী",
+			"পুঁজিবাদী"
+		],
+		"en_syns": [
+			"financier",
+			"investor",
+			"industrialist",
+			"magnate",
+			"tycoon",
+			"entrepreneur",
+			"businessman",
+			"businesswoman",
+			"capitalistic"
+		],
+		"sents": [
+			"The economic anarchy of <b>capitalist</b> society is the real source of the evil.",
+			"Marxism teaches that modern <b>capitalist</b> society is a society of antagonistic classes."
+		]
+	},
+	{
+		"pron": [
+			"ˈkapətlˌizəm",
+			"Pum̐jibāda"
+		],
+		"bn": "পুঁজিবাদ",
+		"en": "capitalism",
+		"bn_syns": [
+			"পুঁজিবাদ",
+			"ধনতন্ত্র",
+			"ধনতন্ত্রবাদ",
+			"ধনিকতন্ত্র"
+		],
+		"en_syns": [
+			"free enterprise",
+			"private enterprise",
+			"the free market",
+			"enterprise culture"
+		],
+		"sents": [
+			"She advocates the control of the excesses of <b>capitalism</b> by regulation and government.",
+			"Nor can we be said to have pure <b>capitalism</b> anymore than the Soviets had pure communism."
+		]
+	},
+	{
+		"pron": [
+			"ˈkapitl",
+			"Rājadhānī"
+		],
+		"bn": "রাজধানী",
+		"en": "capital",
+		"bn_syns": [
+			"মস্তক-সম্বন্ধীয়",
+			"প্রাণদণ্ডযোগ্য",
+			"মারাত্মক",
+			"প্রধান",
+			"মুখ্য",
+			"শীর্ষস্থানীয়",
+			"গুরুত্বপূর্ণ",
+			"উত্কৃষ্ট",
+			"",
+			"মৃত্যুদণ্ড সংক্রান্ত",
+			"মূলধন",
+			"রাজধানী",
+			"পুঁজি",
+			"রেস্ত",
+			"প্রধান দ্রব্য",
+			"নীবিবন্দ্ধ",
+			"নগর",
+			"বড় হাতের অক্ষর"
+		],
+		"en_syns": [
+			"majuscule",
+			"great",
+			"first city",
+			"seat of government",
+			"metropolis"
+		],
+		"sents": [
+			"In addition to a team, a space enterprise requires start-up <b>capital</b> .",
+			"The dominant society uses cultural <b>capital</b> to lure nondominant groups into being like them."
+		]
+	},
+	{
+		"pron": [
+			"ˈkapəˌlerē",
+			"Kaiśika"
+		],
+		"bn": "কৈশিক",
+		"en": "capillary",
+		"bn_syns": [
+			"সূক্ষ্ম নল",
+			"কৈশিক নাড়ী",
+			"কৈশিক"
+		],
+		"en_syns": [
+			"capillary tube",
+			"hairlike"
+		],
+		"sents": [
+			"One of the most colorful controversies in the first decade of the 20th century concerned how oxygen moved across the pulmonary <b>capillary</b> wall into the blood.",
+			"This encroachment on brain tissue by enlarged ventricles impinges on the caliber of arterioles and <b>capillaries</b> , often resulting in ischemia."
+		]
+	},
+	{
+		"pron": [
+			"ˈkāpər",
+			"Lampha"
+		],
+		"bn": "লম্ফ",
+		"en": "caper",
+		"bn_syns": [
+			"আনন্দে নেচে বেড়ানো",
+			"একজাতীয় কাঁটাগাছ",
+			"নাচা",
+			"লাফান",
+			"লম্ফ দেত্তয়া",
+			"চঁচল নৃত্য করা",
+			"লম্ফ",
+			"নৃত্য",
+			"নাচ"
+		],
+		"en_syns": [
+			"skip",
+			"dance",
+			"romp",
+			"frisk",
+			"gambol",
+			"cavort",
+			"prance",
+			"frolic",
+			"leap",
+			"hop",
+			"jump",
+			"rollick"
+		],
+		"sents": [
+			"The 90 minute opener is a <b>caper</b> involving a thoroughbred racehorse, a bunch of knock-off porn videos (also featuring animals), a Greek kebab shop owner and, naturally, wads of cash.",
+			"Their latest <b>caper</b> is a promise to abolish all university tuition fees - while Labour is taking the economically responsible course of putting the fees up!"
+		]
+	},
+	{
+		"pron": [
+			"kāp",
+			"Antarīpa"
+		],
+		"bn": "অন্তরীপ",
+		"en": "cape",
+		"bn_syns": [
+			"অন্তরীপ",
+			"স্কন্ধাবরণ",
+			"অঙ্গরক্ষণ",
+			"হাতাহীন কোটবিশেষ"
+		],
+		"en_syns": [
+			"cloak",
+			"mantle",
+			"cope",
+			"wrap",
+			"stole",
+			"poncho",
+			"shawl",
+			"tippet",
+			"capelet",
+			"pelisse",
+			"mantelet"
+		],
+		"sents": [
+			"the hair on a <b>cape</b> for the taxidermist can spoil in warm weather",
+			"the robe was decorated with gold lace on the fronts, <b>cape</b>, and hem"
+		]
+	},
+	{
+		"pron": [
+			"kəˈpasitē",
+			"Dhāraṇakṣamatā"
+		],
+		"bn": "ধারণক্ষমতা",
+		"en": "capacity",
+		"bn_syns": [
+			"সামর্থ্য",
+			"পদাধিকার",
+			"ধারণক্ষমতা",
+			"শক্তি",
+			"ধারণাশক্তি",
+			"ধারকতা",
+			"প্রৌঢ়ি"
+		],
+		"en_syns": [
+			"volume",
+			"size",
+			"magnitude",
+			"dimensions",
+			"measurements",
+			"proportions"
+		],
+		"sents": [
+			"And businesses with plants not working at full <b>capacity</b> because of reduced demand are not likely to rush into a lot of new investments.",
+			"The consortium - which serves in a voluntary <b>capacity</b> - is chaired by John Foley, chief executive of Waterford Crystal."
+		]
+	},
+	{
+		"pron": [
+			"ˈkāpəbəl",
+			"Sakṣama"
+		],
+		"bn": "সক্ষম",
+		"en": "capable",
+		"bn_syns": [
+			"যোগ্য",
+			"ক্ষমতাসম্পন্ন",
+			"বিচক্ষণ",
+			"সক্ষম",
+			"সমর্থ",
+			"কর্মক্ষম",
+			"ক্ষম",
+			"ক্ষমতাবান্",
+			"ক্ষমতাশালী",
+			"কার্যকুশল",
+			"কর্মণ্য",
+			"শক্ত",
+			"পর্যাপ্ত",
+			"পারক",
+			"প্রতিভাধর",
+			"প্রতিভাশালী",
+			"প্রতিভাসম্পন্ন",
+			"দক্ষ"
+		],
+		"en_syns": [
+			"competent",
+			"able",
+			"efficient",
+			"effective",
+			"proficient",
+			"accomplished",
+			"adept",
+			"handy",
+			"experienced",
+			"skillful",
+			"skilled",
+			"talented",
+			"gifted",
+			"useful"
+		],
+		"sents": [
+			"All the other regions had at least one outstanding player <b>capable of</b> making a huge difference.",
+			"All in all, he proved a <b>capable</b> Chairman, handling staff on both sides of the Irish Sea with aplomb."
+		]
+	},
+	{
+		"pron": [
+			"ˌkāpəˈbilitē",
+			"Sāmarthya"
+		],
+		"bn": "সামর্থ্য",
+		"en": "capability",
+		"bn_syns": [
+			"সামর্থ্য",
+			"যোগ্যতা",
+			"শক্তি",
+			"পারকতা",
+			"প্রৌঢ়ি"
+		],
+		"en_syns": [
+			"ability",
+			"capacity",
+			"power",
+			"potential",
+			"competence",
+			"proficiency",
+			"adeptness",
+			"aptitude",
+			"faculty",
+			"wherewithal",
+			"experience",
+			"skill",
+			"skillfulness",
+			"talent",
+			"flair",
+			"know-how"
+		],
+		"sents": [
+			"he had an intuitive <b>capability</b> of bringing the best out in people",
+			"a graphics <b>capability</b>"
+		]
+	},
+	{
+		"pron": [
+			"kap",
+			"Ṭupi"
+		],
+		"bn": "টুপি",
+		"en": "cap",
+		"bn_syns": [
+			"টুপি দিয়া ঢাকা",
+			"টুপি পরান",
+			"টুপি দ্বারা আবৃত করা",
+			"মুখ আটকানো",
+			"কৃতিত্বে ছাপাইয়া যাত্তয়া",
+			"টীমের সদস্যভুক্ত করা",
+			"কানাহীন নরম টুপি",
+			"ঢাকনা",
+			"টুপি পরিয়ে দেওয়া",
+			"টুপি",
+			"মস্তকাবরণ",
+			"টুপির ন্যায় ঢাকনা",
+			"মুখটি",
+			"উপরিভাগ",
+			"সর্বাগ্রভাগ"
+		],
+		"en_syns": [
+			"top",
+			"crown",
+			"cover",
+			"coat",
+			"lid",
+			"stopper",
+			"cork",
+			"bung"
+		],
+		"sents": [
+			"Although the colour of the <b>cap</b> is quite variable, the blackening should serve to distinguish it from other similar looking fungi.",
+			"He has just called for a constitutional <b>cap</b> on state spending and made clear his distaste for new taxes."
+		]
+	},
+	{
+		"pron": [
+			"ˈkanyən",
+			"Gabhīra khāda"
+		],
+		"bn": "গভীর খাদ",
+		"en": "canyon",
+		"bn_syns": [
+			"গভীর গিরিখাত",
+			"গিরিসংকট",
+			"গভীর খাদ",
+			"গভীর গিরিসংকট"
+		],
+		"en_syns": [
+			"ravine",
+			"gorge",
+			"gully",
+			"defile",
+			"couloir",
+			"chasm",
+			"abyss",
+			"gulf",
+			"gulch",
+			"coulee"
+		],
+		"sents": [
+			"Three fascinating cultures converge in the red rock <b>canyons</b> of Mesa Verde.",
+			"The photography group go south again for the day, sheltered from the westerly wind to dive a maze of deep, narrow <b>canyons</b> ."
+		]
+	},
+	{
+		"pron": [
+			"ˈkanvəs",
+			"Paṭa"
+		],
+		"bn": "পট",
+		"en": "canvass",
+		"bn_syns": [
+			"চাত্তয়া",
+			"পূর্ণ আলোচনা করা",
+			"পট"
+		],
+		"en_syns": [
+			"campaign",
+			"electioneer",
+			"stump",
+			"barnstorm",
+			"canvas",
+			"sheet",
+			"sail"
+		],
+		"sents": [
+			"they promised to <b>canvass</b> all member clubs for their views",
+			"We are going to be out there to <b>canvass</b> every vote and prove to people that we should be in there representing this part of the county."
+		]
+	},
+	{
+		"pron": [
+			"ˈkanvəs",
+			"Kyānabhāsa"
+		],
+		"bn": "ক্যানভাস",
+		"en": "canvas",
+		"bn_syns": [
+			"ত্রিপল",
+			"পটভূমি",
+			"ক্যানভাস",
+			"পট",
+			"ক্যাঁবিস্",
+			"পাল"
+		],
+		"en_syns": [
+			"canvass",
+			"sheet",
+			"sail"
+		],
+		"sents": [
+			"a <b>canvas</b> bag",
+			"Eventually he saw them; the large wooden wagons covered with heavy <b>canvas</b> cloth and drawn by oxen."
+		]
+	},
+	{
+		"pron": [
+			"-ˈēs,ˌkantnˈēz",
+			"Kyānaṭōnīja"
+		],
+		"bn": "ক্যানটোনীজ",
+		"en": "Cantonese",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"Some West Coast and Hawaiian galleries take additional steps to ensure success with this market by hiring multilingual consultants who speak Japanese, <b>Cantonese</b> or Mandarin Chinese.",
+			"The menu is fairly standard for a <b>Cantonese</b> restaurant of this type: a range of starters and Chinese soups, main dishes featuring pork, beef, chicken and duck, and a decent selection of vegetarian dishes."
+		]
+	},
+	{
+		"pron": [
+			"ˈkantər",
+			"Sbacchandadhābana"
+		],
+		"bn": "স্বচ্ছন্দধাবন",
+		"en": "canter",
+		"bn_syns": [
+			"একটু স্বচ্ছন্দগতিতে ঘোড়াকে ধাবিত করা",
+			"আস্তে আস্তে যাত্তয়া",
+			"কদমে যাত্তয়া",
+			"ঘোড়া কদমে চালান",
+			"স্বচ্ছন্দধাবন",
+			"ঘোড়ার কদম গতি"
+		],
+		"en_syns": [
+			"lope"
+		],
+		"sents": [
+			"It takes a lot of practice, but eventually you'll be able to advance to a faster trot and even a <b>canter</b> and still keep your horse on the bit without getting into a pulling match.",
+			"I rode away at a <b>canter</b>"
+		]
+	},
+	{
+		"pron": [
+			"kanˈtēn",
+			"Sēnānibāsēra dōkāna"
+		],
+		"bn": "সেনানিবাসের দোকান",
+		"en": "canteen",
+		"bn_syns": [
+			"খাদ্যপানীয়ের দোকান বা হোটেল",
+			"সৈনিকের জলপাত্র",
+			"সেনানিবাসের দোকান"
+		],
+		"en_syns": [
+			"container",
+			"flask",
+			"bottle"
+		],
+		"sents": [
+			"Anybody who has seen a fight sequence from a Hindi film which takes place in a college <b>canteen</b> or a restaurant will know the answer.",
+			"CamelBak, whose soft-sided <b>canteens</b> are a hybrid water bottle and backpack, developed a new filtering system to protect U.S. troops in Kuwait from water-borne bacteria."
+		]
+	},
+	{
+		"pron": [
+			"kanˈtaNGkərəs",
+			"Badamējājī"
+		],
+		"bn": "বদমেজাজী",
+		"en": "cantankerous",
+		"bn_syns": [
+			"বদমেজাজি",
+			"কলহপরায়ণ",
+			"বদমেজাজী",
+			"ঝগড়াটে",
+			"কলহপ্রি়",
+			"কুস্বভাব"
+		],
+		"en_syns": [
+			"crotchety",
+			"ornery"
+		],
+		"sents": [
+			"Like all of us, he could be grumpy and <b>cantankerous</b> , but he was never mean-spirited in deed or thought.",
+			"He can be overbearing, <b>cantankerous</b> and obnoxious at times."
+		]
+	},
+	{
+		"pron": [
+			"ˈkantlˌōp",
+			"Phuṭi"
+		],
+		"bn": "ফুটি",
+		"en": "cantaloupe",
+		"bn_syns": [
+			"ফুটি",
+			"খরমুজ",
+			"খরবুজ"
+		],
+		"en_syns": [
+			"cantaloup"
+		],
+		"sents": [
+			"Research shows that bananas, <b>cantaloupes</b> , cucumbers, honeydew, watermelon, and zucchini, as well as chamomile and echinacea, contain proteins in their pollen that resemble the pollen found in ragweed.",
+			"Good vitamin-C sources are citrus fruits, strawberries, <b>cantaloupes</b> , tomatoes, green and red bell peppers and broccoli."
+		]
+	},
+	{
+		"pron": [
+			"kant",
+			"Nārā"
+		],
+		"bn": "নারা",
+		"en": "can't",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkanəpē",
+			"Śāmiẏānā"
+		],
+		"bn": "শামিয়ানা",
+		"en": "canopy",
+		"bn_syns": [
+			"চাঁদোয়া",
+			"শামিয়ানা",
+			"আচ্ছাদন",
+			"চাঁদনী",
+			"চন্দ্রাতপ",
+			"চাঁদনি"
+		],
+		"en_syns": [
+			"awning",
+			"shade",
+			"sunshade",
+			"brise-soleil",
+			"marquee",
+			"chuppah"
+		],
+		"sents": [
+			"The hall door is very fine, having outer casings and massive pillars supporting an ornamental <b>canopy</b> all of cut stone.",
+			"To keep the temperature inside from getting too high, a <b>canopy</b> shades the growth chambers."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Canopied"
+		],
+		"bn": "canopied",
+		"en": "canopied",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"kəˈno͞o",
+			"Śālti"
+		],
+		"bn": "শাল্তি",
+		"en": "canoe",
+		"bn_syns": [
+			"ডিঙি নৌকো",
+			"দাঁডটানা নৌকো",
+			"শাল্তি",
+			"ডোঙ্গা",
+			"না",
+			"দোনা"
+		],
+		"en_syns": [
+			"paddle",
+			"dugout",
+			"kayak",
+			"outrigger",
+			"birchbark",
+			"pirogue"
+		],
+		"sents": [
+			"I watch rice being planted, traditional <b>canoes</b> paddled in peacoloured swamps and monks in saffron robes walking along red dirt roads.",
+			"Hundreds of people headed for the annual event, either taking to <b>canoes</b> or sailing boats or enjoying a range of activities, including a craft fair and a farmers' market."
+		]
+	},
+	{
+		"pron": [
+			"ˈkanē",
+			"Mitabyaẏī"
+		],
+		"bn": "মিতব্যয়ী",
+		"en": "canny",
+		"bn_syns": [
+			"বিচক্ষণ",
+			"মিতব্যয়ী",
+			"চতুর",
+			"সাবধান"
+		],
+		"en_syns": [
+			"shrewd",
+			"astute",
+			"smart",
+			"sharp",
+			"sharp-witted",
+			"discerning",
+			"penetrating",
+			"discriminating",
+			"perceptive",
+			"perspicacious",
+			"wise",
+			"worldly-wise",
+			"sagacious",
+			"cunning",
+			"crafty",
+			"wily",
+			"as sharp as a tack",
+			"savvy",
+			"long-headed"
+		],
+		"sents": [
+			"At the same time, the political invulnerability of the Liberal party has, rightly or wrongly, almost universally been attributed to the political <b>canniness</b> of ‘Teflon John’.",
+			"Modern hospital managers will envy the <b>canniness</b> of their counterparts from the 19th century."
+		]
+	},
+	{
+		"pron": [
+			"kəˈnät,ˈkanˌät",
+			"Nārā"
+		],
+		"bn": "নারা",
+		"en": "cannot",
+		"bn_syns": [
+			"নারা"
+		],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkanənˌbôl",
+			"Gōlāguli"
+		],
+		"bn": "গোলাগুলি",
+		"en": "cannonball",
+		"bn_syns": [
+			"কামান-গোলা",
+			"গোলাগুলি",
+			"গোলা"
+		],
+		"en_syns": [
+			"cannonball",
+			"round shot",
+			"cannon ball"
+		],
+		"sents": [
+			"The Crimean War yielded inkwells made from Russian <b>cannonballs</b> , and the mainly naval Spanish-American war of 1898 produced souvenirs made from submarine cable cut while under fire, and artillery shells made into cigar cutters.",
+			"The question was posed in the latter half of the 16th century, when Sir Walter Raleigh asked the English mathematician Thomas Harriot for a quick way to estimate the number of <b>cannonballs</b> that could be stacked on the deck of a ship."
+		]
+	},
+	{
+		"pron": [
+			"ˈkanən",
+			"Kāmāna"
+		],
+		"bn": "কামান",
+		"en": "cannon",
+		"bn_syns": [
+			"কামান ছোঁড়া",
+			"ক্যানন করা",
+			"কামান দাগা",
+			"বড়ো ভারি কামান",
+			"কামান",
+			"ক্যানন",
+			"তোপ"
+		],
+		"en_syns": [
+			"collide with",
+			"hit",
+			"run into",
+			"crash into",
+			"plow into",
+			"mounted gun",
+			"field gun",
+			"piece of artillery",
+			"mortar",
+			"howitzer",
+			"culverin",
+			"falconet"
+		],
+		"sents": [
+			"A player makes a <b>cannon</b> by hitting the object balls with the cue ball.",
+			"The <b>cannon</b> crews defended their guns with everything they had, turning from guns to knives and even their bare knuckles."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Naramānsabhakṣaṇaprathā"
+		],
+		"bn": "নরমাংসভক্ষণপ্রথা",
+		"en": "cannibalism",
+		"bn_syns": [
+			"স্বজাতিভক্ষণ",
+			"নরমাংসভক্ষণপ্রথা"
+		],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkanəbəl",
+			"Rākṣasa"
+		],
+		"bn": "রাক্ষস",
+		"en": "cannibal",
+		"bn_syns": [
+			"মানুষখেকো",
+			"নরখাদক",
+			"রাক্ষস",
+			"নরভুক্",
+			"স্বগোত্র ভোজী",
+			"নরমাংসভোজী"
+		],
+		"en_syns": [
+			"man-eater",
+			"people-eater",
+			"anthropophagite",
+			"anthropophagist"
+		],
+		"sents": [
+			"He writes of the information he is given in one village that members of a neighboring tribe were <b>cannibals</b> .",
+			"If, as the post-modern theorists have told us, there are no masterpieces left to be made, then the only remaining option is to become culture vultures, <b>cannibalistically</b> gnawing away at what came before."
+		]
+	},
+	{
+		"pron": [
+			"ˈkanərē",
+			"Cannery"
+		],
+		"bn": "Cannery",
+		"en": "cannery",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"Foreign-born women staffed <b>canneries</b> , textile mills, and garment factories and worked as cooks and child-care providers for middle-class Americans.",
+			"He set up a <b>cannery</b> in Glencolumbcille with the parish priest Fr McDyer and got the local people growing vegetables."
+		]
+	},
+	{
+		"pron": [
+			"kand",
+			"Rēḍimēḍa"
+		],
+		"bn": "রেডিমেড",
+		"en": "canned",
+		"bn_syns": [
+			"ধাতুপাত্রে রক্ষিত"
+		],
+		"en_syns": [
+			"tinned"
+		],
+		"sents": [
+			"If the audience isn't applauding, <b>canned</b> applause should be at the ready.",
+			"Upon her arrival home she was greeted by the sound of <b>canned</b> laughter floating out of the den."
+		]
+	},
+	{
+		"pron": [
+			"ˈkanəbəs",
+			"Bhāṁ"
+		],
+		"bn": "ভাং",
+		"en": "cannabis",
+		"bn_syns": [
+			"ভাং",
+			"মাদকদ্রব্যবিশেষ"
+		],
+		"en_syns": [
+			"hemp"
+		],
+		"sents": [
+			"Heroin and <b>cannabis resin</b> with an estimated street value of £120,000 was seized by the Garda National Drugs Unit as part of Operation Jumbo.",
+			"They seized some cannabis bush and <b>cannabis resin</b> from a caravan in the back garden and the couple were arrested, but a thorough search of the house revealed no further drugs."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kīṭa kālaśiṭē"
+		],
+		"bn": "কীট কালশিটে",
+		"en": "canker sore",
+		"bn_syns": [],
+		"en_syns": [
+			"canker"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkaNGkər",
+			"Kīṭa"
+		],
+		"bn": "কীট",
+		"en": "canker",
+		"bn_syns": [
+			"ক্ষতরোগ",
+			"নষ্ট করা",
+			"ক্ষয় করা",
+			"কীট",
+			"মুখের দূষিত ক্ষত",
+			"মুখক্ষত",
+			"দু:প্রভাব",
+			"বৃক্ষরোগ"
+		],
+		"en_syns": [
+			"fungal disease",
+			"plant rot",
+			"blight"
+		],
+		"sents": [
+			"<b>canker</b> is this crop's arch enemy",
+			"It is quite a remarkable thing for a novelist to name the <b>canker</b> that makes for human rottenness, especially since James does it with such fine literary craft and such acute theological discernment."
+		]
+	},
+	{
+		"pron": [
+			"ˈkanəstər",
+			"Ṭina"
+		],
+		"bn": "টিন",
+		"en": "canister",
+		"bn_syns": [
+			"ছোটো বাক্স",
+			"টিন",
+			"পেটী",
+			"কেনেস্তারা"
+		],
+		"en_syns": [
+			"container",
+			"box",
+			"tin",
+			"can"
+		],
+		"sents": [
+			"The most common canon was called the Napoleon and used both grape shot and <b>canister</b> ammunition.",
+			"Small coffee cans, peanut jars, or even those little black film <b>canisters</b> , all make decent containers."
+		]
+	},
+	{
+		"pron": [
+			"ˈkāˌnīn",
+			"Kukurēra"
+		],
+		"bn": "কুকুরের",
+		"en": "canine",
+		"bn_syns": [
+			"কুক্করসুলভ",
+			"শ্বাদন্ত",
+			"কুকুরের",
+			"কুকুর-সম্বন্ধীয়"
+		],
+		"en_syns": [
+			"dog",
+			"wolf",
+			"fox",
+			"doglike",
+			"doggish",
+			"wolfish",
+			"wolflike",
+			"lupine",
+			"foxlike",
+			"vulpine"
+		],
+		"sents": [
+			"It will then be compared to small amounts of sequence from 10 to 20 other breeds, including the beagle, to study genetic variation within the <b>canine</b> species.",
+			"Is a <b>canine</b> version of cognitive behavioural therapy the answer?"
+		]
+	},
+	{
+		"pron": [
+			"kān",
+			"Bēta"
+		],
+		"bn": "বেত",
+		"en": "cane",
+		"bn_syns": [
+			"বেত বা ঐ জাতীয় গুল্ম",
+			"বেত্রাঘাত করা",
+			"বেত মারা",
+			"বেত",
+			"চাবুক",
+			"বেত্র",
+			"ছড়ি"
+		],
+		"en_syns": [
+			"beat",
+			"strike",
+			"hit",
+			"flog",
+			"thrash",
+			"lash",
+			"birch",
+			"flagellate",
+			"belt",
+			"whale",
+			"walking stick",
+			"staff",
+			"alpenstock",
+			"crook",
+			"pikestaff"
+		],
+		"sents": [
+			"These materials, as well as wicker and <b>cane</b> , have low moisture absorption capability.",
+			"I'm very pleased to say I missed out on the days of school corporal punishment and thankfully was never exposed to the <b>cane</b> or other similar infamous tools of torture."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kyānḍi bāra"
+		],
+		"bn": "ক্যান্ডি বার",
+		"en": "candy bar",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkandē",
+			"Michari"
+		],
+		"bn": "মিছরি",
+		"en": "candy",
+		"bn_syns": [
+			"ক্যান্ডি",
+			"মিছরি",
+			"মিছরী",
+			"জমাট বাঁধা মিষ্টান্ন"
+		],
+		"en_syns": [
+			"glaze",
+			"sugarcoat",
+			"bonbon",
+			"confectionery",
+			"sweet"
+		],
+		"sents": [
+			"a <b>candy</b> bar",
+			"Simple sugars such as <b>candy</b> and sodas will give you a quick energy high and then drop you flat in mood and strength."
+		]
+	},
+	{
+		"pron": [
+			"-ˌdôr,ˈkandər",
+			"Akapaṭatā"
+		],
+		"bn": "অকপটতা",
+		"en": "candor",
+		"bn_syns": [
+			"সারল্য",
+			"অকপটতা",
+			"সরলতা",
+			"অমায়িকতা"
+		],
+		"en_syns": [
+			"frankness",
+			"openness",
+			"honesty",
+			"candidness",
+			"truthfulness",
+			"sincerity",
+			"forthrightness",
+			"directness",
+			"plain-spokenness",
+			"bluntness",
+			"straightforwardness",
+			"outspokenness",
+			"telling it like it is"
+		],
+		"sents": [
+			"a man of refreshing <b>candor</b>",
+			"His charm, passion, and <b>candor</b> are very refreshing in this age of flash and hype."
+		]
+	},
+	{
+		"pron": [
+			"ˈkandlˌstik",
+			"Pilasuja"
+		],
+		"bn": "পিলসুজ",
+		"en": "candlestick",
+		"bn_syns": [
+			"বাতিদান",
+			"পিলসুজ",
+			"দীপাধার",
+			"মোমবাতিদান"
+		],
+		"en_syns": [
+			"candle holder",
+			"candelabra",
+			"menorah",
+			"flambeau",
+			"sconce"
+		],
+		"sents": [
+			"A feeling of quality about the place was enhanced by the starched white tablecloths and napkins, and silver <b>candlesticks</b> .",
+			"I certainly didn't want to spend my time polishing <b>candlesticks</b> and candelabra."
+		]
+	},
+	{
+		"pron": [
+			"ˈkandlˌlīt",
+			"Sandhyākāla"
+		],
+		"bn": "সন্ধ্যাকাল",
+		"en": "candlelight",
+		"bn_syns": [
+			"সন্ধ্যাকাল",
+			"বাতির আলো"
+		],
+		"en_syns": [],
+		"sents": [
+			"The narrow mine shafts meant miners often had to work on their sides by <b>candlelight</b> .",
+			"we dined by <b>candlelight</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˈkandl",
+			"Bāti"
+		],
+		"bn": "বাতি",
+		"en": "candle",
+		"bn_syns": [
+			"বাতি",
+			"আলোক",
+			"মোমবাতি"
+		],
+		"en_syns": [
+			"taper",
+			"votive (candle)",
+			"pillar (candle)",
+			"tea light",
+			"glim"
+		],
+		"sents": [
+			"If the candle is put out the light disappears, but if the candle begins to melt and we touch the end of the dying candle to a new <b>candle</b> , then the light continues.",
+			"As I prayed this weekend, I lit the <b>candles</b> in our little shrine and found it focused my prayers beautifully."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Akapaṭē"
+		],
+		"bn": "অকপটে",
+		"en": "candidly",
+		"bn_syns": [
+			"অকপটে"
+		],
+		"en_syns": [
+			"frankly",
+			"honestly"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"-dit,ˈkandiˌdāt",
+			"Prārthī"
+		],
+		"bn": "প্রার্থী",
+		"en": "candidate",
+		"bn_syns": [
+			"অভ্যর্থী",
+			"প্রার্থী",
+			"পদপ্রার্থী",
+			"নির্বাচনপ্রার্থী",
+			"পরীক্ষার্থী",
+			"উমেদার"
+		],
+		"en_syns": [
+			"applicant",
+			"job applicant",
+			"job seeker",
+			"interviewee",
+			"contender",
+			"contestant",
+			"nominee"
+		],
+		"sents": [
+			"This was the time of a certain Ambrosius Aurelianus who is a likely <b>candidate</b> for King Arthur of legend.",
+			"This is the first time ever in any election where the <b>candidate</b> I vote for will actually win."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Prārthī"
+		],
+		"bn": "প্রার্থী",
+		"en": "candidacy",
+		"bn_syns": [
+			"প্রার্থী"
+		],
+		"en_syns": [
+			"candidature",
+			"political campaign",
+			"electioneering"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkandid",
+			"Spaṣṭabaktā"
+		],
+		"bn": "স্পষ্টবক্তা",
+		"en": "candid",
+		"bn_syns": [
+			"পক্ষপাতহীন",
+			"সাদাসিধে",
+			"স্পষ্টবক্তা",
+			"অকপট",
+			"ঋজু",
+			"অমায়িক",
+			"সত্",
+			"উলঙ্গ",
+			"অকৈতব",
+			"সরলপূর্ণ",
+			"সরল",
+			"পক্ষপাতশূন্য",
+			"খোলসা",
+			"পরিষ্কার"
+		],
+		"en_syns": [
+			"frank",
+			"outspoken",
+			"forthright",
+			"blunt",
+			"open",
+			"honest",
+			"truthful",
+			"sincere",
+			"direct",
+			"plain-spoken",
+			"straightforward",
+			"ingenuous",
+			"bluff",
+			"upfront",
+			"on the level",
+			"on the up and up"
+		],
+		"sents": [
+			"At the very least, we need to have a frank and <b>candid</b> debate about what we're getting for what we're giving up.",
+			"No, what you want are <b>candid</b> shots of groups of people relating to each other."
+		]
+	},
+	{
+		"pron": [
+			"ˈkansər",
+			"Kyānsāra"
+		],
+		"bn": "ক্যান্সার",
+		"en": "cancer",
+		"bn_syns": [
+			"কর্কটরোগ",
+			"পচনশীল ক্ষত",
+			"ক্যানসার নামক মারাত্মক রোগ"
+		],
+		"en_syns": [
+			"malignant growth",
+			"cancerous growth",
+			"tumor",
+			"malignancy",
+			"carcinoma",
+			"sarcoma",
+			"melanoma",
+			"lymphoma",
+			"myeloma"
+		],
+		"sents": [
+			"Pesticides have also been associated with a series of other diseases, including <b>cancer</b> .",
+			"he's got <b>cancer</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˈkansər",
+			"Karkaṭarāśi"
+		],
+		"bn": "কর্কটরাশি",
+		"en": "Cancer",
+		"bn_syns": [
+			"কর্কটরাশি"
+		],
+		"en_syns": [
+			"malignant growth",
+			"cancerous growth",
+			"tumor",
+			"malignancy",
+			"carcinoma",
+			"sarcoma",
+			"melanoma",
+			"lymphoma",
+			"myeloma"
+		],
+		"sents": [
+			"Traditionally, the caring professions attract sun-sign <b>Cancers</b> , but professions connected with the past also appeal greatly, as does cookery.",
+			"the star Delta <b>Cancri</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˌkansəˈlāSHən",
+			"Bātila"
+		],
+		"bn": "বাতিল",
+		"en": "cancellation",
+		"bn_syns": [
+			"বিলোপসাধন",
+			"রদ",
+			"বিলোপ",
+			"বাতিল করা"
+		],
+		"en_syns": [],
+		"sents": [
+			"The notice period for <b>cancellation</b> by insurers should not be less than 30 days to provide enough time to a policyholder in organising cover from alternative sources.",
+			"the debtor can procure <b>cancellation</b> if satisfied within one month"
+		]
+	},
+	{
+		"pron": [
+			"ˈkansəl",
+			"Bātila"
+		],
+		"bn": "বাতিল",
+		"en": "cancel",
+		"bn_syns": [
+			"রদ",
+			"বাতিলকরণ",
+			"কাটিয়া ফেলা",
+			"কাটিয়া দেত্তয়া",
+			"বিলুপ্ত করা",
+			"নষ্ট করা",
+			"লোপ করা",
+			"রদ করা",
+			"বাতিল করা"
+		],
+		"en_syns": [
+			"natural",
+			"call off",
+			"abandon",
+			"scrap",
+			"drop",
+			"ax",
+			"scrub",
+			"nix"
+		],
+		"sents": [
+			"a stamp franked and with an adhesive <b>cancel</b>",
+			"If you obtain service work elsewhere, you may void or <b>cancel</b> the warranty all together."
+		]
+	},
+	{
+		"pron": [
+			"kəˈne(ə)rē",
+			"Haladē"
+		],
+		"bn": "হলদে",
+		"en": "canary",
+		"bn_syns": [
+			"ক্যান্যারি-দ্বিপের নৃত্যবিশেষ",
+			"হলদে"
+		],
+		"en_syns": [
+			"canary yellow"
+		],
+		"sents": [
+			"Janet has been keeping exotic birds including cockatiels, finches and <b>canaries</b> for 12 years.",
+			"There is nothing elegant about Monsella; it begins as it means to go on, bursting with exuberant primary colour, the <b>canary yellow</b> petals striped with blood red spilling over in every direction."
+		]
+	},
+	{
+		"pron": [
+			"kəˈnal",
+			"Khāla"
+		],
+		"bn": "খাল",
+		"en": "canal",
+		"bn_syns": [
+			"জলপথ",
+			"নালা",
+			"খাল",
+			"ক্যানেল",
+			"নল",
+			"পয়োনালী",
+			"নহর"
+		],
+		"en_syns": [
+			"canalise",
+			"canalize",
+			"inland waterway",
+			"watercourse",
+			"channel"
+		],
+		"sents": [
+			"This canal is the top <b>canal</b> of the inner ear so it is actually right under the brain.",
+			"Percival Lowell was convinced that these lines were <b>canals</b> , built by a race of intelligent Martians."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kānāḍiẏāna"
+		],
+		"bn": "কানাডিয়ান",
+		"en": "Canadian",
+		"bn_syns": [
+			"ক্যানেডাদেশীয়",
+			"ক্যানেডাবাসী"
+		],
+		"en_syns": [],
+		"sents": [
+			"he's <b>Canadian</b>"
+		]
+	},
+	{
+		"pron": [
+			"kan",
+			"Yā karatē pārēna"
+		],
+		"bn": "যা করতে পারেন",
+		"en": "can",
+		"bn_syns": [
+			"হাতলবিশিষ্ট ধাতুপাত্র",
+			"ঢাকনা-বিশিষ্ট ধাতুপাত্র",
+			"ধাতুপাত্র",
+			"পায়খানা",
+			"সমর্থ হত্তয়া",
+			"পারা",
+			"সম্ভব হত্তয়া",
+			"ধাতুপাত্রে রাখা",
+			"তরল পদার্থ রাখার পাত্র",
+			"সক্ষম হওয়া",
+			"সম্মতি বোঝাতে"
+		],
+		"en_syns": [
+			"tin can",
+			"aluminum can",
+			"canister",
+			"spray can",
+			"garbage can",
+			"trash can",
+			"fire",
+			"dismiss",
+			"ax",
+			"let go",
+			"lay off",
+			"sack"
+		],
+		"sents": [
+			"Who but the most resentful <b>can</b> seriously doubt that he, too, belongs on that list?",
+			"Why does Paul use a translator to communicate with a man whose language he <b>can</b> speak?"
+		]
+	},
+	{
+		"pron": [
+			"ˈkampəs",
+			"Bidyāẏatana"
+		],
+		"bn": "বিদ্যায়তন",
+		"en": "campus",
+		"bn_syns": [
+			"স্কুল কলেজের চত্বর",
+			"বিদ্যায়তন"
+		],
+		"en_syns": [],
+		"sents": [
+			"Coincidentally enough, the new university <b>campuses</b> are all situated near military bases.",
+			"An elegant bridge would link the university and college <b>campus</b> to the city centre."
+		]
+	},
+	{
+		"pron": [
+			"ˈkampˌsīt",
+			"Kyāmpiṁ sā'iṭa"
+		],
+		"bn": "ক্যাম্পিং সাইট",
+		"en": "campsite",
+		"bn_syns": [
+			"ক্যাম্পিং সাইট"
+		],
+		"en_syns": [
+			"camping site",
+			"bivouac",
+			"camping ground",
+			"encampment",
+			"campground"
+		],
+		"sents": [
+			"There are the remains of about half a dozen <b>campsites</b> , and the campers have just left tons of rubbish.",
+			"Yesterday morning Hawes Tourist Information Centre only received one call about bed and breakfast accommodation, but lots of inquiries about <b>campsites</b> ."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kyāmpiṁ"
+		],
+		"bn": "ক্যাম্পিং",
+		"en": "camping",
+		"bn_syns": [
+			"ক্যাম্পিং",
+			"শিবির"
+		],
+		"en_syns": [
+			"pitch tents",
+			"set up camp",
+			"encamp",
+			"bivouac",
+			"encampment",
+			"tenting"
+		],
+		"sents": [
+			"<b>camping</b> attracts people of all ages",
+			"a <b>camping</b> trip"
+		]
+	},
+	{
+		"pron": [
+			"ˈkampˌground",
+			"Kyāmpēra sthāna"
+		],
+		"bn": "ক্যাম্পের স্থান",
+		"en": "campground",
+		"bn_syns": [
+			"ক্যাম্পের স্থান"
+		],
+		"en_syns": [
+			"campsite",
+			"camping site",
+			"bivouac",
+			"camping ground",
+			"encampment"
+		],
+		"sents": [
+			"Perhaps the most unbelievable perk, however, is in store for me when I head down the path and step into what is normally the nadir of a <b>campground</b> experience - the communal bathroom.",
+			"It has tables, fire rings and water, and is adjacent to a state park <b>campground</b> with toilets."
+		]
+	},
+	{
+		"pron": [
+			"ˈkampər",
+			"Kyāmpāra"
+		],
+		"bn": "ক্যাম্পার",
+		"en": "camper",
+		"bn_syns": [],
+		"en_syns": [
+			"recreational vehicle",
+			"RV",
+			"motor home",
+			"trailer",
+			"Winnebago"
+		],
+		"sents": [
+			"The accident on the Perth to Inverness road involved a Transit van, a <b>camper van</b> and a Volkswagen Polo thought to be from the continent.",
+			"I enjoy ‘getting away from it all’ in my <b>camper van</b> ."
+		]
+	},
+	{
+		"pron": [
+			"kamˈpānər",
+			"Prabīṇa sainika"
+		],
+		"bn": "প্রবীণ সৈনিক",
+		"en": "campaigner",
+		"bn_syns": [
+			"প্রবীণ সৈনিক",
+			"অভিযানকারী"
+		],
+		"en_syns": [
+			"activist",
+			"fighter",
+			"crusader",
+			"champion",
+			"advocate",
+			"promoter",
+			"netroots"
+		],
+		"sents": [
+			"she's a seasoned political <b>campaigner</b>",
+			"an experienced <b>campaigner</b>"
+		]
+	},
+	{
+		"pron": [
+			"kamˈpān",
+			"Pracārābhiyāna"
+		],
+		"bn": "প্রচারাভিযান",
+		"en": "campaign",
+		"bn_syns": [
+			"সামরিক অভিযানসমূহ",
+			"যুদ্ধ",
+			"সংগঠিত ত্ত ব্যাপক প্রচারকার্য",
+			"অভিযান"
+		],
+		"en_syns": [
+			"crusade",
+			"fight",
+			"battle",
+			"push",
+			"press",
+			"strive",
+			"struggle",
+			"lobby",
+			"military operation(s)",
+			"maneuver(s)",
+			"war",
+			"offensive",
+			"attack"
+		],
+		"sents": [
+			"The family have said that they have not sought any financial support for their <b>campaign</b> for justice and will not do so.",
+			"Passenger numbers have soared since the M.E.N. won a <b>campaign</b> for a new city centre coach station."
+		]
+	},
+	{
+		"pron": [
+			"kamp",
+			"Śibira"
+		],
+		"bn": "শিবির",
+		"en": "camp",
+		"bn_syns": [
+			"শিবির সন্নিবেশ করা",
+			"তাবু খাটান",
+			"শিবির",
+			"ছাউনি",
+			"শিবির সন্নিবেশ-ভূমি",
+			"সেনা-শিবির",
+			"নিবেশ"
+		],
+		"en_syns": [
+			"exaggerated",
+			"theatrical",
+			"affected",
+			"over the top",
+			"OTT",
+			"camped up",
+			"hammy",
+			"pitch tents",
+			"set up camp",
+			"encamp",
+			"bivouac",
+			"campsite",
+			"campground",
+			"encampment"
+		],
+		"sents": [
+			"I don't if that the fact that all my gay friends are watching it says something about the demographic of the event's appeal or the fact that I just know a lot of <b>camp</b> gay men.",
+			"the enemy <b>camp</b>"
+		]
+	},
+	{
+		"pron": [
+			"-ˌfläj,ˈkaməˌfläZH",
+			"Chadmabēśa"
+		],
+		"bn": "ছদ্মবেশ",
+		"en": "camouflage",
+		"bn_syns": [
+			"ছদ্মবেশের দ্বারা গোপন করা",
+			"ছদ্ম-আবরণ",
+			"ছদ্মবেশ",
+			"কাচ",
+			"ছদ্মবেশের দ্বারা ফাঁকি",
+			"গোপনকারী জিনিস"
+		],
+		"en_syns": [
+			"disguise",
+			"hide",
+			"conceal",
+			"keep hidden",
+			"mask",
+			"screen",
+			"cover (up)",
+			"concealment",
+			"cover"
+		],
+		"sents": [
+			"the whiteness of polar bears provides <b>camouflage</b>",
+			"There was weak support for spots in adults and stripes in young providing <b>camouflage</b> and for dark leg markings being a form of disruptive coloration."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kyāmērā mānuṣa"
+		],
+		"bn": "ক্যামেরা মানুষ",
+		"en": "camerawoman",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"-ˌman,ˈkam(ə)rəmən",
+			"Ālōkacitra-grahaṇakārī"
+		],
+		"bn": "আলোকচিত্র-গ্রহণকারী",
+		"en": "cameraman",
+		"bn_syns": [
+			"আলোকচিত্র-গ্রহণকারী",
+			"চিত্রগাহক"
+		],
+		"en_syns": [
+			"camera operator",
+			"cinematographer"
+		],
+		"sents": [
+			"There are lives that unravel completely, with only a <b>cameraman</b> and a sound engineer as witnesses.",
+			"He was a <b>cameraman</b> , a director and an editor who had a gut reaction to a story and was passionate about his craft."
+		]
+	},
+	{
+		"pron": [
+			"ˈkam(ə)rə",
+			"Kyāmērā"
+		],
+		"bn": "ক্যামেরা",
+		"en": "camera",
+		"bn_syns": [
+			"আলোকচিত্র গ্রহণের যন্ত্র",
+			"ক্যামেরা",
+			"গুপ্তকক্ষ",
+			"আলোকচিত্রগ্রহণযন্ত্র",
+			"কক্ষ",
+			"কামেরা"
+		],
+		"en_syns": [
+			"television camera"
+		],
+		"sents": [
+			"I might have left the <b>camera</b> behind but the image of this wreck was imprinted on my mind.",
+			"a photographer's <b>camera</b> flashed"
+		]
+	},
+	{
+		"pron": [
+			"ˈkamēˌō",
+			"Khōdā'i-karā mūtiyukta maṇibiśēṣa"
+		],
+		"bn": "খোদাই-করা মূতিযুক্ত মণিবিশেষ",
+		"en": "cameo",
+		"bn_syns": [
+			"খোদাই-করা মূতিযুক্ত মণিবিশেষ",
+			"শক্ত পাথরের ওপর খোদাইযের কাজ"
+		],
+		"en_syns": [
+			"bit part",
+			"vignette"
+		],
+		"sents": [
+			"Ramis is great whether he is directing, writing, or just acting, and he plays a short <b>cameo</b> in the picture as well.",
+			"Buster Keaton plays a <b>cameo</b> role as a member of this sad entourage of icons who have outlived themselves."
+		]
+	},
+	{
+		"pron": [
+			"kəˈmēlyə",
+			"Camellia"
+		],
+		"bn": "Camellia",
+		"en": "camellia",
+		"bn_syns": [
+			"ক্যামেলিয়া ফুল"
+		],
+		"en_syns": [
+			"camelia"
+		],
+		"sents": [
+			"The pavilions will house plants from temperate regions of the southern hemisphere such as passion flowers, <b>camellias</b> , banksias, tea trees and wattles.",
+			"Good buys include azaleas, <b>camellias</b> and rhododendrons."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaməl",
+			"Uṭa"
+		],
+		"bn": "উট",
+		"en": "camel",
+		"bn_syns": [
+			"উট",
+			"উষ্ট্র",
+			"মরুদ্বিপ"
+		],
+		"en_syns": [],
+		"sents": [
+			"He drinks like a <b>camel</b> and smokes like a coal-fired power station.",
+			"As for suits, you can stick to colors such as <b>camel</b> , tan, navy, and light gray."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Āsēna"
+		],
+		"bn": "আসেন",
+		"en": "came",
+		"bn_syns": [
+			"আসা",
+			"উপস্থিত হত্তয়া",
+			"নিকটবর্তী হত্তয়া",
+			"পদার্পণ করা",
+			"পা দেত্তয়া",
+			"আবির্ভূত হত্তয়া",
+			"উপনীত হত্তয়া",
+			"ফলস্বরুপপরিণত হত্তয়া",
+			"প্রকাশ হত্তয়া",
+			"হত্তয়া"
+		],
+		"en_syns": [
+			"move nearer",
+			"move closer",
+			"approach",
+			"advance",
+			"draw close/closer",
+			"draw near/nearer",
+			"proceed",
+			"draw nigh"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkamˌkôrdər",
+			"Camcorder"
+		],
+		"bn": "camcorder",
+		"en": "camcorder",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"Digital cameras and <b>camcorders</b> are well catered for, with installation wizards and simple editing software.",
+			"They hope a battery of digital cameras and <b>camcorders</b> will capture evidence of the paranormal."
+		]
+	},
+	{
+		"pron": [
+			"-ˈrad-,ˌkam-,ˌkäm(ə)ˈrädərē",
+			"Sahakarmīdēra madhyē antaraṅgatā tta paramparēra prati āsthā"
+		],
+		"bn": "সহকর্মীদের মধ্যে অন্তরঙ্গতা ত্ত পরম্পরের প্রতি আস্থা",
+		"en": "camaraderie",
+		"bn_syns": [
+			"পারস্পরিক আস্থা"
+		],
+		"en_syns": [
+			"friendship",
+			"comradeship",
+			"fellowship",
+			"companionship",
+			"fraternity",
+			"conviviality",
+			"mutual support",
+			"team spirit",
+			"esprit de corps",
+			"bromance"
+		],
+		"sents": [
+			"the enforced <b>camaraderie</b> of office life",
+			"I also agree that there's an incredible amount of <b>camaraderie</b> among fencers."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Bāchurēra"
+		],
+		"bn": "বাছুরের",
+		"en": "calves",
+		"bn_syns": [
+			"বাছুর",
+			"গোবত্স",
+			"বাছুরের চর্ম",
+			"পায়ের গুল"
+		],
+		"en_syns": [
+			"sura"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkal(ə)rē",
+			"Kyālōri"
+		],
+		"bn": "ক্যালোরি",
+		"en": "calorie",
+		"bn_syns": [
+			"উত্তাপের মাপবিশেষ",
+			"প্রয়োজনীয় পরিমাণ তাপ"
+		],
+		"en_syns": [
+			"small calorie",
+			"gram calorie"
+		],
+		"sents": [
+			"Less than 30 percent of your total daily <b>calories</b> should come from fat.",
+			"He showed that when 4.184 joules of work is done, 1.0 <b>calorie</b> of heat is produced."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Dhairyaśīlatā"
+		],
+		"bn": "ধৈর্যশীলতা",
+		"en": "calmness",
+		"bn_syns": [
+			"নিস্তব্ধতা",
+			"ধৈর্যশীলতা",
+			"অব্যাকুলতা",
+			"নিরূদ্বেগ",
+			"ধীরতা"
+		],
+		"en_syns": [
+			"composure",
+			"equanimity",
+			"calm"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			null,
+			"Śāntabhābē"
+		],
+		"bn": "শান্তভাবে",
+		"en": "calmly",
+		"bn_syns": [
+			"স্থিরভাবে",
+			"শান্তভাবে",
+			"অকাতরে",
+			"অবিচলিতচিত্তে",
+			"ধীরভাবে"
+		],
+		"en_syns": [
+			"sedately"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"kä(l)m",
+			"Śānta"
+		],
+		"bn": "শান্ত",
+		"en": "calm",
+		"bn_syns": [
+			"বিবাত-অবস্থা",
+			"বায়ুপ্রবাহের ধীরতা",
+			"প্রশান্তি",
+			"শান্তি",
+			"",
+			"অচঞ্চল",
+			"স্তব্ধতা",
+			"শান্ত করা",
+			"শান্ত হত্তয়া",
+			"স্থির করা",
+			"শান্ত",
+			"প্রশান্ত",
+			"নিস্তব্ধ",
+			"অব্যাকুল",
+			"অবিচলিত",
+			"অচঁচল",
+			"অচঁচলচিত্ত",
+			"অবিচল",
+			"অনুত্তেজিত",
+			"নিথর",
+			"নিরূদ্বেগ",
+			"নিস্তরজ",
+			"অকাতর",
+			"অক্রোধ",
+			"স্থির",
+			"সুস্থির",
+			"ধীরস্থির",
+			"সুধীর",
+			"ধীর",
+			"নিঝুম",
+			"অবিক্ষিপ্ত",
+			"অক্লিষ্ট",
+			"অবিক্ষুব্ধ",
+			"অক্ষুব্ধ",
+			"অঘোর",
+			"অমত্ত"
+		],
+		"en_syns": [
+			"tranquility",
+			"stillness",
+			"calmness",
+			"quiet",
+			"quietness",
+			"quietude",
+			"peace",
+			"peacefulness",
+			"soothe",
+			"pacify",
+			"placate",
+			"mollify",
+			"appease",
+			"conciliate",
+			"quiet (down)",
+			"relax",
+			"serene",
+			"tranquil",
+			"relaxed",
+			"unruffled",
+			"unperturbed",
+			"unflustered",
+			"untroubled",
+			"equable",
+			"even-tempered",
+			"placid",
+			"unexcitable",
+			"unemotional",
+			"phlegmatic",
+			"composed",
+			"'calm, cool, and collected'",
+			"coolheaded",
+			"nonconfrontational",
+			"self-possessed",
+			"unflappable",
+			"unfazed",
+			"nonplussed"
+		],
+		"sents": [
+			"Children waded into the <b>calm</b> sea, or played on the smooth, round rocks on the beach.",
+			"This we were able to do in an atmosphere of <b>calm</b> and peace."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaləs",
+			"Jāmuṛā"
+		],
+		"bn": "জামুড়া",
+		"en": "callus",
+		"bn_syns": [
+			"কড়া",
+			"জামুড়া",
+			"কড়া-পড়া ছাল"
+		],
+		"en_syns": [
+			"callosity"
+		],
+		"sents": [
+			"Furthermore, it was also observed that the callus formed from the radicle grew faster than the callus of plumule origin, thus reducing the formation of embryogenic <b>callus</b> .",
+			"the exposed surface will quickly form healing <b>callus</b>"
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Nirmamatā"
+		],
+		"bn": "নির্মমতা",
+		"en": "callousness",
+		"bn_syns": [
+			"অনুভূতিহীনতা",
+			"নির্মমতা",
+			"কাঠিন্য",
+			"ঔদাস্য",
+			"উদাস",
+			"ঔদাসীন্য"
+		],
+		"en_syns": [
+			"hardness",
+			"insensibility",
+			"callosity",
+			"unfeelingness"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			null,
+			"Callously"
+		],
+		"bn": "callously",
+		"en": "callously",
+		"bn_syns": [],
+		"en_syns": [
+			"unfeelingly"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkaləs",
+			"Anubhūtihīna"
+		],
+		"bn": "অনুভূতিহীন",
+		"en": "callous",
+		"bn_syns": [
+			"কঠিনীভূত",
+			"অমসৃণ করা",
+			"অমসৃণ হত্তয়া",
+			"অনুভূতিহীন",
+			"জমাট বাঁধা",
+			"নির্মম",
+			"ঘেঁচড়া",
+			"নিরীহ",
+			"সহানুভূতিহীন",
+			"নিরূত্সুক",
+			"নিরূদ্যম",
+			"নির্বিকার",
+			"কড়া-পড়া",
+			"কঠিন"
+		],
+		"en_syns": [
+			"cauterise",
+			"cauterize",
+			"heartless",
+			"unfeeling",
+			"uncaring",
+			"cold",
+			"cold-hearted",
+			"hard",
+			"as hard as nails",
+			"hard-hearted",
+			"insensitive",
+			"lacking compassion",
+			"hard-bitten",
+			"hard-nosed",
+			"hard-edged",
+			"unsympathetic"
+		],
+		"sents": [
+			"Certainly, there is no denying that these cruel and <b>callous</b> acts were terrorism.",
+			"Sadly, there is big money in rare species, but this is a very cruel and <b>callous</b> type of crime, and one we are anxious to stamp out."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kala ina śō"
+		],
+		"bn": "কল ইন শো",
+		"en": "call-in show",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkôliNG",
+			"Jībikā"
+		],
+		"bn": "জীবিকা",
+		"en": "calling",
+		"bn_syns": [
+			"কোনো কর্মের প্রতি অন্তরে অনুভূত গভীর আহ্বান",
+			"জীবিকা",
+			"পেশা",
+			"ব্যবসায়"
+		],
+		"en_syns": [
+			"cry out",
+			"cry",
+			"shout",
+			"yell",
+			"hail",
+			"bellow",
+			"roar",
+			"bawl",
+			"vociferate",
+			"holler",
+			"profession",
+			"occupation",
+			"vocation",
+			"call",
+			"summons",
+			"career",
+			"work",
+			"employment",
+			"job",
+			"business",
+			"trade",
+			"craft",
+			"line",
+			"line of work",
+			"bag",
+			"employ"
+		],
+		"sents": [
+			"To be an alchemist at this time was a precarious profession, a <b>calling</b> that required great political skill.",
+			"A lot of FBI agents like to say that the Bureau is a <b>calling</b> , not a career."
+		]
+	},
+	{
+		"pron": [
+			"kəˈligrəfē",
+			"Lipibidyā"
+		],
+		"bn": "লিপিবিদ্যা",
+		"en": "calligraphy",
+		"bn_syns": [
+			"হাতের লেখা",
+			"লিপিবিদ্যা",
+			"শিল্পস্বরুপহস্তলিপি"
+		],
+		"en_syns": [
+			"handwriting",
+			"script",
+			"penmanship",
+			"hand",
+			"pen"
+		],
+		"sents": [
+			"Among contemporary artists, the most popular media are printmaking, <b>calligraphy</b> , and photography.",
+			"Her name had been written in <b>calligraphy</b> across the center of the envelope."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kala mēẏē"
+		],
+		"bn": "কল মেয়ে",
+		"en": "call girl",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkôlər",
+			"Āhbānakārī"
+		],
+		"bn": "আহ্বানকারী",
+		"en": "caller",
+		"bn_syns": [
+			"আহ্বানকারী",
+			"অভ্যাগত",
+			"আহ্বায়ক"
+		],
+		"en_syns": [
+			"company"
+		],
+		"sents": [
+			"Out of the activity, the <b>caller</b> emerges and the dancers play a version of ‘follow the leader.’",
+			"There's no nudity or vulgar language, someone is always willing to take your drink order, and the bingo <b>caller</b> is always hot."
+		]
+	},
+	{
+		"pron": [
+			"kôl",
+			"Kala"
+		],
+		"bn": "কল",
+		"en": "call",
+		"bn_syns": [
+			"চিৎকার করা",
+			"মনে করা",
+			"ডাকা",
+			"আসিতে বলা",
+			"আবাহন করা",
+			"নাম করা",
+			"নাম দেত্তয়া",
+			"নাম ধরিয়া ডাকা",
+			"অভিহিত করা",
+			"ডাক দেত্তয়া",
+			"ডাকিয়া আনা",
+			"শব্দ করা",
+			"নিজস্ব ধ্বনি উচ্চারণ করা",
+			"চীত্কার করা",
+			"চিত্কার করা",
+			"কূজন করা",
+			"আহ্বান করা",
+			"জাগান",
+			"যাইয়া সাক্ষাৎ করা",
+			"সাক্ষাৎ করিতে যাত্তয়া",
+			"বোধ করা",
+			"জ্ঞান করা",
+			"কর্ম গ্রহণার্থ করা",
+			"পরামর্শাদির জন্য ডাকা",
+			"দাবি করা",
+			"দোহাই পাড়া",
+			"বাধ্য করা",
+			"বিষয়ীভূত করা",
+			"উচ্চৈ:স্বরে পাঠ করা",
+			"প্রার্থনা করা",
+			"কল",
+			"আহ্বান",
+			"আবাহন",
+			"ডাক",
+			"চীত্কার",
+			"চিত্কার",
+			"দোহাই",
+			"নিমন্ত্রণ",
+			"আমন্ত্রণ",
+			"বোল",
+			"দাবি",
+			"তলব",
+			"সাক্ষাৎ",
+			"টেলিফোন-যোগে কথাবার্তা",
+			"পরামর্শাদির জন্য ডাক",
+			"উপলক্ষ"
+		],
+		"en_syns": [
+			"cry out",
+			"cry",
+			"shout",
+			"yell",
+			"hail",
+			"bellow",
+			"roar",
+			"bawl",
+			"vociferate",
+			"holler",
+			"scream",
+			"exclamation",
+			"vociferation"
+		],
+		"sents": [
+			"There's quite a good market for recycled tyre materials, but there's little <b>call</b> for recycled electronics waste.",
+			"hoax <b>call</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˈkaliˌkō",
+			"Bastrabiśēṣa"
+		],
+		"bn": "বস্ত্রবিশেষ",
+		"en": "calico",
+		"bn_syns": [
+			"সাদা সুতির কাপড়",
+			"বস্ত্রবিশেষ"
+		],
+		"en_syns": [
+			"varicolored",
+			"multi-colored",
+			"multicolored",
+			"pied",
+			"painted",
+			"varicoloured",
+			"motley",
+			"particolored",
+			"particoloured",
+			"multicolour",
+			"multicolor",
+			"piebald"
+		],
+		"sents": [
+			"All that the artist says he needs for his creations is a ‘special kind of soft paper’ and <b>calico</b> .",
+			"If you abuse a circus elephant, if you run a pet shop that sells a <b>calico</b> cat without a license or if you're a farmer who markets a potato that's too small, the US Department of Agriculture can fine you."
+		]
+	},
+	{
+		"pron": [
+			"kaləˈbrāSHən",
+			"Kramāṅkana"
+		],
+		"bn": "ক্রমাঙ্কন",
+		"en": "calibration",
+		"bn_syns": [
+			"ক্রমাঙ্কন"
+		],
+		"en_syns": [
+			"standardization"
+		],
+		"sents": [
+			"We'll be conducting <b>calibrations</b> of the science instruments and of the engineering subsystems as we go forward.",
+			"The <b>calibrations</b> are checked before the game and at the intervals."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaləˌbrāt",
+			"Śaktira parimāpa karā"
+		],
+		"bn": "শক্তির পরিমাপ করা",
+		"en": "calibrate",
+		"bn_syns": [
+			"শক্তির পরিমাপ করা",
+			"ক্রমাঙ্ক নির্ণয় করা",
+			"ব্যাসের মাপ নির্ণয় করা"
+		],
+		"en_syns": [
+			"adjust",
+			"measure",
+			"set",
+			"graduate",
+			"correct"
+		],
+		"sents": [
+			"The assay was performed according to the manufacturer's protocol and was <b>calibrated</b> with five standards ranging from 0.5 to 50 ng/mL.",
+			"It is impossible to <b>calibrate</b> influence but it seems likely the main impact of Mason and his cohorts was to talent spot young people in whom they saw potential."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaləbər",
+			"Dhīśakti"
+		],
+		"bn": "ধীশক্তি",
+		"en": "caliber",
+		"bn_syns": [
+			"চারিত্রিক গুণ",
+			"গুলির ব্যাস",
+			"ধীশক্তি",
+			"ক্ষমতা",
+			"কর্মশক্তি",
+			"শক্তি",
+			"চোঙের ব্যাস"
+		],
+		"en_syns": [
+			"quality",
+			"merit",
+			"distinction",
+			"stature",
+			"excellence",
+			"preeminence",
+			"ability",
+			"expertise",
+			"talent",
+			"capability",
+			"capacity",
+			"proficiency"
+		],
+		"sents": [
+			"The changes in the <b>caliber</b> of the arteriolar-venular anastomosis are related to the activity of the capillary circulation.",
+			"This muzzle-loader was fired by a percussion cap and shot a .58 <b>caliber</b> bullet."
+		]
+	},
+	{
+		"pron": [
+			"kaf",
+			"Bāchura"
+		],
+		"bn": "বাছুর",
+		"en": "calf",
+		"bn_syns": [
+			"বোকা",
+			"বাছুর",
+			"গোবত্স",
+			"বাছুরের চর্ম",
+			"পায়ের গুল"
+		],
+		"en_syns": [
+			"sura"
+		],
+		"sents": [
+			"The lice move from mother to <b>calf</b> and among whales in close contact with each other.",
+			"The 2000 birth of a healthy <b>calf</b> to a rhino called Emi at the Cincinnati Zoo in Ohio was the first successful captive delivery in 112 years."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kyālēnḍāra bachara"
+		],
+		"bn": "ক্যালেন্ডার বছর",
+		"en": "calendar year",
+		"bn_syns": [
+			"পঞ্জীবর্ষ",
+			"পঞ্জিকাবর্ষ"
+		],
+		"en_syns": [
+			"civil year"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkaləndər",
+			"Kyālēnḍāra"
+		],
+		"bn": "ক্যালেন্ডার",
+		"en": "calendar",
+		"bn_syns": [
+			"পঁজিকাসংক্রান্ত",
+			"নির্ঘণ্টসংক্রান্ত",
+			"তালিকাসংক্রান্ত",
+			"তালিকাভুক্ত করা",
+			"দেওয়ালপঞ্জিকা",
+			"পাঁজি",
+			"পঁজিকা",
+			"নির্ঘণ্ট",
+			"তালিকা"
+		],
+		"en_syns": [
+			"schedule",
+			"agenda",
+			"almanac",
+			"diary",
+			"program",
+			"annual",
+			"yearbook",
+			"daytimer"
+		],
+		"sents": [
+			"Although the time-scheme of this <b>calendar</b> is subject to frequent revision, a ballpark set of figures is good enough to drive home the point.",
+			"The beginning of the Muslim <b>calendar</b> corresponds with Mohammed's pilgrimage."
+		]
+	},
+	{
+		"pron": [
+			"ˈkalkyələs",
+			"Pāthuri"
+		],
+		"bn": "পাথুরি",
+		"en": "calculus",
+		"bn_syns": [
+			"পাথুরি",
+			"পাথরি",
+			"গণনাপ্রণালী"
+		],
+		"en_syns": [
+			"infinitesimal calculus"
+		],
+		"sents": [
+			"It is thought that the catheter balloons burst as they were pushed against the <b>calculus</b> as the bladder contracted during bladder emptying.",
+			"By integrating the function using <b>calculus</b> we can compare the sum of the series with the integral of the function and draw conclusions from this."
+		]
+	},
+	{
+		"pron": [
+			"ˈkalkyəˌlātər",
+			"Kyālakulēṭara"
+		],
+		"bn": "ক্যালকুলেটর",
+		"en": "calculator",
+		"bn_syns": [
+			"যন্ত্রগণক",
+			"হিসাবকারী",
+			"গণক",
+			"গাণনিক",
+			"গণক যন্ত্র",
+			"সংখ্যায়ক"
+		],
+		"en_syns": [
+			"calculating machine"
+		],
+		"sents": [
+			"She added that pupils learning to use the abacus could calculate faster than those using electric <b>calculators</b> .",
+			"Well, there's a number of <b>calculators</b> online that you can begin with."
+		]
+	},
+	{
+		"pron": [
+			"ˌkalkyəˈlāSHən",
+			"Hisāba"
+		],
+		"bn": "হিসাব",
+		"en": "calculation",
+		"bn_syns": [
+			"গণনা",
+			"হিসাব",
+			"হিসাবনিরুপণকার্য",
+			"আকলন",
+			"কলন",
+			"শুমার",
+			"অঙ্ক",
+			"বিবেচনা"
+		],
+		"en_syns": [
+			"computation",
+			"reckoning",
+			"adding up",
+			"counting up",
+			"working out",
+			"figuring",
+			"totaling up",
+			"totting up"
+		],
+		"sents": [
+			"When you do the <b>calculations</b> on the amount deposited its not a good return.",
+			"Adequate training is required to ensure that the risk <b>calculation</b> tools are used only for appropriate patients."
+		]
+	},
+	{
+		"pron": [
+			"ˈkalkyəˌlātiNG",
+			"Gaṇaka"
+		],
+		"bn": "গণক",
+		"en": "calculating",
+		"bn_syns": [
+			"হিসাবপ্রবণ",
+			"হিসাবী",
+			"গণক",
+			"বিবেচক",
+			"বিচক্ষণ",
+			"গণনাকারী",
+			"পরিণামচিন্তাশীল",
+			"স্বার্থচিন্তাপর",
+			"সতর্ক"
+		],
+		"en_syns": [
+			"compute",
+			"work out",
+			"reckon",
+			"figure",
+			"add up/together",
+			"count up",
+			"tally",
+			"total",
+			"tote",
+			"tot up",
+			"cunning",
+			"crafty",
+			"wily",
+			"shrewd",
+			"sly",
+			"scheming",
+			"devious",
+			"designing",
+			"conniving",
+			"Machiavellian",
+			"foxy",
+			"subtle"
+		],
+		"sents": [
+			"He faced Sabre with calmness, looking on at him <b>calculatingly</b> .",
+			"The movie presents her not just as ambitious talent; we also see the shrewdly <b>calculating</b> side that propelled her into the spotlight."
+		]
+	},
+	{
+		"pron": [
+			"ˈkalkyəˌlātid",
+			"Gaṇita"
+		],
+		"bn": "গণিত",
+		"en": "calculated",
+		"bn_syns": [
+			"বিবেচিত",
+			"গণিত",
+			"সংখ্যাত",
+			"কলিত",
+			"উপযুক্ত",
+			"গণনালব্ধ",
+			"পূর্বনির্ধারিত"
+		],
+		"en_syns": [
+			"compute",
+			"work out",
+			"reckon",
+			"figure",
+			"add up/together",
+			"count up",
+			"tally",
+			"total",
+			"tote",
+			"tot up",
+			"deliberate",
+			"premeditated",
+			"planned",
+			"preplanned",
+			"preconceived",
+			"intentional",
+			"intended",
+			"willful",
+			"prepense"
+		],
+		"sents": [
+			"The peculiar humour of the book has endured a harmless populist transformation, but that does not play like a disadvantageous <b>calculated</b> decision but like inspired fun.",
+			"This trial judge, as I read her Honour's findings, found the conduct at least towards the end of the impulsive scale rather than closer to a <b>calculated</b> decision."
+		]
+	},
+	{
+		"pron": [
+			"ˈkalkyəˌlāt",
+			"Gaṇanā karā"
+		],
+		"bn": "গণনা করা",
+		"en": "calculate",
+		"bn_syns": [
+			"",
+			"নির্ণয় করা",
+			"কষা",
+			"গণনা করা",
+			"নিরূপণ করা",
+			"গনা",
+			"হিসাব করা",
+			"খতান",
+			"অঙ্ক করা",
+			"অঙ্ক কষা",
+			"উপযোগী করা",
+			"নির্ভর করা",
+			"বিচার -বিবেচনা করা"
+		],
+		"en_syns": [
+			"compute",
+			"work out",
+			"reckon",
+			"figure",
+			"add up/together",
+			"count up",
+			"tally",
+			"total",
+			"tote",
+			"tot up"
+		],
+		"sents": [
+			"Thus we can <b>calculate</b> how many atoms would cross the exobase fast enough to escape into space.",
+			"Any attempt to <b>calculate</b> or judge the stock market bottom is futile."
+		]
+	},
+	{
+		"pron": [
+			"ˈkalsēəm",
+			"Kyālasiẏāma"
+		],
+		"bn": "ক্যালসিয়াম",
+		"en": "calcium",
+		"bn_syns": [
+			"খটিকা",
+			"চুণ",
+			"ক্যালসিয়াম"
+		],
+		"en_syns": [],
+		"sents": [
+			"Some fruit is rich in mineral elements such as <b>calcium</b> , iron and magnesium.",
+			"The bones don't just keep us standing, they're a reservoir of <b>calcium</b> for the rest of the body."
+		]
+	},
+	{
+		"pron": [
+			"kəˈlamitē",
+			"Pramāda"
+		],
+		"bn": "প্রমাদ",
+		"en": "calamity",
+		"bn_syns": [
+			"বিরাট দুর্ভাগ্য",
+			"ক্লেশ",
+			"প্রমাদ",
+			"ব্যসন",
+			"উপসর্গ",
+			"বিপদ্",
+			"চরম দুর্দশা",
+			"উপপ্লব",
+			"দুর্ঘটনা",
+			"কুগ্রহ",
+			"দু:খ"
+		],
+		"en_syns": [
+			"disaster",
+			"catastrophe",
+			"tragedy",
+			"cataclysm",
+			"adversity",
+			"tribulation",
+			"affliction",
+			"misfortune",
+			"misadventure"
+		],
+		"sents": [
+			"After unloading, I decided it would be prudent to park in the lot rather than risk further <b>calamity</b> .",
+			"Before the oil well <b>calamity</b> , villagers there led a peaceful life, getting along with each other in harmony."
+		]
+	},
+	{
+		"pron": [
+			"kāk",
+			"Piṣṭaka"
+		],
+		"bn": "পিষ্টক",
+		"en": "cake",
+		"bn_syns": [
+			"কেকসংক্রান্ত",
+			"কেকের আকারে পরিণত করা",
+			"কেকের আকারে পরিণত হত্তয়া",
+			"শক্ত দলায় পরিণত করা",
+			"শক্ত দলায় পরিণত হত্তয়া",
+			"পিঠে",
+			"পিষ্টক",
+			"কেক",
+			"জমাট পিণ্ড",
+			"পিঠা",
+			"কেকের ন্যায় আকারের খণ্ড",
+			"কেকের ন্যায় আকারের টুকরা"
+		],
+		"en_syns": [
+			"coat",
+			"encrust",
+			"plaster",
+			"cover",
+			"bar",
+			"block",
+			"brick",
+			"slab",
+			"tablet",
+			"lump"
+		],
+		"sents": [
+			"A single careless move and a <b>cake</b> of packed snow skidded away from beneath me.",
+			"They used a mixture of <b>cake</b> gelatine, powdered sugar, food colouring and permitted flavours, to create flat ‘sheets’."
+		]
+	},
+	{
+		"pron": [
+			"kəˈjōl",
+			"Cumarāna"
+		],
+		"bn": "চুমরান",
+		"en": "cajole",
+		"bn_syns": [
+			"তোষামোদ করে রাজি করা",
+			"চুমরান",
+			"ভুলান",
+			"মিষ্ট কথায় প্রতারণা করা",
+			"স্তোক দেত্তয়া"
+		],
+		"en_syns": [
+			"persuade",
+			"wheedle",
+			"coax",
+			"talk into",
+			"prevail on",
+			"sweet-talk",
+			"butter up",
+			"soft-soap",
+			"seduce",
+			"inveigle"
+		],
+		"sents": [
+			"I do not pretend to know what combination of threats and <b>cajolements</b> they offered, but they obviously succeeded.",
+			"So buy my stuff and <b>cajole</b> your friends into mindless purchasing."
+		]
+	},
+	{
+		"pron": [
+			"kəˈho͞ots",
+			"Cakrāntē lipta"
+		],
+		"bn": "চক্রান্তে লিপ্ত",
+		"en": "cahoots",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"Why would she have to be <b>in cahoots</b> with anybody?",
+			"But she now saw it as symbolic: she had entered the unromantic period of her life, and because her daughter had helped her father choose the dish, she was <b>in cahoots</b> with him."
+		]
+	},
+	{
+		"pron": [
+			"ˈkājē",
+			"Sucatura"
+		],
+		"bn": "সুচতুর",
+		"en": "cagey",
+		"bn_syns": [
+			"হুঁশিয়ার",
+			"সতর্ক",
+			"সুচতুর",
+			"বিচক্ষণ",
+			"মনখোলা আচরণে অনিচ্ছুক",
+			"মনখোলা ধরা দিতে অনিচ্ছুক"
+		],
+		"en_syns": [
+			"secretive",
+			"guarded",
+			"cautious",
+			"wary",
+			"noncommittal",
+			"tight-lipped",
+			"reticent",
+			"evasive",
+			"playing one's cards close to one's chest"
+		],
+		"sents": [
+			"But we've seen him operate, and his current words and actions fit his usual <b>cageyness</b> .",
+			"While some were <b>cagey</b> , to say the least, others had no such problems."
+		]
+	},
+	{
+		"pron": [
+			"kāj",
+			"Caged"
+		],
+		"bn": "caged",
+		"en": "caged",
+		"bn_syns": [
+			"রূদ্ধ করা",
+			"পিঁজরাবদ্ধ করা",
+			"কয়েদ করা"
+		],
+		"en_syns": [
+			"confine",
+			"shut in/up",
+			"pen",
+			"coop up",
+			"fence in",
+			"immure",
+			"impound",
+			"corral"
+		],
+		"sents": [
+			"She has the air of a bird which doesn't want to be <b>caged</b> or tamed.",
+			"David's family were at Manchester Crown Court when the man was <b>caged</b> for life after admitting murder."
+		]
+	},
+	{
+		"pron": [
+			"kāj",
+			"Khām̐cā"
+		],
+		"bn": "খাঁচা",
+		"en": "cage",
+		"bn_syns": [
+			"রূদ্ধ করা",
+			"পিঁজরাবদ্ধ করা",
+			"কয়েদ করা",
+			"জেলখানা",
+			"খাঁচা",
+			"পিঁজরা",
+			"পিঁজর",
+			"পঁজর",
+			"কারাগার"
+		],
+		"en_syns": [
+			"confine",
+			"shut in/up",
+			"pen",
+			"coop up",
+			"fence in",
+			"immure",
+			"impound",
+			"corral",
+			"enclosure",
+			"pound",
+			"coop",
+			"hutch",
+			"birdcage",
+			"aviary"
+		],
+		"sents": [
+			"Though you will have to look through the affixed mesh <b>cage</b> designed to keep those pesky angst filled teenagers from making life difficult for the street cleaners.",
+			"I broke a goalie's <b>cage</b> with my wrist shot."
+		]
+	},
+	{
+		"pron": [
+			"kaˈfēn,ˈkafˌēn",
+			"Kyāphina"
+		],
+		"bn": "ক্যাফিন",
+		"en": "caffeine",
+		"bn_syns": [
+			"তোতে স্বাদের উপক্ষার"
+		],
+		"en_syns": [
+			"caffein"
+		],
+		"sents": [
+			"He'd made his own cup with extra <b>caffeine</b> to help shake off such an early start to the day.",
+			"The stimulant effects of <b>caffeine</b> in coffee are well known to help improve energy and alertness."
+		]
+	},
+	{
+		"pron": [
+			"ˌkafiˈti(ə)rēə",
+			"Kyāphēṭēriẏā"
+		],
+		"bn": "ক্যাফেটেরিয়া",
+		"en": "cafeteria",
+		"bn_syns": [
+			"স্বয়ংপরিবেশন ভোজনালয়"
+		],
+		"en_syns": [
+			"lunchroom",
+			"luncheonette",
+			"lunch counter",
+			"snack bar",
+			"canteen",
+			"cafe",
+			"caf"
+		],
+		"sents": [
+			"She adds that the entire area of foodservice, including restaurants, hotels, <b>cafeterias</b> , and health care facilities, are now catching on to the aseptic phenomenon.",
+			"The situation has been exacerbated by the fact that the organizers have failed to provide any restaurants or <b>cafeterias</b> ."
+		]
+	},
+	{
+		"pron": [
+			"kaˈfā,kə-",
+			"Kyāphē"
+		],
+		"bn": "ক্যাফে",
+		"en": "cafe",
+		"bn_syns": [
+			"কাফে",
+			"ক্যাফে",
+			"কফিখানা",
+			"কাফি ঘর",
+			"রেস্তোরাঁ",
+			"হোটেল"
+		],
+		"en_syns": [
+			"coffee shop",
+			"tea room",
+			"restaurant",
+			"bistro",
+			"brasserie",
+			"cafeteria",
+			"snack bar",
+			"diner",
+			"eatery",
+			"Internet cafe"
+		],
+		"sents": [
+			"These events are often held at restaurants, <b>cafes</b> and coffee houses.",
+			"Even though it was still some time till midday, diners were greedily eating in the restaurants and <b>cafés</b> ."
+		]
+	},
+	{
+		"pron": [
+			"-ˌrā,ˈkadrē,ˈkäd-",
+			"Padālī"
+		],
+		"bn": "পদালী",
+		"en": "cadre",
+		"bn_syns": [
+			"কর্মচারীবৃন্দের মূল কাঠামো",
+			"পদালী"
+		],
+		"en_syns": [
+			"corps",
+			"body",
+			"team",
+			"group",
+			"nucleus",
+			"core"
+		],
+		"sents": [
+			"They relate personal accounts of food aid being distributed to the communist <b>cadre</b> or to the military.",
+			"The cost and engineering problems the Air Force is having with their space programs and in trying to train a solid <b>cadre</b> of qualified and effective space personnel are all too familiar."
+		]
+	},
+	{
+		"pron": [
+			"kəˈdet",
+			"Kaniṣṭha putra"
+		],
+		"bn": "কনিষ্ঠ পুত্র",
+		"en": "cadet",
+		"bn_syns": [
+			"তরুণ শিক্ষাণবিশ",
+			"সামরিক বিদ্যালয়ের ছাত্র",
+			"কনিষ্ঠ পুত্র",
+			"যুদ্ধবিদ্যাশিক্ষার্থী",
+			"সামরিক শিক্ষানবিস"
+		],
+		"en_syns": [
+			"plebe"
+		],
+		"sents": [
+			"He was one of the Royal Military Academy Sandhurst <b>cadets</b> on their regular overseas exercise.",
+			"Secondly, it assumes coat armour to be hereditary in the male lines of a family, with differences to distinguish <b>cadet</b> branches."
+		]
+	},
+	{
+		"pron": [
+			"ˈkādns",
+			"Surēra murchanā"
+		],
+		"bn": "সুরের মুর্ছনা",
+		"en": "cadence",
+		"bn_syns": [
+			"শব্দের ছন্দময় দোলা",
+			"সুরপ্রবাহ",
+			"সুরের মুর্ছনা",
+			"সুরের লয়",
+			"স্বরপ্রবাহ",
+			"ধ্বনির উত্থান-পতন",
+			"কবিতার ছন্দোময়তা"
+		],
+		"en_syns": [
+			"intonation",
+			"modulation",
+			"lilt",
+			"accent",
+			"inflection",
+			"rhythm",
+			"tempo",
+			"meter",
+			"beat",
+			"pulse",
+			"resolution"
+		],
+		"sents": [
+			"He might have missed it, for, even beneath the powerful eye of the scope, steadily beating in slow <b>cadence</b> , it was no larger than a speck.",
+			"Still others, believing they are in C, will dutifully ‘tweak’ the final phrase of the piece to return to the note C at the <b>cadence</b> , making for a somewhat jarring ending."
+		]
+	},
+	{
+		"pron": [
+			"kəˈdavər",
+			"Mr̥tadēha"
+		],
+		"bn": "মৃতদেহ",
+		"en": "cadaver",
+		"bn_syns": [
+			"মৃতদেহ",
+			"বিশীর্ণ দেহ"
+		],
+		"en_syns": [
+			"corpse",
+			"body",
+			"dead body",
+			"remains",
+			"carcass",
+			"stiff",
+			"corse"
+		],
+		"sents": [
+			"The shortage of <b>cadaveric</b> organs has led surgeons to look to live donors to close that gap.",
+			"Consequently, the safeguards protecting confidentiality and enhancing consent that allow for ethical use of cadavers and <b>cadaveric</b> tissues from hospital autopsies for education and research are not in place."
+		]
+	},
+	{
+		"pron": [
+			"ˈkaktəs",
+			"Phaṇīmanasā"
+		],
+		"bn": "ফণীমনসা",
+		"en": "cactus",
+		"bn_syns": [
+			"ফণিমনসা জাতীয় নানা ধরনের কাঁটাগাছ",
+			"ফণীমনসা",
+			"নাগফণী"
+		],
+		"en_syns": [],
+		"sents": [
+			"The man-made structures are concealed by imaginative landscaping that includes coconut palms, hibiscus, <b>cactuses</b> , hammocks, bougainvillea, gardens and lawns opening to beach and sea.",
+			"Aloe vera resembles a <b>cactus</b> , but is actually a perennial succulent which belongs to the lily family."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Cacti"
+		],
+		"bn": "cacti",
+		"en": "cacti",
+		"bn_syns": [
+			"ফণীমনসা",
+			"নাগফণী"
+		],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkakəl",
+			"Kakkak"
+		],
+		"bn": "কক্কক্",
+		"en": "cackle",
+		"bn_syns": [
+			"বোকার মতো বকবক করা",
+			"উচ্চস্বরে কথা বলা",
+			"প্যাঁক্ প্যাঁক্ শব্দ করা",
+			"কক্কক্ করা",
+			"ককান",
+			"কর্কশস্বরে কথা বলা",
+			"হাসা",
+			"কোঁ কোঁ করা",
+			"কক্কক্",
+			"প্যাঁক্ প্যাঁক্ শব্দ",
+			"কুক্কুটীর ডাক",
+			"মুরগির কক্কক্ শব্দ",
+			"রাজহাঁসের কক্কক্ শব্দ",
+			"হংসীর ডাক",
+			"উচ্চ কথা",
+			"কর্কশ কথা",
+			"হাসি"
+		],
+		"en_syns": [
+			"squawk",
+			"cluck",
+			"gabble",
+			"chatter",
+			"yack",
+			"yak",
+			"yakety-yak"
+		],
+		"sents": [
+			"The way the wind moved through the palm trees, the particular cracks that ran from one end of the street to the other, even the loud <b>cackle</b> of the many pigeons.",
+			"As I am writing this blog entry I can hear Frankie's loud and distinct <b>cackle</b> ."
+		]
+	},
+	{
+		"pron": [
+			"kaˈSHā",
+			"Chāpa"
+		],
+		"bn": "ছাপ",
+		"en": "cachet",
+		"bn_syns": [
+			"ছাপ",
+			"বৈশিষ্ট্যসূচক চিহ্ন",
+			"বৈশিষ্ট্যসূচক লক্ষণ",
+			"মোহর"
+		],
+		"en_syns": [
+			"prestige",
+			"status",
+			"standing",
+			"clout",
+			"kudos",
+			"snob value",
+			"stature",
+			"preeminence",
+			"eminence",
+			"street credibility"
+		],
+		"sents": [
+			"And of course, as Indian food continues to gain in <b>cachet</b> you will also see many chefs who have graduated from American culinary institutes getting the star power-mantle of a celebrity chef.",
+			"The <b>cachet</b> for each bears appropriate wording."
+		]
+	},
+	{
+		"pron": [
+			"kaSH",
+			"Kyāśē"
+		],
+		"bn": "ক্যাশে",
+		"en": "cache",
+		"bn_syns": [
+			"খাদ্যাদির গুপ্ত ভাণ্ডার",
+			"গুপ্ত ভাণ্ডারে লুকাইয়া রাখা"
+		],
+		"en_syns": [
+			"hoard",
+			"store",
+			"stockpile",
+			"stock",
+			"supply",
+			"reserve",
+			"arsenal",
+			"stash",
+			"hive up",
+			"squirrel away",
+			"lay away"
+		],
+		"sents": [
+			"The press, initially lulled into thinking collectively that some hidden <b>cache</b> of wonder lay beneath the claims, has finally recognized it has been conned.",
+			"Agoutis feed on some of the seeds immediately and <b>cache</b> others for future consumption; uneaten seeds germinate about a year later."
+		]
+	},
+	{
+		"pron": [
+			"kəˈbo͞os",
+			"Randhanaśālā"
+		],
+		"bn": "রন্ধনশালা",
+		"en": "caboose",
+		"bn_syns": [
+			"জাহাজের ডেকের ওপর রান্নার জন্য ব্যবহৃত ঘর",
+			"রন্ধনশালা",
+			"জাহাজের রন্ধনশালা",
+			"জাহাজের রান্নাঘর"
+		],
+		"en_syns": [
+			"galley",
+			"cookhouse"
+		],
+		"sents": [
+			"The types of trains, and what is between the locomotive and the <b>caboose</b> can be chosen before embarking on your journey.",
+			"Michael and I also rode in one direction on the upper seats in the train's <b>caboose</b> ."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Kyābala ṭibhi"
+		],
+		"bn": "ক্যাবল টিভি",
+		"en": "cable TV",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			null,
+			"Kēblakāra"
+		],
+		"bn": "কেব্লকার",
+		"en": "cable car",
+		"bn_syns": [
+			"কেব্লকার"
+		],
+		"en_syns": [
+			"car"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈkābəl",
+			"Tārēra"
+		],
+		"bn": "তারের",
+		"en": "cable",
+		"bn_syns": [
+			"কাছি জোগান",
+			"কাছি দিয়া বান্ধা",
+			"টেলিগ্রাম করা",
+			"শক্ত মোটা দড়ি",
+			"টেলিগ্রাফের তার",
+			"কাছি",
+			"রজ্জু",
+			"শৃঙ্খল",
+			"দড়ি",
+			"রশি",
+			"কাতা",
+			"কচ",
+			"কচড়া",
+			"সমুদ্রগর্ভস্থ টেলিগ্রাফের তার",
+			"একরশিপরিমাণ দৈঘ্র্য"
+		],
+		"en_syns": [
+			"wire",
+			"telegraph",
+			"rope",
+			"cord",
+			"line",
+			"guy",
+			"hawser",
+			"stay",
+			"bridle",
+			"choker"
+		],
+		"sents": [
+			"A device is disclosed for stripping the insulation or dielectric housing from a <b>cable</b> or wire.",
+			"While some of the other season's soundtracks are like that, the Fourth Season sounds more like music to cook spaghetti to when friends are over to watch your <b>cable</b> ."
+		]
+	},
+	{
+		"pron": [
+			"ˈkabənit",
+			"Mantrisabhā"
+		],
+		"bn": "মন্ত্রিসভা",
+		"en": "cabinet",
+		"bn_syns": [
+			"কক্ষ-সংক্রান্ত",
+			"খাসকামড়া",
+			"মন্ত্রিসভা",
+			"ক্ষুদ্র কক্ষ",
+			"একান্ত কক্ষ",
+			"গুপ্তকক্ষ",
+			"মন্ত্রগৃহ",
+			"মন্ত্রিপরিষৎ",
+			"রাষ্ট্রের মন্ত্রণাগৃহ",
+			"অমাত্যবর্গ",
+			"দেরাজত্তয়ালা আলমারিবিশেষ"
+		],
+		"en_syns": [
+			"cupboard",
+			"bureau",
+			"bookcase",
+			"chest of drawers",
+			"sideboard",
+			"buffet",
+			"dresser",
+			"credenza",
+			"highboy",
+			"tallboy",
+			"wardrobe",
+			"chiffonier",
+			"armoire",
+			"wall unit",
+			"china cabinet",
+			"file cabinet",
+			"medicine cabinet"
+		],
+		"sents": [
+			"He chairs the meetings of the <emcabinet and appoints ministers to the numerous <b>cabinet</b> committees.",
+			"These were in all shapes and sizes, colours and textures, and she had them stored in a custom-made <b>cabinet</b> , drawer upon drawer of them."
+		]
+	},
+	{
+		"pron": [
+			"ˈkabənit",
+			"Mantrisabhā"
+		],
+		"bn": "মন্ত্রিসভা",
+		"en": "Cabinet",
+		"bn_syns": [
+			"কক্ষ-সংক্রান্ত",
+			"খাসকামড়া",
+			"মন্ত্রিসভা",
+			"ক্ষুদ্র কক্ষ",
+			"একান্ত কক্ষ",
+			"গুপ্তকক্ষ",
+			"মন্ত্রগৃহ",
+			"মন্ত্রিপরিষৎ",
+			"রাষ্ট্রের মন্ত্রণাগৃহ",
+			"অমাত্যবর্গ",
+			"দেরাজত্তয়ালা আলমারিবিশেষ"
+		],
+		"en_syns": [
+			"cupboard",
+			"bureau",
+			"bookcase",
+			"chest of drawers",
+			"sideboard",
+			"buffet",
+			"dresser",
+			"credenza",
+			"highboy",
+			"tallboy",
+			"wardrobe",
+			"chiffonier",
+			"armoire",
+			"wall unit",
+			"china cabinet",
+			"file cabinet",
+			"medicine cabinet"
+		],
+		"sents": [
+			"The walls were lined with racks and shelves and cupboards and <b>cabinets</b> holding an assortment of equipment in organized rows.",
+			"display <b>cabinet</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˈkabən",
+			"Kēbina"
+		],
+		"bn": "কেবিন",
+		"en": "cabin",
+		"bn_syns": [
+			"সাদামাটা ছোটো বাড়ি",
+			"কেবিন",
+			"কুঁড়েঘর",
+			"কুটির",
+			"ক্যাবিন",
+			"কুটীর",
+			"প্রকোষ্ঠ",
+			"জাহাজ ইত্যাদির কুঠরি"
+		],
+		"en_syns": [
+			"cottage",
+			"log cabin",
+			"shack",
+			"chantey",
+			"hut",
+			"chalet",
+			"cabana",
+			"caboose"
+		],
+		"sents": [
+			"Five friends spend a holiday together in a remote <b>cabin</b> in the woods.",
+			"Written almost entirely on the back porch of a remote <b>cabin</b> , the laid-back organic nature of the record is no surprise."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Gāṛōẏāna"
+		],
+		"bn": "গাড়োয়ান",
+		"en": "cabby",
+		"bn_syns": [
+			"গাড়োয়ান",
+			"কোচোয়ান"
+		],
+		"en_syns": [
+			"taxidriver",
+			"cabdriver",
+			"taximan",
+			"cabman"
+		],
+		"sents": [
+			"the <b>cabby</b> had some trouble finding my address"
+		]
+	},
+	{
+		"pron": [
+			"ˈkabij",
+			"Bām̐dhākapi"
+		],
+		"bn": "বাঁধাকপি",
+		"en": "cabbage",
+		"bn_syns": [
+			"বাঁধাকপি উত্পাদন করা",
+			"বাঁধাকপি",
+			"কপি"
+		],
+		"en_syns": [
+			"pilfer",
+			"snarf",
+			"hook",
+			"filch",
+			"swipe",
+			"sneak",
+			"pinch",
+			"purloin",
+			"nobble",
+			"abstract",
+			"lift",
+			"chou"
+		],
+		"sents": [
+			"The vegetables, a mixture of bok choy, <b>cabbage</b> , broccoli, cauliflower and carrots, were fresh and delicious.",
+			"In one of them, he urged his readers to plant the pine <b>cabbage</b> which stands unharmed through the icy Beijing winter, ready for use when the spring thaw arrives."
+		]
+	},
+	{
+		"pron": [
+			"ˈkabəˌrā,ˌkabəˈrā",
+			"Sarā'i"
+		],
+		"bn": "সরাই",
+		"en": "cabaret",
+		"bn_syns": [
+			"ফরাসি সরাইখানা",
+			"সরাই",
+			"সরাইখানার নাচগান"
+		],
+		"en_syns": [
+			"entertainment",
+			"show",
+			"floor show",
+			"performance"
+		],
+		"sents": [
+			"a <b>cabaret</b> act",
+			"Comedy and <b>cabaret</b> also attract large audiences and appear to have a large talent pool."
+		]
+	},
+	{
+		"pron": [
+			"kab",
+			"Ghōṛāra gāṛi"
+		],
+		"bn": "ঘোড়ার গাড়ি",
+		"en": "cab",
+		"bn_syns": [
+			"ভাড়াটে ঘোড়ার গাড়ী",
+			"ছেকড়া গাড়ী",
+			"ঘোড়ার গাড়ি",
+			"ভাড়াটে ঘোড়ার গাড়ি"
+		],
+		"en_syns": [
+			"taxi",
+			"taxicab",
+			"hack",
+			"rickshaw",
+			"trishaw",
+			"pedicab"
+		],
+		"sents": [
+			"If three people decide to <b>cab</b> in together, one could pay, collect vouchers from the others and be reimbursed for all three.",
+			"The lorry driver escaped from his <b>cab</b> and was treated at Chesterfield Royal Infirmary for minor injuries, and later released."
+		]
+	},
+	{
+		"pron": [
+			"ˈaksəl",
+			"Akṣa"
+		],
+		"bn": "অক্ষ",
+		"en": "axle",
+		"bn_syns": [
+			"যে দণ্ডকে ঘিরে কোনো চাকা ঘোরে",
+			"ধুরা",
+			"অক্ষ",
+			"ধুর",
+			"অক্ষরেখা",
+			"অক্ষধুরা",
+			"চক্রনেমী",
+			"অক্ষদণ্ড"
+		],
+		"en_syns": [
+			"shaft",
+			"spindle",
+			"rod",
+			"arbor",
+			"mandrel",
+			"pivot"
+		],
+		"sents": [
+			"<b>axle</b> grease",
+			"Independent rear <b>axles</b> are similar to front axle of a front wheel drive car."
+		]
+	},
+	{
+		"pron": [
+			"ˈaksis",
+			"Akṣa"
+		],
+		"bn": "অক্ষ",
+		"en": "axis",
+		"bn_syns": [
+			"অক্ষ",
+			"অক্ষরেখা",
+			"অক্ষধুরা",
+			"অক্ষদণ্ড",
+			"মেরূরেখা",
+			"মেরূদণ্ড",
+			"কাণ্ড",
+			"ভ্রূণাক্ষ",
+			"চক্র"
+		],
+		"en_syns": [
+			"center line",
+			"vertical",
+			"horizontal"
+		],
+		"sents": [
+			"the Earth revolves on its <b>axis</b> once every 24 hours",
+			"The sphere rotates around its <b>axis</b> once each 24 hours."
+		]
+	},
+	{
+		"pron": [
+			"ˌaksēəˈmatik",
+			"Sbaẏampramāṇita"
+		],
+		"bn": "স্বয়ংপ্রমাণিত",
+		"en": "axiomatic",
+		"bn_syns": [
+			"স্বয়ংপ্রমাণিত",
+			"স্বত:প্রমাণ",
+			"স্বত:সিদ্ধ",
+			"সর্বজনবিদিত",
+			"স্বতঃসিদ্ধ",
+			"সর্বজনস্বীকৃত"
+		],
+		"en_syns": [
+			"aphoristic"
+		],
+		"sents": [
+			"Like the photographer who shows his or her aptitude in the selective framing, it is <b>axiomatic</b> that the decisive representation of a single scene in pictorial representation is a key to its beauty.",
+			"Since Euclid's <b>axiomatic</b> formulation of geometry mathematicians had been trying to prove his fifth postulate as a theorem deduced from the other four axioms."
+		]
+	},
+	{
+		"pron": [
+			"ˈaksēəm",
+			"Sbata: Sid'dha satya"
+		],
+		"bn": "স্বত: সিদ্ধ সত্য",
+		"en": "axiom",
+		"bn_syns": [
+			"সবর্জনবিদিত নীতি",
+			"স্বয়ংপ্রমাণিত সত্য",
+			"স্বত:সিদ্ধ সত্য",
+			"স্বত:প্রমাণতা"
+		],
+		"en_syns": [
+			"accepted truth",
+			"general truth",
+			"dictum",
+			"truism",
+			"principle",
+			"maxim",
+			"adage",
+			"aphorism",
+			"apophthegm",
+			"gnome"
+		],
+		"sents": [
+			"It is a well-accepted <b>axiom</b> that the software ‘industry’ grew largely because of government indifference, not its help.",
+			"It has long been an <b>axiom</b> that history is re-written by each generation in terms that make sense to it."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Akṣa"
+		],
+		"bn": "অক্ষ",
+		"en": "axes",
+		"bn_syns": [
+			"হ্রাস করা",
+			"কুঠার দ্বারা ছেদন করা",
+			"কাটা",
+			"কেটে ফেলা",
+			"কম করা",
+			"কমিয়ে দেত্তয়া",
+			"কুঠার",
+			"কুড়াল",
+			"কুড়ুল"
+		],
+		"en_syns": [
+			"cancel",
+			"withdraw",
+			"drop",
+			"scrap",
+			"discontinue",
+			"terminate",
+			"end",
+			"ditch",
+			"dump",
+			"pull the plug on",
+			"hatchet",
+			"cleaver",
+			"tomahawk",
+			"adze",
+			"poleax",
+			"broadax",
+			"battle-ax",
+			"twibill"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"aks",
+			"Kuṭhāra"
+		],
+		"bn": "কুঠার",
+		"en": "ax",
+		"bn_syns": [
+			"কুড়ুল",
+			"",
+			"টাংগি",
+			"হ্রাস করা",
+			"কুঠার দ্বারা ছেদন করা",
+			"কাটা",
+			"কেটে ফেলা",
+			"কম করা",
+			"কমিয়ে দেত্তয়া",
+			"কুঠার",
+			"কুড়াল"
+		],
+		"en_syns": [
+			"cancel",
+			"withdraw",
+			"drop",
+			"scrap",
+			"discontinue",
+			"terminate",
+			"end",
+			"ditch",
+			"dump",
+			"pull the plug on",
+			"hatchet",
+			"cleaver",
+			"tomahawk",
+			"adze",
+			"poleax",
+			"broadax",
+			"battle-ax",
+			"twibill"
+		],
+		"sents": [
+			"On the upside, he has room to strut his nonpareil <b>axe</b> work, but the orchestra isn't so much an effective foil as an amenable supporter.",
+			"The man threatened to rob Tina's store saying he had a knife, but fled empty-handed after she whacked him with an <b>axe</b> handle."
+		]
+	},
+	{
+		"pron": [
+			"əˈrī",
+			"Ṭērā"
+		],
+		"bn": "টেরা",
+		"en": "awry",
+		"bn_syns": [
+			"কুটিলভাবে",
+			"তির্যগ্ভাবে",
+			"বক্রভাবে",
+			"ভুলপথে",
+			"তির্যকভাবে",
+			"ভুলভাবে",
+			"বেঠিকভাবে",
+			"স্থানভ্রষ্ট হয়ে",
+			"টেরা",
+			"তেরছা",
+			"রীতিবিরুদ্ধ",
+			"বিকৃত",
+			"বাঁকা",
+			"টেড়া"
+		],
+		"en_syns": [
+			"amiss",
+			"wrong",
+			"up"
+		],
+		"sents": [
+			"Of course, when things go <b>awry</b> we always single out and punish somebody, usually the coach.",
+			"This is a case where the justness of conception and of the means to carry it out go <b>awry</b> due to one slightly wrong choice."
+		]
+	},
+	{
+		"pron": [
+			"ˈāˌwôl",
+			"AWOL"
+		],
+		"bn": "AWOL",
+		"en": "AWOL",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			null,
+			"Awoken"
+		],
+		"bn": "awoken",
+		"en": "awoken",
+		"bn_syns": [
+			"জাগ্রত করা",
+			"জাগা",
+			"নিদ্রা হইতে জাগা",
+			"নিষ্ক্রিয়তা ত্যাগ করান",
+			"জাগান",
+			"নিষ্ক্রিয়তা ত্যাগ করা",
+			"জাগানো",
+			"জাগরিত করা",
+			"জেগে ত্তঠা",
+			"নিদ্রা হইতে জাগান",
+			"জাগরিত হত্তয়া",
+			"জাগ্রত থাকা",
+			"ঘুম ভাঙ্গানো",
+			"উঠা",
+			"উত্থিত করা",
+			"সতর্ক থাকা",
+			"সাবধান থাকা",
+			"চেতা",
+			"চেতান",
+			"জাগ্রত হত্তয়া"
+		],
+		"en_syns": [
+			"wake (up)",
+			"awaken",
+			"stir",
+			"come to",
+			"come around",
+			"waken"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			null,
+			"Awoke"
+		],
+		"bn": "awoke",
+		"en": "awoke",
+		"bn_syns": [
+			"জাগ্রত করা",
+			"জাগা",
+			"নিদ্রা হইতে জাগা",
+			"নিষ্ক্রিয়তা ত্যাগ করান",
+			"জাগান",
+			"নিষ্ক্রিয়তা ত্যাগ করা",
+			"জাগানো",
+			"জাগরিত করা",
+			"জেগে ত্তঠা",
+			"নিদ্রা হইতে জাগান",
+			"জাগরিত হত্তয়া",
+			"জাগ্রত থাকা",
+			"ঘুম ভাঙ্গানো",
+			"উঠা",
+			"উত্থিত করা",
+			"সতর্ক থাকা",
+			"সাবধান থাকা",
+			"চেতা",
+			"চেতান",
+			"জাগ্রত হত্তয়া"
+		],
+		"en_syns": [
+			"wake (up)",
+			"awaken",
+			"stir",
+			"come to",
+			"come around",
+			"waken"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈôniNG",
+			"Śāmiẏānā"
+		],
+		"bn": "শামিয়ানা",
+		"en": "awning",
+		"bn_syns": [
+			"ছাউনি",
+			"শামিয়ানা",
+			"চাঁদোয়া",
+			"চাঁদনী",
+			"চন্দ্রাতপ",
+			"চাঁদনি"
+		],
+		"en_syns": [
+			"canopy",
+			"shade",
+			"marquee",
+			"sunshade",
+			"brise-soleil",
+			"shelter",
+			"cover",
+			"blind"
+		],
+		"sents": [
+			"You develop the stoop that shades your pocket note book from the rain whilst evidence gathering, preferably under an <b>awning</b> covering the pavement.",
+			"We should be inducing pedestrians: traffic lights set up so that pedestrians don't have to wait so long, more covered footpaths and <b>awnings</b> , more street art."
+		]
+	},
+	{
+		"pron": [
+			"ˈôkwərdnis",
+			"Jabuthabubhāba"
+		],
+		"bn": "জবুথবুভাব",
+		"en": "awkwardness",
+		"bn_syns": [
+			"জবুথবুভাব",
+			"অপাটব"
+		],
+		"en_syns": [
+			"embarrassment",
+			"self-consciousness",
+			"discomfort",
+			"discomfiture",
+			"uneasiness",
+			"edginess",
+			"tension",
+			"nervousness"
+		],
+		"sents": [
+			"the <b>awkwardness</b> of youth",
+			"there was a moment of <b>awkwardness</b>"
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Awkwardly"
+		],
+		"bn": "awkwardly",
+		"en": "awkwardly",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈôkwərd",
+			"Biśrī"
+		],
+		"bn": "বিশ্রী",
+		"en": "awkward",
+		"bn_syns": [
+			"বেখাপ্পা",
+			"অসুবিধাজনক",
+			"উদ্ভট",
+			"বেয়াড়া",
+			"বিদঘুটে",
+			"গোলমেলে",
+			"অপ্রস্তুত",
+			"অপটু",
+			"বিশ্রী",
+			"কেবলা",
+			"কুতসিত",
+			"বেমানান",
+			"বেঢপ",
+			"আনাড়ি",
+			"জবুথবু",
+			"অপ্রতিভ",
+			"বিশৃঙ্খল",
+			"হতবুদ্ধি",
+			"কঠিন",
+			"জটিলসমস্যাপূর্ণ"
+		],
+		"en_syns": [
+			"difficult",
+			"tricky",
+			"cumbersome",
+			"unwieldy"
+		],
+		"sents": [
+			"He dealt with an <b>awkward</b> question on devolution with the surety and intelligence you would expect from a man who refused to be bullied into Vietnam.",
+			"The public perception of me is that I'm a hard man or an <b>awkward</b> man."
+		]
+	},
+	{
+		"pron": [
+			"əˈ(h)wīl",
+			"Alpa samaẏēra jan'ya"
+		],
+		"bn": "অল্প সময়ের জন্য",
+		"en": "awhile",
+		"bn_syns": [
+			"কিছুক্ষণের জন্য",
+			"অল্প সময়ের জন্য",
+			"কিছুকাল যাবৎ",
+			"অল্পকাল যাবৎ"
+		],
+		"en_syns": [
+			"for a moment",
+			"for a (little) while",
+			"for a short time",
+			"for a bit"
+		],
+		"sents": [
+			"So I'm going to savour it <b>awhile</b> and plot some hedonistic scheme to keep me amused.",
+			"Local golfers paused <b>awhile</b> to point it out to one another, then continued on their rounds."
+		]
+	},
+	{
+		"pron": [
+			"ˈôf(ə)lē",
+			"Atiśaẏa"
+		],
+		"bn": "অতিশয়",
+		"en": "awfully",
+		"bn_syns": [
+			"প্রচণ্ডভাবে",
+			"অতিশয়",
+			"অত্যন্ত",
+			"অতি",
+			"ভয়ঙ্করে"
+		],
+		"en_syns": [
+			"very",
+			"extremely",
+			"really",
+			"immensely",
+			"exceedingly",
+			"thoroughly",
+			"exceptionally",
+			"remarkably",
+			"extraordinarily",
+			"terrifically",
+			"terribly",
+			"seriously",
+			"majorly",
+			"real",
+			"mighty",
+			"awful",
+			"frightfully",
+			"exceeding"
+		],
+		"sents": [
+			"These heroes must grow up <b>awfully</b> fast in this day and age.",
+			"I'm <b>awfully</b> sorry to bother you so late"
+		]
+	},
+	{
+		"pron": [
+			"ˈôfəl",
+			"Bhaẏābaha"
+		],
+		"bn": "ভয়াবহ",
+		"en": "awful",
+		"bn_syns": [
+			"অভিভূত-করা",
+			"সম্ভ্রম-জাগানো",
+			"ভয়াবহ",
+			"ভীতিপ্রদ",
+			"বেদনাবহ",
+			"আতঙ্কজনক",
+			"ভয়ঙ্কর",
+			"বীভত্স",
+			"ভয়ানক",
+			"করাল",
+			"ঘোর"
+		],
+		"en_syns": [
+			"terribly",
+			"frightfully",
+			"awfully",
+			"disgusting",
+			"horrible",
+			"terrible",
+			"dreadful",
+			"ghastly",
+			"nasty",
+			"vile",
+			"foul",
+			"revolting",
+			"repulsive",
+			"repugnant",
+			"odious",
+			"sickening",
+			"nauseating",
+			"yucky",
+			"gross",
+			"beastly"
+		],
+		"sents": [
+			"I was rebounding and using an expanse of dates to distract my attention from how <b>awful</b> I really felt.",
+			"It's still an <b>awful</b> burden."
+		]
+	},
+	{
+		"pron": [
+			"ˈôsəm",
+			"Bhaẏaṅkara"
+		],
+		"bn": "ভয়ঙ্কর",
+		"en": "awesome",
+		"bn_syns": [
+			"ভীতি ও বিস্ময়জনক",
+			"সন্ত্রস্ত",
+			"ভয়ঙ্কর"
+		],
+		"en_syns": [
+			"breathtaking",
+			"awe-inspiring",
+			"magnificent",
+			"wonderful",
+			"amazing",
+			"stunning",
+			"staggering",
+			"imposing",
+			"stirring",
+			"impressive",
+			"formidable",
+			"fearsome",
+			"dreaded",
+			"mind-boggling",
+			"mind-blowing",
+			"jaw-dropping",
+			"excellent",
+			"marvelous",
+			"wondrous",
+			"awful"
+		],
+		"sents": [
+			"The super-long socks that Frank bought me in England are the most <b>awesome</b> socks ever!",
+			"Having said that, he is a thunderously <b>awesome</b> singer and had the engineers at Battery in absolute thrall."
+		]
+	},
+	{
+		"pron": [
+			"",
+			"Ātaṅkakara"
+		],
+		"bn": "আতঙ্ককর",
+		"en": "awe-inspiring",
+		"bn_syns": [
+			"আতঙ্ককর",
+			"ভয়ঙ্কর",
+			"আতঙ্ককারী",
+			"আতঙ্কজনক"
+		],
+		"en_syns": [
+			"awful",
+			"awesome",
+			"amazing"
+		],
+		"sents": [
+			"Immortalized, but he ain't gonna be scribbling no more <b>awe-inspiring</b> lyrics in a hurry.",
+			"The result is <b>awe-inspiring</b> and beautiful: the largest piece of functional sculpture you will ever see."
+		]
+	},
+	{
+		"pron": [
+			"ô",
+			"Sambhrama"
+		],
+		"bn": "সম্ভ্রম",
+		"en": "awe",
+		"bn_syns": [
+			"সমীহ",
+			"সম্ভ্রম",
+			"ভয়",
+			"সশ্রদ্ধ ভয়",
+			"সশ্রদ্ধ বিশ্ময়",
+			"আতঙ্ক"
+		],
+		"en_syns": [
+			"wonder",
+			"wonderment",
+			"admiration",
+			"reverence",
+			"respect",
+			"esteem",
+			"dread",
+			"fear"
+		],
+		"sents": [
+			"they gazed in <b>awe</b> at the small mountain of diamonds",
+			"The ministry has lost its <b>awe</b> and power."
+		]
+	},
+	{
+		"pron": [
+			"əˈwā",
+			"Dūrē"
+		],
+		"bn": "দূরে",
+		"en": "away",
+		"bn_syns": [
+			"পরে",
+			"দূরত্বে",
+			"তফাতে",
+			"দূরে",
+			"কোন স্থানের বাহিরে",
+			"কোন নাগালের বাহিরে",
+			"সম্মুখে",
+			"সিধা",
+			"একটানা",
+			"গৃহের বাহিরে",
+			"স্বদেশের বাহিরে",
+			"লক্ষ্যের বাহিরে",
+			"সঙ্গে সঙ্গে",
+			"তত্ক্ষণাৎ",
+			"বিপক্ষের এলাকায়"
+		],
+		"en_syns": [
+			"outside",
+			"off",
+			"from here",
+			"from there"
+		],
+		"sents": [
+			"What has made things worse is the euro signs clicking <b>away</b> in the eyes of anyone who is working on the Games.",
+			"Prawn trawlers were still continuing to plod <b>away</b> with most of the old problems still there."
+		]
+	},
+	{
+		"pron": [
+			"əˈwäSH,əˈwôSH",
+			"Bhāsā"
+		],
+		"bn": "ভাসা",
+		"en": "awash",
+		"bn_syns": [
+			"ভাসা",
+			"প্লাবিত",
+			"ভাসন্ত",
+			"তরঙ্গবিধৌত",
+			"ভাসমান"
+		],
+		"en_syns": [
+			"triteness",
+			"vapidity",
+			"staleness",
+			"unimaginativeness",
+			"lack of originality",
+			"prosaicness",
+			"dullness",
+			"corniness",
+			"flooded",
+			"under water",
+			"submerged",
+			"submersed"
+		],
+		"sents": [
+			"Every investment bank in the City is said to be <b>awash</b> with potential deals, which is sparking guessing games as to who will fall on to the auction block next.",
+			"Here we discovered a rock <b>awash</b> not noted in either chart or guide."
+		]
+	},
+	{
+		"pron": [
+			"əˈwe(ə)rnis",
+			"Sacētanatā"
+		],
+		"bn": "সচেতনতা",
+		"en": "awareness",
+		"bn_syns": [
+			"অবগতি",
+			"জানাশোনা",
+			"টের",
+			"সচেতনতা",
+			"সজাগতা"
+		],
+		"en_syns": [
+			"consciousness",
+			"recognition",
+			"realization",
+			"understanding",
+			"grasp",
+			"appreciation",
+			"knowledge",
+			"insight",
+			"familiarity",
+			"light-bulb moment",
+			"cognizance"
+		],
+		"sents": [
+			"there is a lack of <b>awareness</b> of the risks",
+			"Underpinning this year's congress was a strong current of environmental <b>awareness</b> ."
+		]
+	},
+	{
+		"pron": [
+			"əˈwe(ə)r",
+			"Sacētana"
+		],
+		"bn": "সচেতন",
+		"en": "aware",
+		"bn_syns": [
+			"জ্ঞাত",
+			"অবহিত",
+			"সজাগ",
+			"সচেতন",
+			"অবগত",
+			"সতর্ক"
+		],
+		"en_syns": [
+			"conscious of",
+			"mindful of",
+			"informed about",
+			"acquainted with",
+			"familiar with",
+			"alive to",
+			"alert to",
+			"clued in to",
+			"wise to",
+			"in the know about",
+			"hip to",
+			"cognizant of",
+			"ware of"
+		],
+		"sents": [
+			"Steve's very tactically <b>aware</b> of players and situations as you can see in his teams.",
+			"he's <b>aware</b> of the danger"
+		]
+	},
+	{
+		"pron": [
+			"əˈwôrd",
+			"Puraskāra"
+		],
+		"bn": "পুরস্কার",
+		"en": "award",
+		"bn_syns": [
+			"বিচারপূর্বক রায় দেত্তয়া",
+			"বিনির্ণয় করা",
+			"নির্ধারণ করা",
+			"বৃত্তি দেত্তয়া",
+			"প্রদান করা",
+			"আনুষ্ঠানিকভাবে বা আদালতের রায় অনুসারে কোনোকিছু দেওয়া",
+			"পুরস্কার",
+			"রায়",
+			"রোয়েদাদ",
+			"বিনির্ণয়",
+			"অর্পণ",
+			"দান",
+			"দেত্তয়া",
+			"প্রদান"
+		],
+		"en_syns": [
+			"give",
+			"grant",
+			"accord",
+			"assign",
+			"confer on",
+			"bestow on",
+			"present to",
+			"endow with",
+			"decorate with",
+			"prize",
+			"trophy",
+			"medal",
+			"decoration",
+			"reward"
+		],
+		"sents": [
+			"an <b>award</b> of damages",
+			"But now, members of Congress are questioning whether the military can <b>award</b> such a contract to a company controlled by foreign entities."
+		]
+	},
+	{
+		"pron": [
+			"əˈwāk(ə)niNG",
+			"Jāgaraṇa"
+		],
+		"bn": "জাগরণ",
+		"en": "awakening",
+		"bn_syns": [
+			"জাগরণ",
+			"জাগর",
+			"উন্মেষ",
+			"উদয়",
+			"উদ্বোধন",
+			"প্রবোধ",
+			"প্রবোধন",
+			"প্রতিবোধ",
+			"প্রতিবোধন",
+			"বোধন"
+		],
+		"en_syns": [
+			"arouse",
+			"rouse",
+			"bring out",
+			"engender",
+			"evoke",
+			"incite",
+			"trigger",
+			"provoke",
+			"stir up",
+			"stimulate",
+			"animate",
+			"quicken",
+			"kindle",
+			"awake",
+			"revive",
+			"enkindle",
+			"wakening",
+			"waking up"
+		],
+		"sents": [
+			"I am getting a rude <b>awakening</b> to the Conference League and some of the frightening decisions that are made in it.",
+			"The <b>awakening</b> industry also is finding changes in materials."
+		]
+	},
+	{
+		"pron": [
+			"əˈwākən",
+			"Jāgrata karā"
+		],
+		"bn": "জাগ্রত করা",
+		"en": "awaken",
+		"bn_syns": [
+			"ঘুম ভাঙা",
+			"সচেতন করা",
+			"সজাগ",
+			"হুঁশিয়ার",
+			"সতর্ক",
+			"জাগ্রত করা",
+			"জাগা",
+			"জাগরিত করা",
+			"জাগান",
+			"উত্থিত করা",
+			"নিদ্রা হইতে জাগান",
+			"নিদ্রা হইতে জাগা",
+			"নিষ্ক্রিয়তা ত্যাগ করান",
+			"নিষ্ক্রিয়তা ত্যাগ করা",
+			"জেগে ত্তঠা",
+			"উন্মেষিত করা",
+			"সাবধান থাকা",
+			"সতর্ক থাকা",
+			"উদ্বুদ্ধ করা",
+			"জাগ্রত থাকা",
+			"জাগরিত হত্তয়া",
+			"জাগ্রত হত্তয়া",
+			"ঘুম ভাঙ্গানো",
+			"জাগানো"
+		],
+		"en_syns": [
+			"arouse",
+			"rouse",
+			"bring out",
+			"engender",
+			"evoke",
+			"incite",
+			"trigger",
+			"provoke",
+			"stir up",
+			"stimulate",
+			"animate",
+			"quicken",
+			"kindle",
+			"awake",
+			"revive",
+			"enkindle"
+		],
+		"sents": [
+			"It was nature, above all, that stirred his emotions, and it was to scenes of natural beauty that his mother had taken him as a child, so as to <b>awaken</b> his feelings towards the things she loved.",
+			"Barry is pushed deeper and deeper into a hair-tearing abyss, until his sister introduces him to Lena Leonard who, with deceptively simple tenderness in this love story, <b>awakens</b> Barry to his inner strength."
+		]
+	},
+	{
+		"pron": [
+			"əˈwāk",
+			"Jāgrata"
+		],
+		"bn": "জাগ্রত",
+		"en": "awake",
+		"bn_syns": [
+			"ঘুম ভাঙা",
+			"জেগে ওঠা",
+			"বিনিদ্র",
+			"জাগ্রত করা",
+			"জাগা",
+			"নিদ্রা হইতে জাগা",
+			"নিষ্ক্রিয়তা ত্যাগ করান",
+			"জাগান",
+			"নিষ্ক্রিয়তা ত্যাগ করা",
+			"জাগানো",
+			"জাগরিত করা",
+			"জেগে ত্তঠা",
+			"নিদ্রা হইতে জাগান",
+			"জাগরিত হত্তয়া",
+			"জাগ্রত থাকা",
+			"ঘুম ভাঙ্গানো",
+			"উঠা",
+			"উত্থিত করা",
+			"সতর্ক থাকা",
+			"সাবধান থাকা",
+			"চেতা",
+			"চেতান",
+			"জাগ্রত হত্তয়া",
+			"জাগ্রত",
+			"জাগরুক",
+			"সতর্ক",
+			"সজাগ",
+			"হুঁশিয়ার",
+			"জাগন্ত",
+			"গতনিদ্র্র্র্র",
+			"বীতনিদ্র",
+			"অতন্দ্র",
+			"অতন্দ্রি"
+		],
+		"en_syns": [
+			"wake (up)",
+			"awaken",
+			"stir",
+			"come to",
+			"come around",
+			"waken",
+			"wakeful",
+			"sleepless",
+			"restless",
+			"restive",
+			"watchful"
+		],
+		"sents": [
+			"All of these effects are well known and may occur when one's consciousness shifts into a state between being fully asleep and fully <b>awake</b> .",
+			"In the dishevelled moments when one's neither <b>awake</b> nor asleep they will have felt inexplicably happy."
+		]
+	},
+	{
+		"pron": [
+			"əˈwāt",
+			"Pratīkṣā karā"
+		],
+		"bn": "প্রতীক্ষা করা",
+		"en": "await",
+		"bn_syns": [
+			"ভাগ্যে থাকা",
+			"",
+			"অপেক্ষা করা",
+			"প্রতীক্ষা করা",
+			"মজুত থাকা"
+		],
+		"en_syns": [
+			"wait for",
+			"expect",
+			"anticipate"
+		],
+		"sents": [
+			"Once in the driving seat, a truly great motoring experience <b>awaits</b> you.",
+			"Odessa are well on the way to completing their eagerly <b>awaited</b> debut album, which is due out early May."
+		]
+	},
+	{
+		"pron": [
+			"ô",
+			"Huma"
+		],
+		"bn": "হুম",
+		"en": "aw",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"<b>aw</b>, it's a shame I can't make it",
+			"<b>aw</b>, it's a shame I can't make it"
+		]
+	},
+	{
+		"pron": [
+			"əˈvoud",
+			"Sbīkr̥ta"
+		],
+		"bn": "স্বীকৃত",
+		"en": "avowed",
+		"bn_syns": [
+			"স্বীকৃত",
+			"প্রকাশ্যে স্বীকৃত",
+			"সত্য বলিয়া ঘোষিত",
+			"প্রকাশ্যে ঘোষিত"
+		],
+		"en_syns": [
+			"assert",
+			"declare",
+			"state",
+			"maintain",
+			"swear",
+			"affirm",
+			"vow",
+			"insist",
+			"admit",
+			"confess",
+			"acknowledge",
+			"aver",
+			"self-confessed",
+			"self-declared",
+			"acknowledged",
+			"admitted",
+			"open",
+			"overt"
+		],
+		"sents": [
+			"Finally, there's Dennis Kucinich, an <b>avowed</b> radical.",
+			"In the 2005 parliamentary elections, 99 per cent of Kurds voted for nationalist parties with an <b>avowed</b> secessionist agenda."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Sbīkāra"
+		],
+		"bn": "স্বীকার",
+		"en": "avowal",
+		"bn_syns": [
+			"ঘোষণা বা স্বীকার",
+			"প্রতিশ্রুতি",
+			"স্বীকার",
+			"সত্য বলিয়া ঘোষণা",
+			"দোষস্বীকার"
+		],
+		"en_syns": [
+			"avouchment",
+			"affirmation"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"əˈvou",
+			"Satya baliẏā ghōṣaṇā karā"
+		],
+		"bn": "সত্য বলিয়া ঘোষণা করা",
+		"en": "avow",
+		"bn_syns": [
+			"কবুল করা",
+			"শপথপূর্বক বলা",
+			"সত্য বলিয়া ঘোষণা করা"
+		],
+		"en_syns": [
+			"assert",
+			"declare",
+			"state",
+			"maintain",
+			"swear",
+			"affirm",
+			"vow",
+			"insist",
+			"admit",
+			"confess",
+			"acknowledge",
+			"aver"
+		],
+		"sents": [
+			"But the current attempt to de-legitimise this debate, and replace it with <b>avowals</b> of personal belief are destined to fail.",
+			"But the school is <b>avowedly</b> ecumenical so no extra credence is given to practising Anglicans,’ he said."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Parihāra"
+		],
+		"bn": "পরিহার",
+		"en": "avoidance",
+		"bn_syns": [
+			"এড়ানো",
+			"পরিহার",
+			"রহিতকরণ",
+			"রদ",
+			"বাছবিচার",
+			"কৌশলে পরিহার",
+			"বাতিল",
+			"বিলোপ",
+			"লোপ",
+			"কৌশলে পলায়ন",
+			"পরিত্যাগ",
+			"অপবারণ"
+		],
+		"en_syns": [
+			"dodging",
+			"turning away",
+			"shunning"
+		],
+		"sents": [
+			"<b>avoidance</b> behaviour"
+		]
+	},
+	{
+		"pron": [
+			"əˈvoidəbəl",
+			"Parihārya"
+		],
+		"bn": "পরিহার্য",
+		"en": "avoidable",
+		"bn_syns": [
+			"এড়ানো সম্ভব এমন",
+			"পরিহার্য"
+		],
+		"en_syns": [
+			"preventable",
+			"stoppable",
+			"needless",
+			"unnecessary",
+			"escapable"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"əˈvoid",
+			"Ēṛātē"
+		],
+		"bn": "এড়াতে",
+		"en": "avoid",
+		"bn_syns": [
+			"এড়ান",
+			"এড়িয়ে যাত্তয়া",
+			"পরিহার করিয়া চলা",
+			"কৌশলে পরিহার করা",
+			"পরাঙ্মুখ হত্তয়া",
+			"বেঁচে যাত্তয়া",
+			"দূরে থাকা",
+			"সরে যাত্তয়া",
+			"সরে পড়া",
+			"হঠিয়া যাত্তয়া",
+			"পরিত্যাগ করিয়া যাত্তয়া",
+			"অপবারণ করা",
+			"রহিত করা",
+			"ঠেলা",
+			"বাতিল করা",
+			"রদ করা",
+			"এড়ানো",
+			"পরিহার করা"
+		],
+		"en_syns": [
+			"keep away from",
+			"stay away from",
+			"steer clear of",
+			"give a wide berth to",
+			"fight shy of"
+		],
+		"sents": [
+			"he managed to <b>avoid</b> offending anyone",
+			"What is the best method for those who wish to <b>avoid</b> excessive sun exposure and dairy sources of vitamin D?"
+		]
+	},
+	{
+		"pron": [
+			"ˌavəˈkädō,ˌävə-",
+			"Ābhākāḍō"
+		],
+		"bn": "আভাকাডো",
+		"en": "avocado",
+		"bn_syns": [
+			"আভাকাডো"
+		],
+		"en_syns": [
+			"alligator pear",
+			"avocado pear"
+		],
+		"sents": [
+			"I particularly remember the jaunt to buy a motorized exercise/torture device which came in the required shade of <b>avocado</b> green.",
+			"serve with slices of <b>avocado</b>"
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Lōbhārtabhābē"
+		],
+		"bn": "লোভার্তভাবে",
+		"en": "avidly",
+		"bn_syns": [
+			"লোভার্তভাবে"
+		],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈavid",
+			"Kṣudhita"
+		],
+		"bn": "ক্ষুধিত",
+		"en": "avid",
+		"bn_syns": [
+			"ক্ষুধিত",
+			"লিপ্সু",
+			"লোভী",
+			"লোভাতুর",
+			"আগ্রহী",
+			"ব্যগ্র",
+			"উত্সুক",
+			"উদগ্র"
+		],
+		"en_syns": [
+			"keen",
+			"eager",
+			"enthusiastic",
+			"ardent",
+			"passionate",
+			"zealous",
+			"hard-core",
+			"devoted",
+			"dedicated",
+			"wholehearted",
+			"earnest"
+		],
+		"sents": [
+			"An <b>avid</b> air enthusiast, Andy has travelled all over the world in pursuit of his hobby.",
+			"I read Watership Down <b>avidly</b> when I was ten; it was a cracking story."
+		]
+	},
+	{
+		"pron": [
+			"ˈāvēˌātər",
+			"Bimānacālaka"
+		],
+		"bn": "বিমানচালক",
+		"en": "aviator",
+		"bn_syns": [
+			"পাইলট",
+			"উড়োজাহাজ, বেলুন ইত্যাদির চালক",
+			"বিমানচালক",
+			"ব্যোমযাত্রী"
+		],
+		"en_syns": [
+			"pilot",
+			"airman",
+			"airwoman",
+			"flyer",
+			"flyboy",
+			"aviatrix",
+			"barnstormer"
+		],
+		"sents": [
+			"And with this new melding of pilots and drivers, we <b>aviators</b> should be able to continue as blind as many motorists.",
+			"The Dutch pilot decided to stay with the other <b>aviators</b> , and they began to look around the field."
+		]
+	},
+	{
+		"pron": [
+			"ˌāvēˈāSHən",
+			"Bimānacālanā"
+		],
+		"bn": "বিমানচালনা",
+		"en": "aviation",
+		"bn_syns": [
+			"বিমানচালনার কৌশল",
+			"বিমানচালন বিদ্যা",
+			"বিমানচালনা",
+			"বিমানপোতে নভশ্চরণ"
+		],
+		"en_syns": [
+			"flight",
+			"air travel",
+			"piloting"
+		],
+		"sents": [
+			"So what happened for a helicopter deemed by <b>aviation</b> experts to be one of the safest to just drop out of the sky on a clear July evening?",
+			"the <b>aviation</b> industry"
+		]
+	},
+	{
+		"pron": [
+			"əˈvərt",
+			"Pratihata karā"
+		],
+		"bn": "প্রতিহত করা",
+		"en": "avert",
+		"bn_syns": [
+			"প্রতিহত করা",
+			"নিবারণ করা",
+			"ব্যাহত করা",
+			"বাধা দেত্তয়া",
+			"ব্যর্থ করা",
+			"প্রতিষেধ করা",
+			"দূর করা",
+			"ঠেকানো",
+			"আটকানো",
+			"চোখ, মন ইত্যাদি সরিয়ে নেওয়া",
+			"এড়ানো"
+		],
+		"en_syns": [
+			"turn aside",
+			"turn away"
+		],
+		"sents": [
+			"They don't make for pretty reading and some of you may wish to <b>avert</b> your eyes now.",
+			"Hard and social science will of course progress even though the Supreme Court <b>averts</b> its eyes."
+		]
+	},
+	{
+		"pron": [
+			"əˈvərZHən",
+			"Asādha"
+		],
+		"bn": "অসাধ",
+		"en": "aversion",
+		"bn_syns": [
+			"বিমুখতা",
+			"ঘোর অপছন্দ",
+			"বিরাগভাজন ব্যক্তি",
+			"বিতৃষ্ণা",
+			"অসাধ",
+			"বিরাগ",
+			"ঘৃণা",
+			"ঔদাসিন্যতা",
+			"অনিচ্ছা",
+			"অনভিলাষ",
+			"অরূচি",
+			"অপ্রবৃত্তি",
+			"দ্বেষণ",
+			"দ্বেষ"
+		],
+		"en_syns": [
+			"dislike of",
+			"antipathy for",
+			"distaste for",
+			"abhorrence of",
+			"hatred of",
+			"odium of",
+			"loathing of",
+			"detestation of",
+			"hostility toward",
+			"reluctance toward",
+			"unwillingness for",
+			"disinclination toward"
+		],
+		"sents": [
+			"Negative reinforcement involves the removal of an <b>aversive</b> stimulus that also results in an increase in the future frequency of a behavior, and often involves escape or avoidance responding.",
+			"This impression was often based on an <b>aversion</b> to the strong odour of the camels rather than the cameleers themselves."
+		]
+	},
+	{
+		"pron": [
+			"əˈvərs",
+			"Bimukha"
+		],
+		"bn": "বিমুখ",
+		"en": "averse",
+		"bn_syns": [
+			"বিরোধী",
+			"বিরূপ",
+			"অনিচ্ছুক",
+			"বিমুখ",
+			"বিরাগী",
+			"বিরুপ",
+			"বিকারগ্র্রস্ত",
+			"দ্বেষী"
+		],
+		"en_syns": [
+			"opposed to",
+			"against",
+			"antipathetic to",
+			"hostile to",
+			"ill-disposed to",
+			"resistant to",
+			"disinclined to",
+			"reluctant to",
+			"unwilling to",
+			"loath to",
+			"anti"
+		],
+		"sents": [
+			"Definitely not a stock for the risk <b>averse</b> , Amvescap is one of the most attractive in the British market.",
+			"I've noticed I'm becoming more and more <b>averse</b> to what I call overt luxury."
+		]
+	},
+	{
+		"pron": [
+			"ˈav(ə)rij",
+			"Gaṛa"
+		],
+		"bn": "গড়",
+		"en": "average",
+		"bn_syns": [
+			"গড়-নির্ণয় করা",
+			"গড়ে হত্তয়া",
+			"গড় মূল্য",
+			"গড়পড়তা মান",
+			"গড়পড়তা",
+			"মাঝামাঝি",
+			"গড়ে",
+			"সাধারণ",
+			"চলতি",
+			"মাঝের",
+			"মাঝারি",
+			"মাঝামাঝি ধরনের",
+			"মধ্য",
+			"প্রচালিত",
+			"অভ্যস্ত",
+			"স্বাভাবিক",
+			"নিয়মানুগত",
+			"গড়",
+			"গড়-নির্ণয়",
+			"চলতি ধরন",
+			"মাঝামাঝি ধরন"
+		],
+		"en_syns": [
+			"average out",
+			"mean",
+			"median",
+			"modal",
+			"mode",
+			"norm",
+			"standard",
+			"rule",
+			"par"
+		],
+		"sents": [
+			"On <b>average</b> , Irish consumers spend €88 each time they use their credit card.",
+			"Mutant frequencies were calculated by dividing the median number of mutants by the <b>average</b> number of total cells."
+		]
+	},
+	{
+		"pron": [
+			"ˈavəˌn(y)o͞o",
+			"Bīthikā"
+		],
+		"bn": "বীথিকা",
+		"en": "avenue",
+		"bn_syns": [
+			"রাজপথ",
+			"বীথিকা",
+			"উপায়",
+			"পথ",
+			"প্রশস্ত রাজপথ",
+			"প্রধান প্রবেশপথ",
+			"তরূশ্রেণীর মধ্যবর্তী পথ",
+			"প্রধান তোরণ"
+		],
+		"en_syns": [
+			"road",
+			"street",
+			"drive",
+			"parade",
+			"boulevard",
+			"broadway",
+			"thoroughfare"
+		],
+		"sents": [
+			"From today they can ride on the Ben Hall steam engine, lovingly carved out of a tree felled from lime <b>avenue</b> , the approach to the stately home's main gates.",
+			"Admittedly, anger is an all too human response to frustration; but it's still no <b>avenue</b> to solid achievement."
+		]
+	},
+	{
+		"pron": [
+			"əˈvenj",
+			"Usula karā"
+		],
+		"bn": "উসুল করা",
+		"en": "avenge",
+		"bn_syns": [
+			"প্রতিশোধ নেওয়া",
+			"উসুল করা",
+			"প্রতিহিংসা গ্রহণ করা",
+			"প্রতিহিংসা করা",
+			"প্রতিফল দেত্তয়া",
+			"প্রতিকর্ম করা",
+			"প্রতিশোধ দেত্তয়া",
+			"প্রতিশোধ লত্তয়া",
+			"শোধ দেত্তয়া",
+			"শোধ লত্তয়া"
+		],
+		"en_syns": [
+			"requite",
+			"punish",
+			"repay",
+			"pay back",
+			"revenge",
+			"take revenge for",
+			"take vengeance for",
+			"exact retribution for",
+			"get even for",
+			"retaliate for"
+		],
+		"sents": [
+			"There would be something deeply wrong with the USA if it did not want to <b>avenge</b> itself for the worst terrorist attacks it has suffered in history.",
+			"his determination to <b>avenge</b> the murder of his brother"
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Ave."
+		],
+		"bn": "Ave.",
+		"en": "Ave.",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˌavəˈriSHəs",
+			"Dhanalōbhī"
+		],
+		"bn": "ধনলোভী",
+		"en": "avaricious",
+		"bn_syns": [
+			"কৃপণ",
+			"লোলুপ",
+			"গৃধ্নু",
+			"অতিশয় লোভী",
+			"লালস",
+			"ধনলোভী",
+			"অর্থলোভী",
+			"লোভী"
+		],
+		"en_syns": [
+			"greedy",
+			"acquisitive",
+			"covetous",
+			"rapacious",
+			"grasping",
+			"materialistic",
+			"mercenary",
+			"money-grubbing"
+		],
+		"sents": [
+			"It is time both parents and ambitious students thought of giving a snub to all those <b>avaricious</b> private medical and engineering colleges.",
+			"So too with the 10th Commandment's ban on covetousness: No American law forbids wrongful thoughts, but only <b>avaricious</b> actions."
+		]
+	},
+	{
+		"pron": [
+			"ˈavəris",
+			"Arthalipsā"
+		],
+		"bn": "অর্থলিপ্সা",
+		"en": "avarice",
+		"bn_syns": [
+			"লোলুপতা",
+			"অর্থলালসা",
+			"অর্থগৃধ্নুত",
+			"অর্থলোভ",
+			"অর্থলিপ্সা",
+			"কৃপণতা",
+			"স্পৃহা",
+			"লালসা",
+			"ধনলিপ্সা",
+			"ধনতৃষ্ণা",
+			"লোভ",
+			"ধনলোভ"
+		],
+		"en_syns": [
+			"greed",
+			"greediness",
+			"acquisitiveness",
+			"cupidity",
+			"covetousness",
+			"rapacity",
+			"materialism",
+			"mercenariness",
+			"pleonexia",
+			"money-grubbing",
+			"affluenza"
+		],
+		"sents": [
+			"It's the roar of selfishness, greed, vanity, <b>avarice</b> , addiction, lust and pointless stupidity.",
+			"One of the most persistent criticisms of capitalism is that it fosters <b>avarice</b> and greed."
+		]
+	},
+	{
+		"pron": [
+			"ˌaväN,ˌavänt ˈgärd",
+			"Sēnābāhinīra agrabartī dala"
+		],
+		"bn": "সেনাবাহিনীর অগ্রবর্তী দল",
+		"en": "avant-garde",
+		"bn_syns": [
+			"সেনাবাহিনীর অগ্রবর্তী দল",
+			"প্রগতির পুরোধা",
+			"সেনাদলের অগ্রবাহিনী"
+		],
+		"en_syns": [
+			"innovative",
+			"original",
+			"experimental",
+			"left-field",
+			"inventive",
+			"ahead of the times",
+			"cutting/leading/bleeding edge",
+			"new",
+			"modern",
+			"innovatory",
+			"advanced",
+			"forward-looking",
+			"state-of-the-art",
+			"trend-setting",
+			"pioneering",
+			"progressive",
+			"Bohemian",
+			"groundbreaking",
+			"trailblazing",
+			"revolutionary",
+			"unfamiliar",
+			"unorthodox",
+			"unconventional",
+			"offbeat",
+			"way-out",
+			"vanguard",
+			"new wave",
+			"van"
+		],
+		"sents": [
+			"It is set at the intersections of the literary <b>avant-garde</b> , visual and concrete poetry, text-based electronic installation art, net art and software art.",
+			"I will inaugurate this study with a broad introduction to <b>avant-garde</b> film practice."
+		]
+	},
+	{
+		"pron": [
+			"ˈavəˌlanCH",
+			"Dhbasa"
+		],
+		"bn": "ধ্বস",
+		"en": "avalanche",
+		"bn_syns": [
+			"বরফের ধ্বস",
+			"ধ্বস",
+			"হিমবাহ",
+			"হিমানী-সম্প্রপাত"
+		],
+		"en_syns": [
+			"roll down",
+			"snowslide"
+		],
+		"sents": [
+			"The core of the intelligence business is not gathering information but collating it: finding meaningful patterns in an unending <b>avalanche</b> of data.",
+			"Only 25 will be available this season, as even Ski Scotland doesn't believe there will be an <b>avalanche</b> of applications."
+		]
+	},
+	{
+		"pron": [
+			"əˈvāləbəl",
+			"Upalabdha"
+		],
+		"bn": "উপলব্ধ",
+		"en": "available",
+		"bn_syns": [
+			"ব্যবহারযোগ্য",
+			"প্রাপনীয়",
+			"প্রাপ্তব্য",
+			"আয়ত্তগত",
+			"আয়ত্তাধীন",
+			"লভ্য",
+			"সহজলভ্য",
+			"প্রাপ্তিসিাধ্য",
+			"প্রাপ্য",
+			"গ্রহণসাধ্য",
+			"সুলভ",
+			"সাহায্য লত্তয়া যায় এমন",
+			"সুবিধা লত্তয়া যায় এমন",
+			"লাভজনক"
+		],
+		"en_syns": [
+			"obtainable",
+			"accessible",
+			"at hand",
+			"at one's disposal",
+			"handy",
+			"convenient",
+			"on sale",
+			"procurable",
+			"untaken",
+			"unengaged",
+			"unused",
+			"up for grabs",
+			"on tap",
+			"gettable"
+		],
+		"sents": [
+			"is she <b>available</b>?",
+			"The board should encourage the government to increase the tax breaks <b>available</b> to donors."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Upasthiti"
+		],
+		"bn": "উপস্থিতি",
+		"en": "availability",
+		"bn_syns": [
+			"উপস্থিতি",
+			"উপযোগিতা",
+			"সুফলদানের ক্ষমতা",
+			"সুফলদানের শক্তি",
+			"প্রাপ্যতা",
+			"লভ্যতা"
+		],
+		"en_syns": [
+			"handiness",
+			"accessibility",
+			"availableness"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"əˈvāl",
+			"Upakāra"
+		],
+		"bn": "উপকার",
+		"en": "avail",
+		"bn_syns": [
+			"",
+			"কার্যকরী হওয়া",
+			"সহায়ক হওয়া",
+			"লাভজনক হওয়া",
+			"কাজে লাগা",
+			"সাহায্য করা",
+			"সহায়ক হত্তয়া",
+			"উপকার করা",
+			"লাভজনক হত্তয়া",
+			"কার্যে সাহায্য করা",
+			"কার্যে সহায়ক হত্তয়া",
+			"উপকার",
+			"সুবিধা",
+			"লাভ",
+			"উপকারিতা",
+			"কার্যকারিতা",
+			"মুনাফা",
+			"উপযোগিতা"
+		],
+		"en_syns": [
+			"use",
+			"take advantage of",
+			"utilize",
+			"employ",
+			"help",
+			"service"
+		],
+		"sents": [
+			"But it <b>avails</b> little if we reach agreement on this doctrine or that but are in fundamental disagreement about the sacramental nature of the Church in inseparable unity with Christ and the salvation he bestows.",
+			"my daughter did not <b>avail</b> herself of my advice"
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Ēbhi"
+		],
+		"bn": "এভি",
+		"en": "AV",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"-ˈzil(ə)rē,ôgˈzilyərē",
+			"Sahāẏaka"
+		],
+		"bn": "সহায়ক",
+		"en": "auxiliary",
+		"bn_syns": [
+			"সহায়ক ব্যক্তি",
+			"সহায়ক বিষয়",
+			"সহায়ক বস্তু",
+			"ভাড়াটে বিদেশী সৈনিক",
+			"সহায়ক",
+			"ভাড়াটে",
+			"ক্রিয়াপদের রূপগঠনে সহায়ক"
+		],
+		"en_syns": [
+			"assistant",
+			"helper",
+			"ancillary",
+			"additional",
+			"supplementary",
+			"supplemental",
+			"extra",
+			"spare",
+			"reserve",
+			"backup",
+			"emergency",
+			"fallback",
+			"other"
+		],
+		"sents": [
+			"Royal Navy veterans in South Africa rolled out the red carpet for a British <b>auxiliary</b> when it paid a visit to the port of Durban.",
+			"There were no lifejackets, raft or even an <b>auxiliary</b> boat for diver pick-up."
+		]
+	},
+	{
+		"pron": [
+			"ôˈtəmnəl",
+			"Śārada"
+		],
+		"bn": "শারদ",
+		"en": "autumnal",
+		"bn_syns": [
+			"শরতকালীন বা হেমন্তকালীন",
+			"শারদ",
+			"শরত্কালিন",
+			"শারদীয়",
+			"শরত্কালে পাকে এমন",
+			"শরত্কালে জন্মি এমন",
+			"শরত্কালে ফোটে এমন"
+		],
+		"en_syns": [],
+		"sents": [
+			"The first day of the Vancouver International Film Festival coincided with the first massive <b>autumnal</b> rain.",
+			"And finally we went to the Golden Temple which had some of the most stunning <b>autumnal</b> colours in the grounds, and it was almost luminous at dusk."
+		]
+	},
+	{
+		"pron": [
+			"ˈôtəm",
+			"Śaraṯ"
+		],
+		"bn": "শরৎ",
+		"en": "autumn",
+		"bn_syns": [
+			"শরত্কালিন",
+			"শরত ও হেমন্ত ঋতু",
+			"শরৎ",
+			"শরত্কাল",
+			"শরত্ঋতু",
+			"জলাত্যয়",
+			"জলদক্ষয়"
+		],
+		"en_syns": [
+			"fall"
+		],
+		"sents": [
+			"in early <b>autumn</b>",
+			"As part of this task he travelled to the United States on a fact finding tour in the <b>autumn</b> of 1898."
+		]
+	},
+	{
+		"pron": [
+			"ˈôtōˌwərkər",
+			"Autoworker"
+		],
+		"bn": "autoworker",
+		"en": "autoworker",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"And they are worried that in the world's biggest car market that may trigger a backlash, especially given how many American <b>autoworkers</b> have been laid off.",
+			"On November 1, 15,000 <b>autoworkers</b> walked off the job in the latest ‘warning strikes’ in a dispute over wage negotiations."
+		]
+	},
+	{
+		"pron": [
+			"ˈôˌtäpsē",
+			"Maẏanā"
+		],
+		"bn": "ময়না",
+		"en": "autopsy",
+		"bn_syns": [
+			"পুঙ্ক্ষানুপুঙ্ক্ষ বিশ্লেষণ",
+			"ময়নাতদন্ত",
+			"ময়না",
+			"ময়না তদন্ত",
+			"স্বচক্ষে পরিদর্শন",
+			"স্বচক্ষে পরীক্ষা",
+			"শবদেহ-পরীক্ষা"
+		],
+		"en_syns": [
+			"postmortem",
+			"PM",
+			"necropsy"
+		],
+		"sents": [
+			"When his body was <b>autopsied</b> he had several broken bones and possible internal injuries.",
+			"An <b>autopsy</b> into his death revealed the cyclist suffered a heart attack following severe swelling of the heart and brain."
+		]
+	},
+	{
+		"pron": [
+			"ôˈtänəmē",
+			"Sbāẏattaśāsana"
+		],
+		"bn": "স্বায়ত্তশাসন",
+		"en": "autonomy",
+		"bn_syns": [
+			"স্বশাসনের অধিকার",
+			"ব্যক্তিস্বাধীনতা",
+			"স্বায়ত্তশাসন",
+			"স্বশাসন",
+			"স্বায়ত্তশাসনের অধিকার",
+			"স্বায়ত্তশাসনের ক্ষমতা"
+		],
+		"en_syns": [
+			"self-government",
+			"self-rule",
+			"home rule",
+			"self-determination",
+			"independence",
+			"sovereignty",
+			"freedom"
+		],
+		"sents": [
+			"Loss of <b>autonomy</b> and control may cause the young child a great deal of anxiety.",
+			"This section began with a question about the relations among Kantian views of <b>autonomy</b> , rationality, and agential separateness."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Sbaẏaṅkriẏa"
+		],
+		"bn": "স্বয়ংক্রিয়",
+		"en": "autonomously",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ôˈtänəməs",
+			"Sbaśāsita"
+		],
+		"bn": "স্বশাসিত",
+		"en": "autonomous",
+		"bn_syns": [
+			"স্বাধীন",
+			"স্বশাসিত",
+			"স্বশাসনিক"
+		],
+		"en_syns": [
+			"self-governing",
+			"self-ruling",
+			"self-determining",
+			"independent",
+			"sovereign",
+			"free",
+			"unmonitored"
+		],
+		"sents": [
+			"Farmers held protests last week in 11 of the country's <b>autonomous</b> regions, calling for compensation.",
+			"This crisis has proved that high income is not synonymous with a civic society that is independent and <b>autonomous</b> ."
+		]
+	},
+	{
+		"pron": [
+			"ˌôtəˈmōtiv",
+			"Sbaẏan̄cālita"
+		],
+		"bn": "স্বয়ংচালিত",
+		"en": "automotive",
+		"bn_syns": [
+			"স্বয়ংগম",
+			"মোটরগাড়িসংক্রান্ত",
+			"স্বয়ংচালিত"
+		],
+		"en_syns": [
+			"self-propelling",
+			"self-propelled"
+		],
+		"sents": [
+			"Pressure to reduce <b>automotive</b> electronics component prices has never been so bad.",
+			"As we know well, most of the cost of any <b>automotive</b> system is determined in the early design stages."
+		]
+	},
+	{
+		"pron": [
+			"ˌôtəmōˈbēl",
+			"Mōṭaragāṛi"
+		],
+		"bn": "মোটরগাড়ি",
+		"en": "automobile",
+		"bn_syns": [
+			"মোটরগাড়িযুক্ত",
+			"স্বয়ংচল",
+			"মোটরগাড়ি"
+		],
+		"en_syns": [
+			"car",
+			"auto",
+			"wheels",
+			"jalopy",
+			"lemon",
+			"clunker",
+			"hooptie",
+			"Tin Lizzie",
+			"rustbucket",
+			"motorcar"
+		],
+		"sents": [
+			"Fuel cells are then stacked to produce enough electricity to power an <b>automobile</b> .",
+			"The development of fuel-cell powered <b>automobiles</b> would be an environmental triumph, right?"
+		]
+	},
+	{
+		"pron": [
+			"ˌôtəˈmāSHən",
+			"Sbaẏaṅkriẏatā"
+		],
+		"bn": "স্বয়ংক্রিয়তা",
+		"en": "automation",
+		"bn_syns": [
+			"পণ্য উত্পাদনের বিভিন্ন পর্যায়ের স্বয়ংক্রিয় নিয়ন্ত্রণব্যবস্থা",
+			"স্বয়ংক্রিয়তা",
+			"স্বয়ংচলন"
+		],
+		"en_syns": [
+			"mechanization"
+		],
+		"sents": [
+			"Makers of hand-held computers and office <b>automation</b> equipment are buying the chips, he said.",
+			"In contrast, <b>automation</b> allows the outputs of one stage to be transformed into the inputs for the next, without loss."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Sbaẏaṅkriẏabhābē"
+		],
+		"bn": "স্বয়ংক্রিয়ভাবে",
+		"en": "automatically",
+		"bn_syns": [],
+		"en_syns": [
+			"mechanically"
+		],
+		"sents": [
+			"the lights come on <b>automatically</b>",
+			"he does that <b>automatically</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˌôtəˈmatik",
+			"Sbaẏaṅkriẏa"
+		],
+		"bn": "স্বয়ংক্রিয়",
+		"en": "automatic",
+		"bn_syns": [
+			"স্বয়ংক্রিয়",
+			"স্বয়ংচল",
+			"স্বতঃস্ফূর্ত",
+			"অটোমেটিক"
+		],
+		"en_syns": [
+			"automatic rifle",
+			"machine rifle",
+			"mechanized",
+			"mechanical",
+			"automated",
+			"computerized",
+			"electronic",
+			"robotic",
+			"self-activating"
+		],
+		"sents": [
+			"A mechanical arm turns pages every couple of seconds while an <b>automatic</b> machine translator wired to this device bangs out English text.",
+			"It is conducted so as to consume gas only when water is drawn, and by an <b>automatic</b> arrangement it lights its own gas as soon as the hot water is turned on and extinguishes as soon as the water is turned off."
+		]
+	},
+	{
+		"pron": [
+			"ˈôtəˌmāt",
+			"Sbaẏaṅkriẏa pad'dhati praẏōga karā"
+		],
+		"bn": "স্বয়ংক্রিয় পদ্ধতি প্রয়োগ করা",
+		"en": "automate",
+		"bn_syns": [
+			"স্বয়ংক্রিয় পদ্ধতি প্রয়োগ করা"
+		],
+		"en_syns": [
+			"automatize"
+		],
+		"sents": [
+			"In some situations, <b>automating</b> a process can change the role of human involvement and eliminate the risk of mistakes.",
+			"An agency's online reservation software <b>automates</b> the tedious process of creating receipts, invoices, confirmations, vouchers and more."
+		]
+	},
+	{
+		"pron": [
+			"ˈôtəˌgraf",
+			"Sbahastē lēkhā"
+		],
+		"bn": "স্বহস্তে লেখা",
+		"en": "autograph",
+		"bn_syns": [
+			"কোনো ব্যক্তির নিজ হস্তাক্ষর",
+			"স্বহস্তে লেখা",
+			"অবিকল প্রতিরূপ গ্রহণ করা",
+			"স্বহস্তাক্ষর",
+			"স্বহস্তলেখ",
+			"স্বলেখন",
+			"মুল চিত্রাদির অবিকল প্রতিরূপ"
+		],
+		"en_syns": [
+			"sign",
+			"sign one's name to",
+			"signature",
+			"John Hancock"
+		],
+		"sents": [
+			"Most of those who write to the stars, ask for an <b>autograph</b> , a photograph, or an autographed photograph, so it is quite easy to fulfil the requests.",
+			"he gave me his <b>autograph</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˌôtəˈkratik",
+			"Sbairācārī"
+		],
+		"bn": "স্বৈরাচারী",
+		"en": "autocratic",
+		"bn_syns": [
+			"স্বৈর",
+			"",
+			"স্বৈরাচারী",
+			"স্বৈরতন্ত্রী",
+			"স্বেচ্ছাচারী"
+		],
+		"en_syns": [
+			"despotic",
+			"tyrannical",
+			"dictatorial",
+			"totalitarian",
+			"autarchic",
+			"undemocratic",
+			"one-party",
+			"monocratic",
+			"domineering",
+			"draconian",
+			"overbearing",
+			"high-handed",
+			"peremptory",
+			"imperious",
+			"harsh",
+			"rigid",
+			"inflexible",
+			"illiberal",
+			"oppressive",
+			"iron-fisted"
+		],
+		"sents": [
+			"He was also aloof, <b>autocratic</b> and lacking in managerial skills.",
+			"But his <b>autocratic</b> style has landed him in trouble with shareholders."
+		]
+	},
+	{
+		"pron": [
+			"ˈôtəˌkrat",
+			"Ēkanāẏaka"
+		],
+		"bn": "একনায়ক",
+		"en": "autocrat",
+		"bn_syns": [
+			"স্বৈরাচারী ব্যক্তি",
+			"একনায়ক",
+			"একতন্ত্রী শাসক",
+			"স্বৈরাচারী শাসক"
+		],
+		"en_syns": [
+			"absolute ruler",
+			"dictator",
+			"despot",
+			"tyrant"
+		],
+		"sents": [
+			"And he was, if you like, an absolute <b>autocrat</b> , a ruler.",
+			"Somewhere even the dictators and <b>autocrats</b> who send ambassadors to dialogue with ambassadors from free states know that to be true."
+		]
+	},
+	{
+		"pron": [
+			"ôˈtäkrəsē",
+			"Sbairatantra"
+		],
+		"bn": "স্বৈরতন্ত্র",
+		"en": "autocracy",
+		"bn_syns": [
+			"একনায়কতন্ত্র",
+			"স্বৈরশাসন",
+			"স্বৈরতন্ত্র",
+			"একতন্ত্র",
+			"স্বেচ্ছাচারী কর্তৃত্ব",
+			"খেয়ালখুশি-অনুযায়ী কর্তৃত্ব"
+		],
+		"en_syns": [
+			"absolutism",
+			"totalitarianism",
+			"dictatorship",
+			"despotism",
+			"tyranny",
+			"monocracy",
+			"autarchy"
+		],
+		"sents": [
+			"a boss who shifts between <b>autocracy</b> and consultation",
+			"It makes evident the fine line between democracy and <b>autocracy</b> ."
+		]
+	},
+	{
+		"pron": [
+			"ˌôtəbīˈägrəfē",
+			"Ātmajībanī"
+		],
+		"bn": "আত্মজীবনী",
+		"en": "autobiography",
+		"bn_syns": [
+			"আত্মজীবনী",
+			"আত্মচরিত"
+		],
+		"en_syns": [
+			"memoirs",
+			"life story",
+			"personal history"
+		],
+		"sents": [
+			"In a surprisingly candid <b>autobiography</b> , he reveals how his upbringing shaped his writing.",
+			"The blues sounded like <b>autobiography</b> , like ordinary people telling the story of their lives."
+		]
+	},
+	{
+		"pron": [
+			"ˌôtəbīəˈgrafikəl",
+			"Ātmajībanīsaṅkrānta"
+		],
+		"bn": "আত্মজীবনীসংক্রান্ত",
+		"en": "autobiographical",
+		"bn_syns": [
+			"আত্মজীবনীসংক্রান্ত",
+			"আত্মজীবনীমূলক",
+			"আত্মজীবনীসুলভ"
+		],
+		"en_syns": [
+			"autobiographic"
+		],
+		"sents": [
+			"The most famous published <b>autobiographical</b> accounts of the intercontinental trade were predominately male.",
+			"A few years ago I was supervising a Masters student who was writing an <b>autobiographical</b> novel."
+		]
+	},
+	{
+		"pron": [
+			"ˈôtō",
+			"Sbaẏaṁ"
+		],
+		"bn": "স্বয়ং",
+		"en": "auto",
+		"bn_syns": [
+			"মোটরগাড়ি",
+			"স্বয়ং-"
+		],
+		"en_syns": [
+			"machine",
+			"car",
+			"motorcar",
+			"automobile"
+		],
+		"sents": [
+			"Another reason to take a course of this nature is to reduce <b>auto</b> insurance rates.",
+			"Plan your needs with financial planner and then apply for the <b>auto</b> loan you need."
+		]
+	},
+	{
+		"pron": [
+			"ôˈtistik",
+			"Aṭisṭika"
+		],
+		"bn": "অটিস্টিক",
+		"en": "autistic",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"Asperger's syndrome is a form of autism used to describe people usually at the higher functioning end of the <b>autistic</b> spectrum.",
+			"In Pennsylvania, the search for a missing <b>autistic</b> boy continues."
+		]
+	},
+	{
+		"pron": [
+			"ˈôTHərˌSHip",
+			"Kr̥ti"
+		],
+		"bn": "কৃতি",
+		"en": "authorship",
+		"bn_syns": [
+			"লেখকের বৃত্তি বা পেশা",
+			"কোনো গ্রন্থের প্রকৃত বা আদি রচয়িতা",
+			"কৃতি",
+			"লেখকের কাজ"
+		],
+		"en_syns": [
+			"paternity"
+		],
+		"sents": [
+			"Such an emphasis on <b>authorship</b> is, by and large, a way to train young designers as thinkers - and not merely as service providers.",
+			"joint <b>authorship</b>"
+		]
+	},
+	{
+		"pron": [
+			"ˈôTHəˌrīz",
+			"Kṣamatāpradāna karā"
+		],
+		"bn": "ক্ষমতাপ্রদান করা",
+		"en": "authorize",
+		"bn_syns": [
+			"অনুমোদন করা",
+			"ক্ষমতাপ্রদান করা",
+			"ক্ষমতাপ্রদানপুর্বক প্রেরণ করা",
+			"অধিকার প্রদান করা",
+			"অনুমতি প্রদান করা",
+			"অনুমতি দেত্তয়া",
+			"ক্ষমতাপ্রদানপুর্বক ভার দেত্তয়া",
+			"প্রাধিকার দেত্তয়া",
+			"নির্ভরযোগ্য বলিয়া ঘোষণা করা",
+			"প্রামাণ্য বলিয়া ঘোষণা করা"
+		],
+		"en_syns": [
+			"sanction",
+			"permit",
+			"allow",
+			"approve",
+			"consent to",
+			"assent to",
+			"ratify",
+			"endorse",
+			"validate",
+			"give the green light to",
+			"give the go-ahead to",
+			"OK",
+			"give the thumbs up to"
+		],
+		"sents": [
+			"The person in possession, however, may <b>authorise</b> others to give permission to enter.",
+			"How did you reach the decision to oppose <b>authorizing</b> the use of force?"
+		]
+	},
+	{
+		"pron": [
+			"ˌôTHərəˈzāSHən",
+			"Anumōdana"
+		],
+		"bn": "অনুমোদন",
+		"en": "authorization",
+		"bn_syns": [
+			"অনুমতি",
+			"আজ্ঞা",
+			"সম্পাদন",
+			"অনুমোদন",
+			"সমাধান",
+			"মীমাংসা",
+			"ক্ষমতাপ্রদান",
+			"কর্তৃত্বদান"
+		],
+		"en_syns": [
+			"permission",
+			"consent",
+			"leave",
+			"sanction",
+			"license",
+			"dispensation",
+			"clearance",
+			"assent",
+			"agreement",
+			"approval",
+			"endorsement",
+			"authority",
+			"right",
+			"power",
+			"mandate",
+			"the go-ahead",
+			"the nod",
+			"the thumbs up",
+			"the OK",
+			"the green light"
+		],
+		"sents": [
+			"If he was against the war, then why did he vote for its <b>authorization</b> ?",
+			"For example, a pathologist will not need to obtain <b>authorization</b> if the research is limited to autopsy samples."
+		]
+	},
+	{
+		"pron": [
+			"ôˈTHär-,əˈTHôritē",
+			"Kartr̥tba"
+		],
+		"bn": "কর্তৃত্ব",
+		"en": "authority",
+		"bn_syns": [
+			"কর্তৃত্ব",
+			"ক্ষমতা",
+			"অধিকার",
+			"কর্তা",
+			"প্রভুতা",
+			"প্রভুত্ব",
+			"বশ",
+			"এক্তিয়ার",
+			"প্রভাব",
+			"শাসন",
+			"ঠাকুরালী",
+			"প্রাধিকার",
+			"মর্যাদা",
+			"অনুমতি",
+			"প্রামাণ্য ব্যক্তি",
+			"পণ্ডিত",
+			"বিশেষজ্ঞ",
+			"নির্ভরযোগ্য জ্ঞান",
+			"নির্ভরযোগ্য পাণ্ডিত্য",
+			"কর্তৃপক্ষ",
+			"প্রভুত্বের আইনসম্মত অধিকার",
+			"কর্তাব্যক্তি"
+		],
+		"en_syns": [
+			"power",
+			"jurisdiction",
+			"command",
+			"control",
+			"charge",
+			"dominance",
+			"rule",
+			"sovereignty",
+			"supremacy",
+			"influence",
+			"clout"
+		],
+		"sents": [
+			"Right now, there is no legal <b>authority</b> to hold such an auction.",
+			"I am still learning about this, so I am not an <b>authority</b> on feminist intellectualism."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Authoritatively"
+		],
+		"bn": "authoritatively",
+		"en": "authoritatively",
+		"bn_syns": [],
+		"en_syns": [
+			"magisterially"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"əˈTHär-,əˈTHôriˌtātiv",
+			"Prāmāṇika"
+		],
+		"bn": "প্রামাণিক",
+		"en": "authoritative",
+		"bn_syns": [
+			"রাশভারি",
+			"কর্তৃত্বসম্পন্ন",
+			"কর্তৃত্বব্যঞ্জক",
+			"",
+			"কর্তৃত্বপ্রিয়",
+			"ভারিক্কি",
+			"প্রামাণিক",
+			"পাণ্ডিত্যপূর্ণ",
+			"কর্তৃত্বপূর্ণ",
+			"কর্তৃত্বব্যঁজক",
+			"প্রভুত্বব্যঁজক",
+			"অধিকারগত",
+			"নির্ভরযোগ্য"
+		],
+		"en_syns": [
+			"reliable",
+			"dependable",
+			"trustworthy",
+			"sound",
+			"authentic",
+			"valid",
+			"attested",
+			"verifiable",
+			"accurate"
+		],
+		"sents": [
+			"It stands without peer in the public arena as the most <b>authoritative</b> record of one of the nation's most trying experiences.",
+			"Yet most students who enrolled in the new course saw the Internet as not only <b>authoritative</b> and reliable, but also comprehensive."
+		]
+	},
+	{
+		"pron": [
+			"ôˌTHär-,əˌTHôriˈte(ə)rēən",
+			"Byakti-sbādhīnatā apēkṣā kartr̥pakṣēra baśyatāsbīkārēra pakṣapātī"
+		],
+		"bn": "ব্যক্তি-স্বাধীনতা অপেক্ষা কর্তৃপক্ষের বশ্যতাস্বীকারের পক্ষপাতী",
+		"en": "authoritarian",
+		"bn_syns": [
+			"স্বৈরাচারী",
+			"কর্তৃত্বপূর্ণ",
+			"স্বেচ্ছাচারী",
+			"প্রভুত্বব্যঞ্জক",
+			"স্বৈর",
+			"কর্তৃত্বপ্রিয়"
+		],
+		"en_syns": [
+			"autocrat",
+			"despot",
+			"dictator",
+			"tyrant",
+			"disciplinarian",
+			"martinet",
+			"autocratic",
+			"dictatorial",
+			"despotic",
+			"tyrannical",
+			"draconian",
+			"oppressive",
+			"repressive",
+			"illiberal",
+			"undemocratic",
+			"domineering",
+			"overbearing",
+			"high-handed",
+			"peremptory",
+			"imperious",
+			"strict",
+			"rigid",
+			"inflexible",
+			"bossy",
+			"iron-fisted"
+		],
+		"sents": [
+			"On World Freedom Day, we also recognize that more than two billion people still live under <b>authoritarian</b> regimes.",
+			"Such a concern adds a new paternalistic layer to the increasingly <b>authoritarian</b> role of local government."
+		]
+	},
+	{
+		"pron": [
+			"ˈôTHər",
+			"Lēkhaka"
+		],
+		"bn": "লেখক",
+		"en": "author",
+		"bn_syns": [
+			"প্রণেতা",
+			"",
+			"রচয়িতা",
+			"সৃষ্টিকর্তা",
+			"লেখক",
+			"গ্রন্থকার",
+			"গ্রন্থকর্তা",
+			"গ্রথনকার",
+			"রচক",
+			"রচনাকারী",
+			"কর্মের কর্তা",
+			"কর্মের সম্পাদক",
+			"স্রষ্টা",
+			"উদ্ভাবক"
+		],
+		"en_syns": [
+			"writer",
+			"novelist",
+			"playwright",
+			"poet",
+			"essayist",
+			"biographer",
+			"columnist",
+			"reporter",
+			"wordsmith",
+			"bard",
+			"scribe",
+			"scribbler"
+		],
+		"sents": [
+			"It was not until after her death, in 1818, that a biographical note was added to her novels and her <b>authorship</b> was established.",
+			"he is the <b>author</b> of several books on the subject"
+		]
+	},
+	{
+		"pron": [
+			"ˌôTHenˈtisitē",
+			"Satyatā"
+		],
+		"bn": "সত্যতা",
+		"en": "authenticity",
+		"bn_syns": [
+			"বিশ্বাসযোগ্যতা",
+			"অকৃত্রিমতা",
+			"প্রামাণিকতা",
+			"নির্ভেজালত্ব",
+			"সত্যতা",
+			"প্রামাণ্য"
+		],
+		"en_syns": [
+			"genuineness",
+			"bona fides",
+			"legitimacy",
+			"legality",
+			"validity"
+		],
+		"sents": [
+			"the paper should have established the <b>authenticity</b> of the documents before publishing them",
+			"the paper should have established the <b>authenticity</b> of the documents before publishing them"
+		]
+	},
+	{
+		"pron": [
+			"ôˈTHentiˌkāt",
+			"Pramāṇīkaraṇa"
+		],
+		"bn": "প্রমাণীকরণ",
+		"en": "authenticate",
+		"bn_syns": [
+			"বিশুদ্ধতা প্রমাণ করা",
+			"সত্য বা খাঁটি বলে প্রমাণ করা"
+		],
+		"en_syns": [
+			"verify",
+			"validate",
+			"prove",
+			"substantiate",
+			"corroborate",
+			"confirm",
+			"support",
+			"back up",
+			"attest to",
+			"give credence to"
+		],
+		"sents": [
+			"The lawyer says his client has started compiling documents that he says will <b>authenticate</b> her life story as she tells it in the book.",
+			"The Deluxe edition is ideal for home or small-business users in a workgroup environment or for people who don't need to <b>authenticate</b> to a Windows server."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Prakr̥ta"
+		],
+		"bn": "প্রকৃত",
+		"en": "authentically",
+		"bn_syns": [],
+		"en_syns": [
+			"genuinely"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ôˈTHentik",
+			"Khām̐ṭi"
+		],
+		"bn": "খাঁটি",
+		"en": "authentic",
+		"bn_syns": [
+			"নির্ভরযোগ্য",
+			"অকৃত্রিম",
+			"প্রমাণসিদ্ধ",
+			"নির্ভেজাল",
+			"খাঁটি",
+			"প্রামাণিক",
+			"বিশুদ্ধ",
+			"প্রকৃত",
+			"আসল",
+			"সত্য",
+			"বিশ্বাসযোগ্য"
+		],
+		"en_syns": [
+			"genuine",
+			"real",
+			"bona fide",
+			"true",
+			"veritable",
+			"legitimate",
+			"lawful",
+			"legal",
+			"valid",
+			"the real McCoy",
+			"the real thing",
+			"kosher"
+		],
+		"sents": [
+			"It is this deeper problem which lies at the heart of the breakdown of marriage and family, or of any <b>authentic</b> human, loving relationship.",
+			"And the other important precept was that if I wanted the books to be <b>authentic</b> and accurate, then they needed to be refereed by the person doing the most up-to-date field research."
+		]
+	},
+	{
+		"pron": [
+			"ôˈstrālyən",
+			"Asṭrēliẏāna"
+		],
+		"bn": "অস্ট্রেলিয়ান",
+		"en": "Australian",
+		"bn_syns": [
+			"অস্ট্রেলিয়া-মহাদেশীয়",
+			"অস্ট্রেলিয়াবাসী"
+		],
+		"en_syns": [],
+		"sents": [
+			"The group is in town as part of its <b>Australian</b> tour.",
+			"There are many poems rooted solidly in <b>Australian</b> landscapes, both literal and emotional."
+		]
+	},
+	{
+		"pron": [
+			"ôˈstrālyə,əˈstrāl-",
+			"Asṭrēliẏā"
+		],
+		"bn": "অস্ট্রেলিয়া",
+		"en": "Australia",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"he's from <b>Australia</b>",
+			"they're going to <b>Australia</b>"
+		]
+	},
+	{
+		"pron": [
+			"ôˈsteritē",
+			"Kaṭhōratā"
+		],
+		"bn": "কঠোরতা",
+		"en": "austerity",
+		"bn_syns": [
+			"কঠোরতা",
+			"সকল বিষয়ে কঠোর সংযম",
+			"মিতব্যয়িতা",
+			"কঠোর নীতিনিষ্ঠা",
+			"অনাড়ম্বরতা"
+		],
+		"en_syns": [
+			"severity",
+			"strictness",
+			"seriousness",
+			"solemnity",
+			"gravity",
+			"frugality",
+			"thrift",
+			"economy",
+			"asceticism",
+			"self-discipline",
+			"abstinence",
+			"sobriety",
+			"restraint",
+			"chastity",
+			"starkness"
+		],
+		"sents": [
+			"If the European Commission and EcoFin can actually manage to force Germany and France into <b>austerity</b> programs with the threat of fiscal sanctions, then the supranational argument wins the day.",
+			"Earlier this year, China launched <b>austerity</b> measures to reduce the amount of construction activity in leading cities to prevent the economy from overheating."
+		]
+	},
+	{
+		"pron": [
+			"ôˈsti(ə)r",
+			"Ugra"
+		],
+		"bn": "উগ্র",
+		"en": "austere",
+		"bn_syns": [
+			"অলংকারহীন",
+			"কঠোরভাবাপন্ন",
+			"নিরাভরণ",
+			"সরল",
+			"নিরলংকার",
+			"কঠিন",
+			"উগ্র",
+			"কৃচ্ছ্র",
+			"অত্যুগ্র",
+			"একান্ত অনাড়ম্বর",
+			"কঠোর",
+			"কঠোর আত্মসংযমী"
+		],
+		"en_syns": [
+			"severe",
+			"stern",
+			"strict",
+			"harsh",
+			"steely",
+			"flinty",
+			"dour",
+			"grim",
+			"cold",
+			"frosty",
+			"unemotional",
+			"unfriendly",
+			"formal",
+			"stiff",
+			"reserved",
+			"aloof",
+			"forbidding",
+			"grave",
+			"solemn",
+			"serious",
+			"unsmiling",
+			"unsympathetic",
+			"unforgiving",
+			"hard",
+			"unyielding",
+			"unbending",
+			"inflexible",
+			"hard-boiled"
+		],
+		"sents": [
+			"Reflects Meyers: ‘Orwell's <b>austere</b> , dour, spartan and ascetic character as well as his tall, gangly figure was more Scottish than English.’",
+			"The budget - the most <b>austere</b> of Bush's presidency - would eliminate or vastly scale back 150 government programs."
+		]
+	},
+	{
+		"pron": [
+			"ôˈspiSHəs",
+			"Suprasanna"
+		],
+		"bn": "সুপ্রসন্ন",
+		"en": "auspicious",
+		"bn_syns": [
+			"শুভ",
+			"",
+			"সুপ্রসন্ন",
+			"মঙ্গলজনক",
+			"অনুকূল",
+			"মঙ্গলকর",
+			"শুভলক্ষণযুক্ত",
+			"পয়মন্ত়",
+			"শিব",
+			"শ্রেয়"
+		],
+		"en_syns": [
+			"favorable",
+			"propitious",
+			"promising",
+			"rosy",
+			"good",
+			"encouraging",
+			"opportune",
+			"timely",
+			"lucky",
+			"fortunate",
+			"providential",
+			"felicitous",
+			"advantageous"
+		],
+		"sents": [
+			"\"The 10th, the 12th, and the 18th are appropriately <b>auspicious</b> dates on the Chinese calendar, \" he said.",
+			"The story said that fire was the <b>auspicious</b> element responsible for the success of the Han Dynasty."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Pr̥ṣṭhapōṣakatā"
+		],
+		"bn": "পৃষ্ঠপোষকতা",
+		"en": "auspices",
+		"bn_syns": [
+			"পৃষ্ঠপোষকতা"
+		],
+		"en_syns": [
+			"patronage",
+			"aegis",
+			"umbrella",
+			"protection",
+			"keeping",
+			"care",
+			"support",
+			"backing",
+			"guardianship",
+			"trusteeship",
+			"guidance",
+			"supervision"
+		],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˈôrəl",
+			"Karṇa-sambanadhīẏa"
+		],
+		"bn": "কর্ণ-সম্বনধীয়",
+		"en": "aural",
+		"bn_syns": [
+			"কর্ণ-সম্বনধীয়",
+			"দেহজ্যোতি:-সম্বন্ধীয়",
+			"শ্রবণেন্দ্রিয় সংক্রান্ত"
+		],
+		"en_syns": [],
+		"sents": [
+			"Cases of deafness were reported in medical journals, as well as <b>aural</b> cavity damage from the insertion of mini headphones.",
+			"The results reveal that children who were good at comprehending materials presented via TV were also good at comprehending materials presented <b>aurally</b> ."
+		]
+	},
+	{
+		"pron": [
+			"ˈôrə",
+			"Dēhajyōti"
+		],
+		"bn": "দেহজ্যোতি",
+		"en": "aura",
+		"bn_syns": [
+			"সামান্য বাতাস",
+			"দেহজ্যোতি",
+			"দেহসৌরভ",
+			"অলৌকিক আভা",
+			"বাতাবরণ",
+			"আবেষ্টন",
+			"পরিমণ্ডল",
+			"পরিবেশ",
+			"সুরভিতরঙ্গ",
+			"তন্মাত্র"
+		],
+		"en_syns": [
+			"atmosphere",
+			"ambience",
+			"air",
+			"quality",
+			"character",
+			"mood",
+			"feeling",
+			"feel",
+			"flavor",
+			"tone",
+			"tenor",
+			"emanation",
+			"vibe"
+		],
+		"sents": [
+			"Fans of the artist say his unique color perception translates into images that shimmer with texture, richness of color and an <b>aura</b> of mystique.",
+			"Much of Mumbai is polluted, overcrowded and frenetic, yet the city has an <b>aura</b> of magic and irrepressible hope."
+		]
+	},
+	{
+		"pron": [
+			"ant,änt",
+			"Māsī"
+		],
+		"bn": "মাসী",
+		"en": "aunt",
+		"bn_syns": [
+			"মামিমা",
+			"পিসিমা",
+			"মাসিমা",
+			"জেঠিমা",
+			"খুড়িমা",
+			"পিসি",
+			"মাসী",
+			"মাসীমা",
+			"কাকী",
+			"মামি",
+			"চাচী",
+			"খুড়ি",
+			"মাসি",
+			"জেঠি"
+		],
+		"en_syns": [
+			"aunty",
+			"auntie"
+		],
+		"sents": [
+			"I'm from a small, low-key family with no <b>aunts</b> , uncles or cousins.",
+			"Zoe recalls going to her grandparents for Christmas tea with all the <b>aunts</b> , uncles and cousins."
+		]
+	},
+	{
+		"pron": [
+			"ˈôgəst",
+			"Agāsṭa"
+		],
+		"bn": "অগাস্ট",
+		"en": "August",
+		"bn_syns": [
+			"অগাস্ট",
+			"ইংরেজি সনের অষ্টম মাস"
+		],
+		"en_syns": [
+			"distinguished",
+			"respected",
+			"eminent",
+			"venerable",
+			"hallowed",
+			"illustrious",
+			"prestigious",
+			"renowned",
+			"celebrated",
+			"honored",
+			"acclaimed",
+			"esteemed",
+			"exalted",
+			"great",
+			"important",
+			"lofty",
+			"noble",
+			"imposing",
+			"impressive",
+			"awe-inspiring",
+			"stately",
+			"grand",
+			"dignified"
+		],
+		"sents": [
+			"25 <b>August</b>",
+			"I spent the entire month of <b>August</b> in Wisconsin, not too far from the local airport."
+		]
+	},
+	{
+		"pron": [
+			"",
+			"Br̥d'dhi"
+		],
+		"bn": "বৃদ্ধি",
+		"en": "augment",
+		"bn_syns": [
+			"বর্ধিত করা বা হওয়া",
+			"বাড়া",
+			"বাড়ান",
+			"বৃদ্ধি করা",
+			"উদ্দীপিত করা",
+			"বৃদ্ধি পাত্তয়া",
+			"উদ্দীপ্ত করা",
+			"বৃদ্ধি"
+		],
+		"en_syns": [
+			"increase",
+			"add to",
+			"supplement",
+			"build up",
+			"enlarge",
+			"expand",
+			"extend",
+			"raise",
+			"multiply",
+			"swell",
+			"grow",
+			"magnify",
+			"amplify",
+			"escalate",
+			"improve",
+			"boost",
+			"up",
+			"jack up",
+			"hike up",
+			"bump up"
+		],
+		"sents": [
+			"Biologists are <b>augmenting</b> the wild population with 18-month-old animals bred on one of the islands.",
+			"It is an examination of the impact of technology on <b>augmenting</b> the intelligence of a species."
+		]
+	},
+	{
+		"pron": [
+			null,
+			"Ā"
+		],
+		"bn": "আ",
+		"en": "Aug.",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": []
+	},
+	{
+		"pron": [
+			"ˌôdiˈtôrēəm",
+			"Śrōtr̥maṇḍalīra jan'ya nirdiṣṭa sthāna"
+		],
+		"bn": "শ্রোতৃমণ্ডলীর জন্য নির্দিষ্ট স্থান",
+		"en": "auditorium",
+		"bn_syns": [
+			"প্রেক্ষাগৃহ"
+		],
+		"en_syns": [
+			"theater",
+			"hall",
+			"concert hall",
+			"playhouse",
+			"assembly room",
+			"chamber",
+			"room",
+			"arena",
+			"stadium",
+			"gymnasium"
+		],
+		"sents": [
+			"The emphasis on the pastoral in Gregory Thompson's new production of As You Like It at the Swan is evident from the moment the audience enters the <b>auditorium</b> .",
+			"The sold-out event took place in the Old Cabell Hall <b>auditorium</b> , which seats about 850 people."
+		]
+	},
+	{
+		"pron": [
+			"ˈôditər",
+			"Nirīkṣaka"
+		],
+		"bn": "নিরীক্ষক",
+		"en": "auditor",
+		"bn_syns": [
+			"হিসাব-পরীক্ষক",
+			"নিরীক্ষক",
+			"হিসাবপরীক্ষক"
+		],
+		"en_syns": [
+			"accountant",
+			"bookkeeper",
+			"inspector"
+		],
+		"sents": [
+			"The <b>auditors</b> have also informed the council they will be arriving to go through the accounts of the charter celebrations.",
+			"Investigators are reported to have documents in which company managers and external <b>auditors</b> allegedly drew the attention of the management board to the property valuations."
+		]
+	},
+	{
+		"pron": [
+			"ôˈdiSHən",
+			"Śruti"
+		],
+		"bn": "শ্রুতি",
+		"en": "audition",
+		"bn_syns": [
+			"গুণপরীক্ষা",
+			"শ্রুতি",
+			"শ্রবণ",
+			"শ্রবণেন্দ্রি়",
+			"সঙ্গীতবিদকে পরীক্ষার জন্য মহলা",
+			"অভিনেতাকে পরীক্ষার জন্য মহলা"
+		],
+		"en_syns": [
+			"try out",
+			"tryout",
+			"trial"
+		],
+		"sents": [
+			"He came to the English department to <b>audition</b> the girls for the lead role.",
+			"Too often, dancers show up at <b>auditions</b> unable to deliver anything but the classroom technique they acquired at their home studios."
+		]
+	},
+	{
+		"pron": [
+			"ˈôdit",
+			"Nirīkṣā"
+		],
+		"bn": "নিরীক্ষা",
+		"en": "audit",
+		"bn_syns": [
+			"হিসাবপরীক্ষা করা",
+			"আয়ব্যয়ের বিবরণ",
+			"নিরীক্ষা",
+			"হিসাবপরীক্ষা",
+			"হিসাবনিকাশ",
+			"পুঙ্খানুপুঙ্খ পরীক্ষা"
+		],
+		"en_syns": [
+			"inspect",
+			"examine",
+			"survey",
+			"go through",
+			"scrutinize",
+			"check",
+			"probe",
+			"vet",
+			"investigate",
+			"inquire into",
+			"assess",
+			"verify",
+			"appraise",
+			"evaluate",
+			"review",
+			"analyze",
+			"study",
+			"give something a/the once-over",
+			"give something a going-over",
+			"inspection",
+			"examination",
+			"verification",
+			"scrutiny",
+			"investigation",
+			"assessment",
+			"appraisal",
+			"evaluation",
+			"analysis",
+			"going-over",
+			"once-over"
+		],
+		"sents": [
+			"Before beginning his <b>audit</b> , the inspector will give the taxpayer an opportunity to make a full disclosure about any areas of the taxpayer's affairs that are not in order.",
+			"The university has completed an access <b>audit</b> of its facilities and will make improvements over the next three years."
+		]
+	}
+]
